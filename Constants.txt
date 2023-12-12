@@ -10,7 +10,7 @@ https://github.com/Avinassh2061/avinassh
 https://github.com/ajimal173/iptv
 https://github.com/Remokingboy/TLL
 
-https://prasanth-snk.github.io/youtube_m3u/youtube.m3u
+https://live-iptv.github.io/youtube_live/youtube.m3u
 
 
 https://github.com/iptv-org/iptv
