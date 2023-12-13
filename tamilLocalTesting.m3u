@@ -3,15 +3,29 @@
 
 #EXTM3U Testing
 
-#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 24×7 movies TV 
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TRUE 4K TAMIL MOVIES 
+http://itspkg.tk/167/play.php?tv=59950
+#EXTINF:-1 tvg-logo="" group-title="Movies", BIGG BOSS 24x7 (Tamil) 
+http://itspkg.tk/167/play.php?tv=58131
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 1 
+http://itspkg.tk/167/play.php?tv=45589
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 2 
+http://itspkg.tk/167/play.php?tv=45599
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 3 
+http://itspkg.tk/167/play.php?tv=45609
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 4 
+http://itspkg.tk/167/play.php?tv=45619
+#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 5 
+http://itspkg.tk/167/play.php?tv=45629
+#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 24×7 movies TV 
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019905&extension=ts&play_token=vEbCYQjngc
-#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 2
+#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 2
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019914&extension=ts&play_token=gxeFvMySVm
-#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 3
+#EXTINF:-1 tvg-logo="" group-title="TeMoviessting", Tamil premier 3
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019906&extension=ts&play_token=9HWFIFMXGF 
-#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 4
+#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 4
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019907&extension=ts&play_token=ns71BJPPra
-#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 5
+#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 5
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1024831&extension=ts&play_token=GfFKcgU1zZ 
 #EXTINF:-1 tvg-logo="" group-title="Share", Star share 1
 http://starshare.live:8080/live/7878/7878/242777.ts
@@ -35,6 +49,7 @@ http://starshare.live:8080/live/7878/7878/242783.ts
 http://starshare.live:8080/live/7878/7878/242784.ts
 #EXTINF:-1 tvg-logo="" group-title="Share", Star share 11
 http://starshare.live:8080/live/7878/7878/242785.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kzU4uEFBum4JjKpZ6" group-title="Testing", Asritha TV 
@@ -175,5 +190,38 @@ http://198.144.149.206:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/287a60fb-e35b-48b6-8919-9319f0b455e9.webp" group-title="Testing", MAX MOVIES
 https://galaxyott.live/hls/maxmovies.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-51-27-413.jpg" group-title="Testing", Jith TV
+https://s1.tamilstreams.in/7starnetwork/jithtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJi1YrSnkU3XcE0k1X08K1-_F17Tr6lGXYf4fCtpy8Q&s" group-title="Testing", Sentamizh TV
+https://s1.tamilstreams.in/7starnetwork/senthamizh/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-54-33-308.jpg" group-title="Testing", Kurinji TV
+https://s1.tamilstreams.in/7starnetwork/kurinji/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-50-39-199.jpg" group-title="Testing", Sarathi TV
+https://s1.tamilstreams.in/7starnetwork/sarathitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c2qlBbPZS_9Gp5YbUjITbrfJBE3d9fGWASaTVCJaus_F8yZwcIHUFLR9S3fHgd4Ia7s=s200" group-title="Testing", Sukra TV
+https://s1.tamilstreams.in/7starnetwork/sukratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhy6scaSqfQoaptKtX9ZflGq3yJkWkaj_GJigMpFaezA&s" group-title="Testing", Amma 7Star TV
+https://s1.tamilstreams.in/7starnetwork/ammatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRnr2-Zb7qRoZlNj0KcbJ9SSZRQv65JJfvhzz8g=s900-c-k-c0x00ffffff-no-rj" group-title="Testing", Abhigail TV
+https://s1.tamilstreams.in/7starnetwork/abhigail/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_13-09-24-558.jpg" group-title="Testing", Lemon TV
+https://s1.tamilstreams.in/7starnetwork/lemontv/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.yourstory.com/cs/images/companies/15960893573511-1666764089140.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" group-title="Testing", Saral TV
+https://s1.tamilstreams.in/7starnetwork/saral/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-34-44-678.jpg" group-title="Testing", Jith Karpagam TV
+https://s1.tamilstreams.in/7starnetwork/truetamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-34-44-678.jpg" group-title="Testing",Jithsakthi TV
+https://s1.tamilstreams.in/7starnetwork/jithsakthi/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-36-01-030.jpg" group-title="Testing", Jith Tamil TV
+https://s1.tamilstreams.in/7starnetwork/jithtamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-43-01-392.jpg" group-title="Testing", Vetri TV
+https://s1.tamilstreams.in/7starnetwork/vetritv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSL4baqX1Y-v5BlHXlSklIdDG2A-sjQ_3uEKyzeGg=s900-c-k-c0x00ffffff-no-rj" group-title="Testing",I TV
+https://s1.tamilstreams.in/7starnetwork/itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/04/images-1-5.png" group-title="Testing",Vaanavil TV
+https://s1.tamilstreams.in/7starnetwork/vaanaviltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-41-38-278.jpg" group-title="Testing",Run TV
+https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
+
 
 #Ending of playlist
