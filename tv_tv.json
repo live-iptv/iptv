@@ -23,11 +23,23 @@
 		},
 		{
 			"type": "Tamil Local",
-			"url": "https://live-iptv.github.io/iptv/tamilLocal.m3u"
+			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local.m3u"
+		},
+		{
+			"type": "Tamil Local HD",
+			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_hd.m3u"
+		},
+		{
+			"type": "Tamil Rasi",
+			"url": "https://live-iptv.github.io/iptv/tamil/tami_local_rasi.m3u"
+		},
+		{
+			"type": "Tamil Music",
+			"url": "https://live-iptv.github.io/iptv/tamil/tami_local_music.m3u"
 		},
 		{
 			"type": "Tamil Testing",
-			"url": "https://live-iptv.github.io/iptv/tamilLocalTesting.m3u"
+			"url": "https://live-iptv.github.io/iptv/tamil/tami_local_testing.m3u"
 		},
 		{
 			"type": "Tamil News",

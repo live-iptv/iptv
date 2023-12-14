@@ -1,0 +1,90 @@
+#EXTM3U
+
+
+#EXTM3U Exclusive to TLL music
+
+
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Music",Om Sakthi TV
+https://live1.sscloud7.com/hls/omsakthitv.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="Music",Sana Plus HD
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Music",RAM TV
+http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/ADAVAN-COLORS-TV.png?alt=media&token=dae83db2-8c13-4b33-8ae8-16ea0039eee1" group-title="Music",AADHAVAN Colours TV 
+https://ipcloud.live/adhavan/colours.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="Music",Southern Tamil TV
+https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/sri-arjun-tv-logo.png?alt=media&token=d14c52bd-9e70-4853-9088-339148aff340" group-title="Music",Sri Arjun TV
+https://1cloud.digital/sriarjuntv/sriarjun.m3u8
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/sri-arjun-digital-logo.png?alt=media&token=693741ee-8706-46a5-9b1f-73102f3305aa" group-title="Music",Sri Arjun Digital
+https://1cloud.digital/sriarjuntv/sriarjundigital.m3u8
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/vairava-logo.png?alt=media&token=75934d89-af3e-4ebf-b4f9-d66c1dd1c401" group-title="Music",Sri Vairava HD TV
+https://1cloud.digital/sriarjuntv/srivairavatv.m3u8
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/Sri-Bhagavan-Logo.png?alt=media&token=459bc300-3d3f-40f7-b5e8-4aab6c1a29af" group-title="Music",Sri Bhagavan TV
+https://1cloud.digital/sriarjuntv/sribhagavan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Music",SURIYA
+http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qVEsVAw6TIlz3fIJjcd5hmV7hsNKrNdhYcHshDrX7pc_Imxkj10RBFU0QF8sZQInDA=w240-h480-rw" group-title="Music",Dhoni TV  
+https://stream.sscloud7.com/dhonitv.m3u8
+#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/e5e900b3-355a-44ff-add6-2652e1860c03.webp" group-title="Music",U TV HD
+https://galaxyott.live/hls/utv.m3u8
+#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/b25d42b5-5b9e-42a5-8ee9-57b96090d3d7.webp" group-title="Music",SN TV
+https://galaxyott.live/hls/sntv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="Music",SACHIN MUSIC TV
+https://stream.sscloud7.com/sachinmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="Music",ISAI SARAL TV
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1597734373_sana.png" group-title="Music", Sana TV
+https://galaxyott.live/hls/sanatv.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="Music", S cloud TV
+http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Music", Aarthi TV
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo = "https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-51-27-413.jpg" group-title="Music",IZZATH TV
+https://stream.galaxyott.live/hls/izzathtv.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="Music",Sri Smart TV
+http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6hmKHy/ATN-MEDIA-TV.png" group-title="Music",ATN MEDIA TV
+http://indiamatrix.in:80/atn/atn.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191025-WA0009.jpg" group-title="Music",Boss TV
+http://198.144.149.206:8080/NOTV/BOSSTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/04/MARMUS.webp" group-title="Music", MN TV
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-logo = "http://nammaoorutv.com/dashboard/upicons/Final.png" group-title="Music",Nine star TV
+http://198.144.149.206:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="Music",Vmuisk TV
+https://server.iptelevision.in/hls/vmuisk.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="Music",Vanavil Plus TV
+https://rasi.iptelevision.in/hls/vanaviltv.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="Music",Sai TV
+https://sscloud7.com/hls/saitv.m3u8
+#EXTINF:-1 tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="Music",AUS TAMIL 
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png" group-title="Music",TAMILOLI TV
+https://account9.livebox.co.in/tamilolitvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="Music",KALAI ISAI 
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="Music", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" group-title="Music",VINAYAGA TV 
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="Music",LIVESAI Music TV
+https://live.sscloud7.com/hls/livesaitv.m3u8
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/EZxDa_u0zrBcd5DbpExFWvBeuY5S_th6nZFzsNpFOo7B_DgjHwWvx6egQjaM96tEzA=w240-h480-rw" group-title="Music",ARUL TV 
+http://live.notvstream.in/hls/arultv.m3u8
+#EXTINF:-1 tvg-logo="http://antv1.vaigaitv.com/livetv/images/live_icon.jpg" group-title="Music", Vaigai Music Chennai 
+http://vai.ddns.net:1935/vtvchn/chennai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="Music", Apple TV
+http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QXRHJKR/spice.jpg" group-title="Music",SPICE TV 
+https://iptelevision.in/spicetv.m3u8
+#EXTINF:-1 group-title="Music",JCV TV
+http://applelive.in/jctv/jctv.m3u8
+#EXTINF:-1 group-title="Music",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1 group-title="Music",D24 HINDI MUSIC 
+http://103.151.157.112:1935/manik/live/playlist.m3u8
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/2ppvNbcB5zhOh31R9dJvkbIB4LZX6NYg6MdRTZ92fnhJXXZNBEZ9j7wkisEh9wwKZwM=w240-h480-rw" group-title="Music", Bhakthi Tamil TV
+http://bmlive.net:8000/stream/bakthitamil/bms.m3u8?hls_ctx=29820e59
+
+

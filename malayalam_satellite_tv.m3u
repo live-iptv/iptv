@@ -12,6 +12,9 @@ https://singamcloud.in/skytv/skytv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
 http://live.singamcloud.in/nvision/nvision/index.m3u8
 
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/scv-kerala.jpeg?alt=media&token=7f9ccfeb-fd15-474b-94c6-2e6c5fc0a7d3" group-title="Local",SCV TV 
+https://ipcloud.live/scvtv/scv.m3u8
+
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"18XI50fGnmiqqpMDrdeQsg", "kid":"D/30m9ejVtqoVn2Xh7jqkQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="694" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png" ,Zee Keralam HD
