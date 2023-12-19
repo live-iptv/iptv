@@ -4,28 +4,28 @@
 #EXTM3U Exclusive to Tamil Live Links only ,not for sale or copy .
 
 #EXTM3U  Tamil Streams Rasi
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Rasi", Rasi TV
-https://s1.tamilstreams.in/rasinetwork/rasitv/index.mpd
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Rasi", Rasi TV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Rasi", Rasi Tamil
-https://s1.tamilstreams.in/rasinetwork/rasitamil/index.mpd
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Rasi",Rasi Movies
-https://s1.tamilstreams.in/rasinetwork/rasimovies/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fc/44/58/fc445871f6be3e437ddd42cc3ced7618.jpg" group-title="Rasi", Rasi comedy TV
-https://s1.tamilstreams.in/rasinetwork/rasicomedy/index.mpd
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="Rasi", Rasi comedy TV
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Rasi",Rasi Music
-https://s1.tamilstreams.in/rasinetwork/rasimusic/index.mpd
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Rasi", OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Rasi",Rasi Hollywood
-https://s1.tamilstreams.in/rasinetwork/rasihollywood/index.mpd
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="Rasi", One Hollywood HD
 rtmp://1cloud.digital:1935/onetv/onehollywood
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="Rasi",Rasi Classic
-https://s1.tamilstreams.in/rasinetwork/rasiclassic/index.mpd
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Rasi",Rasi Classic
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYjm3xuMXd8KyzknLzAqKwokjV4agAaQ4k6q4cc=s900-c-k-c0x00ffffff-no-rj" group-title="Rasi",Wathanam TV 
 https://s1.tamilstreams.in/live/wathanamtv/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="Rasi", Bala TV
-https://s1.tamilstreams.in/balatv/balatv/index.m3u8
+https://s1.tamilstreams.in/balatv/balatv/index.mpd
 
 
 
