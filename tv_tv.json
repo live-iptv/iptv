@@ -64,6 +64,10 @@
 		{
 			"type": "Testing",
 			"url": "https://live-iptv.github.io/iptv/testing.m3u"
+		},
+		{
+			"type": "x",
+			"url": "https://iptv-org.github.io/iptv/categories/xxx.m3u"
 		}
 	]
 }
