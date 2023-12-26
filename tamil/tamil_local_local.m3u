@@ -23,8 +23,6 @@ http://ipcloud.live:8080/starhd/starhd.m3u8
 http://ipcloud.live:8080/knrtv/knrmax.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fpkt-media.png?alt=media&token=65df4156-aefa-41e8-8616-6d7f6cbbb492" group-title="Local",PKT Media TV
 http://ipcloud.live:8080/pktmedia/pktmedia.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Faadhavan-tv.png?alt=media&token=c91d8301-5cb9-4c0d-9e48-07106bbf6295" group-title="Local",AAdhavan TV
-http://ipcloud.live:8080/aadhavantv/adhavanmdu.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FEAGLE-TV.png?alt=media&token=dd6aa4d4-c172-4612-90a0-c6e454ca7bd6" group-title="Local",Eagle2 TV
 https://ipcloud.live/eaglemedia/eagletv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03" group-title="Local",Sahara HD TV
@@ -127,6 +125,8 @@ rtmp://103.88.77.238:1936/jsp4k/jsp4k?psk=123456
 rtmp://1cloud.digital/vanavil/vanaviltv
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/NIVI-TV.jpeg?alt=media&token=3f9b80d9-50ad-4dc8-81e5-d35202b0623e" group-title="Local", Nivi TV
 https://cloudstreamer.site/nivi/nivichannel.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nC4Ep3fhQO0_JYYg0WxuLpGJX29bmtk6rans-MMEH2bNd-E3J-GRUrJpdxChIsXU2A=w240-h480-rw" group-title="Local",Bhadra TV
+http://ipcloud.live:8080/sdevtv/bhadratv.m3u8
 
 
 #EXTM3U Exclusive to SScloud7
@@ -160,10 +160,16 @@ http://server.sscloud7.in/aasaitv/aasaitv/index.m3u8
 
 #EXTM3U  Singamcloud Developer Channels
 
-#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/a8JtjzNYCLYRuIZQYN23O2lThPIbHsDJ71OSLjNZkkRqg5Ibt1x7SdjXOJr9LxTXP2jf=w480-h960-rw" group-title="Local",SK TV
-http://account14.livebox.co.in/SKTELEVISIONhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1679834277_Veeratv%20copy.png" group-title="Local", Veera TV
+http://live.singamcloud.in/veeratv/veeratv/index.m3u8
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/Jv0WXUzSEcd0z3-ntyVOKrhPJf4WrjpXrapPeH2Luql8iQOnMkTcaRz7kS4Ovw3XGGID=w240-h480-rw" group-title="Local",JHP TV 
+http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUHclE1WTUDOJz9sfDQHZ0cHI8F4elh6ZvF50t2rrEe9azcIWL61CXwjA5_FPW4Sbw=w240-h480-rw" group-title="Local",RR TV
 http://notvstream.in/rrtv/rrtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="Local",Vidiyal Tv
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8
+#EXTINF:-1 tvg-logo = "https://singamcloud.com/tv/upload/1679840897_IMG-20230325-WA0093.jpg" group-title="Local",KARTHI TV 
+http://live.singamcloud.in/karthitv/karthitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPjhvT7/vel-tv.png" group-title="Local" , VEL 4KTV 
 https://stream.we2live.in/veltv/veltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rOl7eS-X67ttQzx76kSwr-lhYxdin24DyS7un7oJR_UVQcApvRJRTlVMqh44XVc5hlcn=w480-h960-rw" group-title="Local", Tamil TV
@@ -172,6 +178,8 @@ http://198.144.149.206:8080/NOTV/TAMILTV/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/5REK-Rm9aqwcvIVUHGO6YPHG7En_EVAR5TclkgrFUl96Tl9F6E4gKrdNO9vBdZLtDfw=w240-h480-rw" group-title="Local",Suryan Apple Tv
 http://applelive.in/suryantv/suryantv.m3u8
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/a8JtjzNYCLYRuIZQYN23O2lThPIbHsDJ71OSLjNZkkRqg5Ibt1x7SdjXOJr9LxTXP2jf=w480-h960-rw" group-title="Local",SK TV
+http://account14.livebox.co.in/SKTELEVISIONhls/live.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/CGdqFzLDyIfOrncsLqUegaBSLoleu2DztBS5h4erKBcKtfukqyu7L-n0Csn-OrrXxw=w240-h480-rw" group-title="Local",Gmedia Apple Tv
 http://applelive.in/gmedia/gmedia.m3u8
 #EXTINF:-1 tvg-logo = "https://i.imgur.com/GfBPF5V.jpg" group-title="Local",Vasantham Apple Tv
@@ -180,10 +188,6 @@ http://web.applelive.in/hls/vasanthamtv.m3u8
 http://applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/8PzI0Tcua7gdhDxsvl5g_1SMBRl256E2cV0np2uDOg-xj86H7sO4fHwPo-a6uCD-Tcg=w240-h480-rw" group-title="Local",Trichy Mail Tv
 http://account29.livebox.co.in/MMediahls/live.m3u8
-#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/scv-kerala.jpeg?alt=media&token=7f9ccfeb-fd15-474b-94c6-2e6c5fc0a7d3" group-title="Local",SCV TV 
-https://ipcloud.live/scvtv/scv.m3u8
-#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/Jv0WXUzSEcd0z3-ntyVOKrhPJf4WrjpXrapPeH2Luql8iQOnMkTcaRz7kS4Ovw3XGGID=w240-h480-rw" group-title="Local",JHP TV 
-http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://i.imgur.com/piLKlyT.jpg" group-title="Local", Senthur TV (Alangulam)
 http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/R7uXSJQ-fSVfWwJSwK6R04xwEF38ahXZKZ5oGpwWYtaud99Z9VeFQH778vIFOT-q1g=w480-h960-rw" group-title="Local",SAR TV 
@@ -207,10 +211,6 @@ http://hdbox.singamcloud.in:1935/avaniganesantv/avaniganesantv/playlist.m3u8
 http://singamcloud.in/smstvtsy/smstvtsy/index.m3u8
 #EXTINF:-1 tvg-logo = "https://singamcloud.com/uploads/tv_image/sm/nila-tv.png" group-title="Local", Nila HD
 https://stream.singamcloud.in/nilatv/nilatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Local", AARYA TV
-https://galaxyott.live/hls/aaryatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="Local",Vidiyal Tv
-https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1 tvg-logo = "http://nammaoorutv.com/dashboard/upicons/IMG-20230731-WA0000 (1).jpg" group-title="Local", SCV TV
 http://103.147.60.4:1935/live/scvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "http://nammaoorutv.com/dashboard/upicons/IMG-20230104-WA0010.jpg" group-title="Local", UTV
@@ -227,8 +227,6 @@ https://hdserver.singamcloud.in/arammtv/arammtv/index.m3u8
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/p8a4yHTn_GCWO7DCZgEFu6RzMbdfZUcI3x_sywNmtmUd5X8q811Za7kbMMItqVq35hM=w240-h480-rw" group-title="Local",JR Malar TV
 https://stream.singamcloud.in/malartv/malartv/index.m3u8
-#EXTINF:-1 tvg-logo = "https://singamcloud.com/tv/upload/1679840897_IMG-20230325-WA0093.jpg" group-title="Local",KARTHI TV 
-http://live.singamcloud.in/karthitv/karthitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthenralTv.jpeg?alt=media&token=e129cba4-23a5-4cb8-9488-2378a7cc135b" " group-title="Local", Thendral TV 
 rtmp://live.singamcloud.in:1935/thenraltv/thenraltv
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1683879537_IMG_20230512_134728.jpg" group-title="Local", Senthamizh TV 
@@ -243,9 +241,8 @@ http://live.singamcloud.in/eesantv/eesantv/index.m3u8
 https://live.singamcloud.in/nvision/nvision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/htBP3b0.png" group-title="Local",VIP TV
 http://media.7starcloud.com:1935/harimedia/viptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PIpTf72smb41AtioYexT1peeoHoPp__WlJxei60Xyu_Co25YnKvJaREKgNQLKj_kCFE=w240-h480-rw" group-title="Local", Ragam TV
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1679834277_Veeratv%20copy.png" group-title="Local", Veera TV
-http://live.singamcloud.in/veeratv/veeratv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/JGTV.png?alt=media&token=f1b09301-6cd2-4b6b-ac37-157cbfff0fb7" group-title="Local",JG TV
 https://cloudstreamer.site/karnan/jgtv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/jeyam-tv.jpeg?alt=media&token=6099bce4-d7d9-422f-a8ea-9d298cd76b61" group-title="Local",Jeyam TV

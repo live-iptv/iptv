@@ -222,5 +222,7 @@ https://s1.tamilstreams.in/7starnetwork/itv/index.m3u8
 https://s1.tamilstreams.in/7starnetwork/vaanaviltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2023/07/Picsart_23-07-12_12-41-38-278.jpg" group-title="Testing",Run TV
 https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="Testing", Apple TV
+http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 
 #Ending of playlist
