@@ -1,6 +1,3 @@
-#EXTM3U
-
-
 #EXTM3U Exclusive to TLL music
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title="Music",R TV
@@ -15,7 +12,7 @@ https://ipcloud.live/adhavan/colours.m3u8
 http://ipcloud.live:8080/aadhavantv/adhavanmdu.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="Music",Sana Plus HD
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Music",RAM TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Music",RAM TV
 http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6hmKHy/ATN-MEDIA-TV.png" group-title="Music",ATN MEDIA TV
 http://indiamatrix.in:80/atn/atn.m3u8
@@ -23,18 +20,18 @@ http://indiamatrix.in:80/atn/atn.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="http://images.indialisted.com/nlarge/sls_channel_local_tv_1927817.jpg" group-title="Music",SLS TV  
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
 https://galaxyott.live/hls/aaryatv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="Music",Southern Tamil TV
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Music",SURIYA
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qVEsVAw6TIlz3fIJjcd5hmV7hsNKrNdhYcHshDrX7pc_Imxkj10RBFU0QF8sZQInDA=w240-h480-rw" group-title="Music",Dhoni TV  
-https://stream.sscloud7.com/dhonitv.m3u8
-#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/b25d42b5-5b9e-42a5-8ee9-57b96090d3d7.webp" group-title="Music",SN TV
+https://stream.sscloud7.com/hls/dhonitv.m3u8
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/b25d42b5-5b9e-42a5-8ee9-57b96090d3d7.webp" group-title="Music",SN TV
 https://galaxyott.live/hls/sntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="Music",SACHIN MUSIC TV
-https://stream.sscloud7.com/sachinmusic.m3u8
+https://stream.sscloud7.com/hls/sachinmusic.m3u8
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/32/b7/e44c4e6afc16c7d8fc16a1b3ef11-ycb.jpg" group-title="Music", Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="Music",Vmuisk TV
@@ -69,7 +66,7 @@ http://singamcloud.in/kalai/kalaiisai/index.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="Music",LIVESAI Music TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
-#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/e5e900b3-355a-44ff-add6-2652e1860c03.webp" group-title="Music",U TV HD
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/e5e900b3-355a-44ff-add6-2652e1860c03.webp" group-title="Music",U TV HD
 https://galaxyott.live/hls/utv.m3u8
 #EXTINF:-1 group-title="Music",D24 HINDI MUSIC 
 http://103.151.157.112:1935/manik/live/playlist.m3u8
@@ -91,5 +88,3 @@ http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 http://198.144.149.206:8080/NOTV/BOSSTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="Music",Sai TV
 https://sscloud7.com/hls/saitv.m3u8
-
-

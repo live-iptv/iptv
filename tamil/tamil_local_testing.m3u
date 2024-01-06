@@ -1,61 +1,7 @@
-#EXTM3U
-
-
-
 #EXTM3U Testing
-#EXTINF:-1 tvg-logo="" group-title="Movies", Rasi
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TRUE 4K TAMIL MOVIES 
 
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TRUE 4K TAMIL MOVIES 
-http://itspkg.tk/167/play.php?tv=59950
-#EXTINF:-1 tvg-logo="" group-title="Movies", BIGG BOSS 24x7 (Tamil) 
-http://itspkg.tk/167/play.php?tv=58131
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 1 
-http://itspkg.tk/167/play.php?tv=45589
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 2 
-http://itspkg.tk/167/play.php?tv=45599
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 3 
-http://itspkg.tk/167/play.php?tv=45609
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 4 
-http://itspkg.tk/167/play.php?tv=45619
-#EXTINF:-1 tvg-logo="" group-title="Movies", 24/7 | TAMIL MOVIES 5 
-http://itspkg.tk/167/play.php?tv=45629
-#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 24×7 movies TV 
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019905&extension=ts&play_token=vEbCYQjngc
-#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 2
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019914&extension=ts&play_token=gxeFvMySVm
-#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 3
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019906&extension=ts&play_token=9HWFIFMXGF 
-#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 4
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019907&extension=ts&play_token=ns71BJPPra
-#EXTINF:-1 tvg-logo="" group-title="Movies", Tamil premier 5
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1024831&extension=ts&play_token=GfFKcgU1zZ 
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 1
-http://starshare.live:8080/live/7878/7878/242777.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 2
-http://starshare.live:8080/live/7878/7878/121315.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 3
-http://starshare.live:8080/live/7878/7878/136398.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 4
-http://starshare.live:8080/live/7878/7878/242778.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 5
-http://starshare.live:8080/live/7878/7878/242779.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 6
-http://starshare.live:8080/live/7878/7878/242780.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 7
-http://starshare.live:8080/live/7878/7878/242781.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 8
-http://starshare.live:8080/live/7878/7878/242782.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 9
-http://starshare.live:8080/live/7878/7878/242783.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 10
-http://starshare.live:8080/live/7878/7878/242784.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies", Star share 11
-http://starshare.live:8080/live/7878/7878/242785.ts
-
-
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kzU4uEFBum4JjKpZ6" group-title="Testing", Asritha TV 
-http://applelive.in/asrithatv/asrithatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testing", Cineosai TV 
+rtmp://nazking.dscloud.me:1935/live/cineosai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="Testing",DCN TV
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OpxHflg4A7_D08_RP1wffBkFqDmmMhYj14tv1u4QNRXLkDJYBKBzW7oh4udSAGbliLq2=w240-h480-rw" group-title="Testing", MS Music TV
@@ -164,8 +110,6 @@ https://iptelevision.in/hls/nagaramtv.m3u8
 http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SfoNNI8K8tahQpvGrN5lwY2WAPTyvhj9_DmTFkOi_cwZYaT-Eb8k8qeljvk9VokK6m4A=w480-h960-rw" group-title="Testing",CHILLY MUSIC
 https://server1.iptelevision.in/hls/chilly.m3u8
-#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/Y4kvZGi-G2dOTb5Ro06PwyLme29-cVGTaH9Et-1exOP4pjhH8H5rntFUICrIc114juI=w240-h480-rw" group-title="Testing", AASAI TV Theni 
-http://live.singamcloud.in/aasaitv/aasaitv/index.m3u8
 #EXTINF:-1 group-title="Testing",ANU TV
 http://live.singamcloud.in:1935/anutv/anutv/chunklist_w2122543863.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Testing",Visaka TV  
@@ -224,5 +168,3 @@ https://s1.tamilstreams.in/7starnetwork/vaanaviltv/index.m3u8
 https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="Testing", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
-
-#Ending of playlist
