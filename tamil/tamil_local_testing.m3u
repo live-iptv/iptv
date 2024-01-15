@@ -60,8 +60,6 @@ http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:-1 group-title="Testing",SELFIE TV 
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 group-title="Testing",THENDRAL 
-https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:-1 group-title="Testing",M MUSIC 
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 group-title="Testing",SS TV 
@@ -168,3 +166,7 @@ https://s1.tamilstreams.in/7starnetwork/vaanaviltv/index.m3u8
 https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="Testing", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FBOWLIGA-TV.png?alt=media&token=eac37fa2-6865-4ba4-843d-21c1aba48f48" group-title="Testing",Bowliga TV
+https://ipcloud.live/deltatv/bowligahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPjhvT7/vel-tv.png" group-title="Testing" , VEL 4KTV 
+https://stream.we2live.in/veltv/veltv/playlist.m3u8

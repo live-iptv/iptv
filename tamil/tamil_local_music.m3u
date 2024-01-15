@@ -3,7 +3,13 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title="Music",R TV
 http://ipcloud.live:8080/rtv/rtvstream.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nOWYZnoQtw5Is-eb25fBfWMLoEOK_fEkwtFYYlK0ICLHelxG8JPHW05Gqnmh4Fzb1w=w240-h480-rw" group-title="Music",Boys TV
-http://ipcloud.live:8080/boystv/boystv.m3u8
+http://ipcloud.live:8080/boystv/boystvhd.m3u8
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
+https://galaxyott.live/hls/aaryatv.m3u8
+#EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2418ed18-dbe3-4025-a13e-d6cc6982bde6.webp" group-title="Music",THENDRAL TV
+https://server.iptelevisiontv.com/hls/thenral.m3u8
+#EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2be6fd1b-d26a-48f1-bb19-9f1d563b4a1f.webp" group-title="Music", UTV
+https://live.skystream.in/live/utv/index.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Music",Om Sakthi TV
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/ADAVAN-COLORS-TV.png?alt=media&token=dae83db2-8c13-4b33-8ae8-16ea0039eee1" group-title="Music",AADHAVAN Colours TV 
@@ -20,8 +26,6 @@ http://indiamatrix.in:80/atn/atn.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="http://images.indialisted.com/nlarge/sls_channel_local_tv_1927817.jpg" group-title="Music",SLS TV  
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
-https://galaxyott.live/hls/aaryatv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="Music",Southern Tamil TV
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Music",SURIYA
