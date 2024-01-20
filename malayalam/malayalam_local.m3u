@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/5vFt5z8/sky-music.png" group-title="Music",Sky music
+https://ipcloud.live/nvision/skymusic.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/RgDkXcj/N-VISION.png" group-title="Entertainment",N Vision
+https://ipcloud.live/nvision/nvisionhd.m3u8

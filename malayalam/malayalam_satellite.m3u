@@ -6,11 +6,11 @@ http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Undefined",Next TV Malabar
 https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Music",Sky music
-https://singamcloud.in/skytv/skytv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/5vFt5z8/sky-music.png" group-title="Music",Sky music
+https://ipcloud.live/nvision/skymusic.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
-http://live.singamcloud.in/nvision/nvision/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/RgDkXcj/N-VISION.png" group-title="Entertainment",N Vision
+https://ipcloud.live/nvision/nvisionhd.m3u8
 
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/scv-kerala.jpeg?alt=media&token=7f9ccfeb-fd15-474b-94c6-2e6c5fc0a7d3" group-title="Local",SCV TV 
 https://ipcloud.live/scvtv/scv.m3u8
