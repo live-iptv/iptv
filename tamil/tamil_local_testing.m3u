@@ -168,5 +168,5 @@ https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FBOWLIGA-TV.png?alt=media&token=eac37fa2-6865-4ba4-843d-21c1aba48f48" group-title="Testing",Bowliga TV
 https://ipcloud.live/deltatv/bowligahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dPjhvT7/vel-tv.png" group-title="Testing" , VEL 4KTV 
-https://stream.we2live.in/veltv/veltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y-pFUyQeeRsrbarchrvmS-0I4PDeRseeiVmFyHCNr1Zk0G7903fX2RF3D-PZvgEK6e4=w240-h480-rw" group-title="Testing",Rio Max TV
+https://server.sscloud7.in/riotv/riotv/index.m3u8
