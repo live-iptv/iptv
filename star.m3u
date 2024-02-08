@@ -58,7 +58,3 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manife
 #license-key={ "keys":[ { "kty":"oct", "k":"9GxE+208VcWZ9exrMwWHnA", "kid":"RV1TPWnzXDWqCFPmISvC5w" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="693" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" ,Eurosport
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Fashion",Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
