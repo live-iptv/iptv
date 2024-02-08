@@ -2,16 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title="Music",R TV
 http://ipcloud.live:8080/rtv/rtvstream.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nOWYZnoQtw5Is-eb25fBfWMLoEOK_fEkwtFYYlK0ICLHelxG8JPHW05Gqnmh4Fzb1w=w240-h480-rw" group-title="Music",Boys TV
-http://ipcloud.live:8080/boystv/boystvhd.m3u8
-#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
-https://galaxyott.live/hls/aaryatv.m3u8
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Music",Om Sakthi TV
+https://live1.sscloud7.com/hls/omsakthitv.m3u8
 #EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2418ed18-dbe3-4025-a13e-d6cc6982bde6.webp" group-title="Music",THENDRAL TV
 https://server.iptelevisiontv.com/hls/thenral.m3u8
 #EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2be6fd1b-d26a-48f1-bb19-9f1d563b4a1f.webp" group-title="Music", UTV
 https://live.skystream.in/live/utv/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Music",Om Sakthi TV
-https://live1.sscloud7.com/hls/omsakthitv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/ADAVAN-COLORS-TV.png?alt=media&token=dae83db2-8c13-4b33-8ae8-16ea0039eee1" group-title="Music",AADHAVAN Colours TV 
 https://ipcloud.live/adhavan/colours.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Faadhavan-tv.png?alt=media&token=c91d8301-5cb9-4c0d-9e48-07106bbf6295" group-title="Music",AAdhavan TV
@@ -32,8 +28,6 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qVEsVAw6TIlz3fIJjcd5hmV7hsNKrNdhYcHshDrX7pc_Imxkj10RBFU0QF8sZQInDA=w240-h480-rw" group-title="Music",Dhoni TV  
 https://stream.sscloud7.com/hls/dhonitv.m3u8
-#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/b25d42b5-5b9e-42a5-8ee9-57b96090d3d7.webp" group-title="Music",SN TV
-https://galaxyott.live/hls/sntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="Music",SACHIN MUSIC TV
 https://stream.sscloud7.com/hls/sachinmusic.m3u8
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/32/b7/e44c4e6afc16c7d8fc16a1b3ef11-ycb.jpg" group-title="Music", Sana TV
@@ -92,3 +86,9 @@ http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 http://198.144.149.206:8080/NOTV/BOSSTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="Music",Sai TV
 https://sscloud7.com/hls/saitv.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nOWYZnoQtw5Is-eb25fBfWMLoEOK_fEkwtFYYlK0ICLHelxG8JPHW05Gqnmh4Fzb1w=w240-h480-rw" group-title="Music",Boys TV
+http://ipcloud.live:8080/boystv/boystvhd.m3u8
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="Music", AARYA TV
+https://galaxyott.live/hls/aaryatv.m3u8
+#EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/b25d42b5-5b9e-42a5-8ee9-57b96090d3d7.webp" group-title="Music",SN TV
+https://galaxyott.live/hls/sntv.m3u8
