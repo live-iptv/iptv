@@ -170,3 +170,11 @@ http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 https://ipcloud.live/deltatv/bowligahd.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y-pFUyQeeRsrbarchrvmS-0I4PDeRseeiVmFyHCNr1Zk0G7903fX2RF3D-PZvgEK6e4=w240-h480-rw" group-title="Testing",Rio Max TV
 https://server.sscloud7.in/riotv/riotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYjm3xuMXd8KyzknLzAqKwokjV4agAaQ4k6q4cc=s900-c-k-c0x00ffffff-no-rj" group-title="Testing",Wathanam TV 
+https://s1.tamilstreams.in/live/wathanamtv/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="Testing", Bala TV
+https://s1.tamilstreams.in/balatv/balatv/index.mpd
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A2gQi_evxC7Xzey7rC0NtqiubYb4e-f_VLkbrXwuI9yHG7mefubwg3DK228na6gU-A=w480-h960-rw" group-title="Testing" , RJTamil 
+https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
+
+#Ending of playlist

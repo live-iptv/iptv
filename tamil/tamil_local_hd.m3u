@@ -34,8 +34,6 @@ http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
 https://account26.livebox.co.in/kinghls/live.m3u8
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/WhatsApp%20Image%202023-05-12%20at%2001.54.19.jpg" group-title="Local HD", Vision TV Kanchi
 http://198.144.149.206:8080/NOTV/VISIONTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/iworldtv 2_00416.png" group-title="Local HD", Iworld Kanchi TV
-http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20230104-WA0010.jpg" group-title="Local HD", U TV
 https://eagle.iptelevision.in/hls/utvcbe.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="Local HD", Kalai Cinema Tv
@@ -67,8 +65,6 @@ http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 http://ttv.7starcloud.com:1935/pop/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qwwpNibuwIwq2rLoCDX4fPy6B6Mwa-oc_OJZRMCpJVGkDpN1T5DQw6CsXcYQbGHIZrw=w240-h480-rw" group-title="Local HD", Jayam Namakal TV
 http://ttv.7starcloud.com:1935/jayam/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8M4FJyEL7aMbH3bIsDmyc6zaU_lO9EAhJFzRSo5mQ3LHosrpjLVgSnMuoDEr9hjk4KQP=w240-h480-rw" group-title="Local HD",TTV kanchi TV
-http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Cp0WGHWp_VQ7YAHmd6nhrw7smFDYGc34cy-4P1GtoEDQVXSyyvZX1QgoLO_n1_Gzr09s=w240-h480-rw" group-title="Local HD",Sharvesh 7 StarTV  
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/317e7895-209d-4749-9c37-6a073c0a9bc7.webp" group-title="Local HD", CSK TV
@@ -111,8 +107,6 @@ http://ss.7starcloud.com:1935/live/deepam/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/aadhitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png" group-title="Local HD", Anuman TV
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zxBJ272qbvEnSMvf6wwvQHNSDj-xqEHiDPX9pAqLeROJ5sxSv285l-NFFoPPMxr8s1Rj=w480-h960-rw" group-title="Local HD", Silversat Pondy TV
-https://tgn.bozztv.com/ssh101/ssh101/silversatmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zxBJ272qbvEnSMvf6wwvQHNSDj-xqEHiDPX9pAqLeROJ5sxSv285l-NFFoPPMxr8s1Rj=w480-h960-rw" group-title="Local HD", Silversat MaxMedia TV
 https://tgn.bozztv.com/ssh101/ssh101/silversat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZwLLZvlCycg-kKXJt_B_vuLW_0l4RtE0idDYt7qur77GGwawnhrTkf5oNj6aA9qogg=w480-h960-rw" group-title="Local HD", BlueSky TV
@@ -129,8 +123,8 @@ http://live.applelive.in/prtv/prtv.m3u8
 https://iptelevision.in/hls/nsktv.m3u8
 #EXTINF:-1 group-title="Local HD",SRI TV 
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm4hwZ6/sun-smart.png" group-title="Local HD", SMART TV 
-https://server.iptelevision.in/hls/sunsmart.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm4hwZ6/sun-smart.png" group-title="Local HD",Sun SMART TV 
+rtmp://ssmart.iptv.pics/live/smart
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/I00x4xOOCxHw-nEcDBMndg-irC6wImgGySzt45Kcoa1y3mTPusVZhMV5oS1vFZRNBZM=w240-h480-rw" group-title="Local HD", TAMIL PLUS 
 http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVqrY75/KUMARI-tv.png" group-title="Local HD", KUMARI TV 
@@ -159,8 +153,6 @@ http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/KANCHIKALANJEYAM/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (13).png" group-title="Local HD",Kanchi TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.FOA1lPQnKwUgGOmiywvo1gHaHa&pid=Api&P=0&h=180" group-title="Local HD",KanchiMedia TV
-http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Local HD",MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7QP5n/RCN-tv.png" group-title="Local HD",RCN TV

@@ -1,13 +1,14 @@
 #EXTM3U Exclusive to TLL music
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title="Music",R TV
-http://ipcloud.live:8080/rtv/rtvstream.m3u8
+
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Music",Om Sakthi TV
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
 #EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2418ed18-dbe3-4025-a13e-d6cc6982bde6.webp" group-title="Music",THENDRAL TV
 https://server.iptelevisiontv.com/hls/thenral.m3u8
 #EXTINF:-1 tvg-logo = "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/2be6fd1b-d26a-48f1-bb19-9f1d563b4a1f.webp" group-title="Music", UTV
 https://live.skystream.in/live/utv/index.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Black and White Monogram Business Logo-PhotoRoom.png-PhotoRoom.png" group-title="Music",MICKI TV
+http://198.144.149.206:8080/NOTV/MICKITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/ADAVAN-COLORS-TV.png?alt=media&token=dae83db2-8c13-4b33-8ae8-16ea0039eee1" group-title="Music",AADHAVAN Colours TV 
 https://ipcloud.live/adhavan/colours.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Faadhavan-tv.png?alt=media&token=c91d8301-5cb9-4c0d-9e48-07106bbf6295" group-title="Music",AAdhavan TV
@@ -16,6 +17,8 @@ http://ipcloud.live:8080/aadhavantv/adhavanmdu.m3u8
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Music",RAM TV
 http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title="Music",R TV
+http://ipcloud.live:8080/rtv/rtvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6hmKHy/ATN-MEDIA-TV.png" group-title="Music",ATN MEDIA TV
 http://indiamatrix.in:80/atn/atn.m3u8
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/18/60/80/240_F_418608085_sDrdzUAqnnFhcxYrxpw9cM3In9RP6Oap.jpg" group-title="Music", MN TV
@@ -39,7 +42,7 @@ http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w240-h480-rw" group-title="Music", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/EZxDa_u0zrBcd5DbpExFWvBeuY5S_th6nZFzsNpFOo7B_DgjHwWvx6egQjaM96tEzA=w240-h480-rw" group-title="Music",ARUL TV 
-http://live.notvstream.in/hls/arultv.m3u8
+rtmp://live.notvstream.in:1935/stream/arultv
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/ba1a13da-5cc3-417e-9908-570e425c035f/3219787065/vaigai-tv-ail-logo" group-title="Music", Vaigai Music Chennai 
 http://vai.ddns.net:1935/vtvchn/chennai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QVO_t78aErMkqR5gygKlJaf7axh6--NFfeBdaaI9hcbWaJsYFbmLTlfU538pd4En7SA=w526-h296-rw" group-title="Music", Aarthi TV

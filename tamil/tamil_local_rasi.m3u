@@ -22,7 +22,3 @@ http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 rtmp://1cloud.digital:1935/onetv/onehollywood
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Rasi",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYjm3xuMXd8KyzknLzAqKwokjV4agAaQ4k6q4cc=s900-c-k-c0x00ffffff-no-rj" group-title="Rasi",Wathanam TV 
-https://s1.tamilstreams.in/live/wathanamtv/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="Rasi", Bala TV
-https://s1.tamilstreams.in/balatv/balatv/index.mpd
