@@ -556,7 +556,7 @@ http://starshare.live:8080/series/salam/salam/19829.mkv
 http://starshare.live:8080/series/salam/salam/19830.mkv
 #EXTINF:-1 tvg-id="Yeh Meri Family S01 E01" tvg-logo="http://starshare.live:8080/images/d1aa9f9642e1db520f8b14075a65013a.jpg" group-title="NETFLIX", Yeh Meri Family S01 E01
 http://starshare.live:8080/series/salam/salam/19847.mp4
-#EXTINF:-1 tvg-id="Trinkets S01 E01" tvg-logo="http://starshare.live:8080/images/901519e4096ddd5e53948747d1a4218c.jpg" group-title="NETFLIX", Trinkets S01 E01
+#EXTINF:-1 tvg-id="Trinkets S01 E01" tvg-logo="http://starshare.live:8080/images/901519e4096ddd5e53948747d1a4218c.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E01
 http://starshare.live:8080/series/salam/salam/19850.mp4
 #EXTINF:-1 tvg-id="Selection Day S01 E01" tvg-logo="http://starshare.live:8080/images/ec45077f8d5cd85fce40fc5f1ee4ca49.jpg" group-title="NETFLIX", Selection Day S01 E01
 http://starshare.live:8080/series/salam/salam/19853.mp4
@@ -1870,37 +1870,37 @@ http://starshare.live:8080/series/salam/salam/65801.mp4
 http://starshare.live:8080/series/salam/salam/65802.mp4
 #EXTINF:-1 tvg-id="Start-Up S03 E10" tvg-logo="http://starshare.live:8080/images/82c4b6cee69f57276a4617b0e5e884fb.jpg" group-title="NETFLIX Start-Up", Start-Up S03 E10
 http://starshare.live:8080/series/salam/salam/65803.mp4
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E01" tvg-logo="http://starshare.live:8080/images/ceede1bd66db68b96b0408061a6d993a.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E01
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E01" tvg-logo="http://starshare.live:8080/images/ceede1bd66db68b96b0408061a6d993a.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E01
 http://starshare.live:8080/series/salam/salam/31546.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E02" tvg-logo="http://starshare.live:8080/images/6036e015db66c765549cd04233f54880.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E02
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E02" tvg-logo="http://starshare.live:8080/images/6036e015db66c765549cd04233f54880.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E02
 http://starshare.live:8080/series/salam/salam/31547.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E03" tvg-logo="http://starshare.live:8080/images/2859d32b195097698f3467678dff6e89.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E03
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E03" tvg-logo="http://starshare.live:8080/images/2859d32b195097698f3467678dff6e89.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E03
 http://starshare.live:8080/series/salam/salam/31548.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E04" tvg-logo="http://starshare.live:8080/images/99900611603ebcdf69f84756d033d720.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E04
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E04" tvg-logo="http://starshare.live:8080/images/99900611603ebcdf69f84756d033d720.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E04
 http://starshare.live:8080/series/salam/salam/31549.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E05" tvg-logo="http://starshare.live:8080/images/bb67058cc447d2a7ec544d0a71c6821f.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E05
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E05" tvg-logo="http://starshare.live:8080/images/bb67058cc447d2a7ec544d0a71c6821f.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E05
 http://starshare.live:8080/series/salam/salam/31550.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E06" tvg-logo="http://starshare.live:8080/images/bbe84b35db90971255908e880c59ede5.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E06
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E06" tvg-logo="http://starshare.live:8080/images/bbe84b35db90971255908e880c59ede5.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E06
 http://starshare.live:8080/series/salam/salam/31551.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E07" tvg-logo="http://starshare.live:8080/images/34346826ae2e94dc25ff3e868129796b.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E07
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E07" tvg-logo="http://starshare.live:8080/images/34346826ae2e94dc25ff3e868129796b.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E07
 http://starshare.live:8080/series/salam/salam/31552.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E08" tvg-logo="http://starshare.live:8080/images/5daf399f1d8021bbb54a33abf1ceaf0b.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E08
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E08" tvg-logo="http://starshare.live:8080/images/5daf399f1d8021bbb54a33abf1ceaf0b.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E08
 http://starshare.live:8080/series/salam/salam/31553.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E09" tvg-logo="http://starshare.live:8080/images/aa7f6fcf1fe5d7c13bf1c4b2018bdb17.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E09
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E09" tvg-logo="http://starshare.live:8080/images/aa7f6fcf1fe5d7c13bf1c4b2018bdb17.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E09
 http://starshare.live:8080/series/salam/salam/31554.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E10" tvg-logo="http://starshare.live:8080/images/60ea0e9fa461a07c99544e6879069178.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E10
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E10" tvg-logo="http://starshare.live:8080/images/60ea0e9fa461a07c99544e6879069178.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E10
 http://starshare.live:8080/series/salam/salam/31555.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E11" tvg-logo="http://starshare.live:8080/images/e44fc739b8b63b28696cee9e7f889d54.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E11
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E11" tvg-logo="http://starshare.live:8080/images/e44fc739b8b63b28696cee9e7f889d54.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E11
 http://starshare.live:8080/series/salam/salam/31556.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E12" tvg-logo="http://starshare.live:8080/images/3f65f9830e54d36f5fb703452dcc92e7.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E12
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E12" tvg-logo="http://starshare.live:8080/images/3f65f9830e54d36f5fb703452dcc92e7.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E12
 http://starshare.live:8080/series/salam/salam/31557.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E13" tvg-logo="http://starshare.live:8080/images/803438306b5107889125e61a25184778.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E13
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E13" tvg-logo="http://starshare.live:8080/images/803438306b5107889125e61a25184778.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E13
 http://starshare.live:8080/series/salam/salam/31558.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E14" tvg-logo="http://starshare.live:8080/images/4ec5cd5066823b3e4cdff429484da093.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E14
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E14" tvg-logo="http://starshare.live:8080/images/4ec5cd5066823b3e4cdff429484da093.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E14
 http://starshare.live:8080/series/salam/salam/31559.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E15" tvg-logo="http://starshare.live:8080/images/2c535134491e8dee4d0dbf14fcdbe784.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E15
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E15" tvg-logo="http://starshare.live:8080/images/2c535134491e8dee4d0dbf14fcdbe784.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E15
 http://starshare.live:8080/series/salam/salam/31560.mkv
-#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E16" tvg-logo="http://starshare.live:8080/images/4a129eca3a3836156be1b59f0a917a0b.jpg" group-title="NETFLIX", It's Okay to Not Be Okay S01 E16
+#EXTINF:-1 tvg-id="It's Okay to Not Be Okay S01 E16" tvg-logo="http://starshare.live:8080/images/4a129eca3a3836156be1b59f0a917a0b.jpg" group-title="NETFLIX It's Okay to Not Be Okay", It's Okay to Not Be Okay S01 E16
 http://starshare.live:8080/series/salam/salam/31561.mkv
 #EXTINF:-1 tvg-id="Kingdom S01 E01" tvg-logo="http://starshare.live:8080/images/4e74fe96e9634a7153f5aa551a7b46fd.jpg" group-title="NETFLIX Kingdom", Kingdom S01 E01
 http://starshare.live:8080/series/salam/salam/31945.mkv
@@ -6424,639 +6424,639 @@ http://starshare.live:8080/series/salam/salam/47337.mkv
 http://starshare.live:8080/series/salam/salam/47338.mkv
 #EXTINF:-1 tvg-id="Hemlock Grove S03 E10" tvg-logo="http://starshare.live:8080/images/4bc7229be1f0719a4c39e3fd0ea91a7d.jpg" group-title="NETFLIX Hemlock Grove", Hemlock Grove S03 E10
 http://starshare.live:8080/series/salam/salam/47339.mkv
-#EXTINF:-1 tvg-id="My Name S01 E01" tvg-logo="http://starshare.live:8080/images/0d05ab0cef8d51e5fa56ace549522918.jpg" group-title="NETFLIX", My Name S01 E01
+#EXTINF:-1 tvg-id="My Name S01 E01" tvg-logo="http://starshare.live:8080/images/0d05ab0cef8d51e5fa56ace549522918.jpg" group-title="NETFLIX My Name", My Name S01 E01
 http://starshare.live:8080/series/salam/salam/47629.mkv
-#EXTINF:-1 tvg-id="My Name S01 E02" tvg-logo="http://starshare.live:8080/images/d694e273c7878694f4337ff182115e6d.jpg" group-title="NETFLIX", My Name S01 E02
+#EXTINF:-1 tvg-id="My Name S01 E02" tvg-logo="http://starshare.live:8080/images/d694e273c7878694f4337ff182115e6d.jpg" group-title="NETFLIX My Name", My Name S01 E02
 http://starshare.live:8080/series/salam/salam/47630.mkv
-#EXTINF:-1 tvg-id="My Name S01 E03" tvg-logo="http://starshare.live:8080/images/fea8ee26e80b0fc82d2f89fc7b657c16.jpg" group-title="NETFLIX", My Name S01 E03
+#EXTINF:-1 tvg-id="My Name S01 E03" tvg-logo="http://starshare.live:8080/images/fea8ee26e80b0fc82d2f89fc7b657c16.jpg" group-title="NETFLIX My Name", My Name S01 E03
 http://starshare.live:8080/series/salam/salam/47631.mkv
-#EXTINF:-1 tvg-id="My Name S01 E04" tvg-logo="http://starshare.live:8080/images/222294a2222a2e73f5791e5c7cc0656a.jpg" group-title="NETFLIX", My Name S01 E04
+#EXTINF:-1 tvg-id="My Name S01 E04" tvg-logo="http://starshare.live:8080/images/222294a2222a2e73f5791e5c7cc0656a.jpg" group-title="NETFLIX My Name", My Name S01 E04
 http://starshare.live:8080/series/salam/salam/47632.mkv
-#EXTINF:-1 tvg-id="My Name S01 E05" tvg-logo="http://starshare.live:8080/images/c74cccf56d7715dcb10d617b841eac4d.jpg" group-title="NETFLIX", My Name S01 E05
+#EXTINF:-1 tvg-id="My Name S01 E05" tvg-logo="http://starshare.live:8080/images/c74cccf56d7715dcb10d617b841eac4d.jpg" group-title="NETFLIX My Name", My Name S01 E05
 http://starshare.live:8080/series/salam/salam/47633.mkv
-#EXTINF:-1 tvg-id="My Name S01 E06" tvg-logo="http://starshare.live:8080/images/9f43e48a3196882959102f5df01f4cf2.jpg" group-title="NETFLIX", My Name S01 E06
+#EXTINF:-1 tvg-id="My Name S01 E06" tvg-logo="http://starshare.live:8080/images/9f43e48a3196882959102f5df01f4cf2.jpg" group-title="NETFLIX My Name", My Name S01 E06
 http://starshare.live:8080/series/salam/salam/47634.mkv
-#EXTINF:-1 tvg-id="My Name S01 E07" tvg-logo="http://starshare.live:8080/images/ffe823511c105e7afbaa775c2cfb465f.jpg" group-title="NETFLIX", My Name S01 E07
+#EXTINF:-1 tvg-id="My Name S01 E07" tvg-logo="http://starshare.live:8080/images/ffe823511c105e7afbaa775c2cfb465f.jpg" group-title="NETFLIX My Name", My Name S01 E07
 http://starshare.live:8080/series/salam/salam/47635.mkv
-#EXTINF:-1 tvg-id="My Name S01 E08" tvg-logo="http://starshare.live:8080/images/9713878647cd55a1d4659a0bf808193d.jpg" group-title="NETFLIX", My Name S01 E08
+#EXTINF:-1 tvg-id="My Name S01 E08" tvg-logo="http://starshare.live:8080/images/9713878647cd55a1d4659a0bf808193d.jpg" group-title="NETFLIX My Name", My Name S01 E08
 http://starshare.live:8080/series/salam/salam/47636.mkv
-#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E01" tvg-logo="http://starshare.live:8080/images/5f2e142954d3c12fe821ccb1e6278dba.jpg" group-title="NETFLIX", House of Secrets: The Burari Deaths S01 E01
+#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E01" tvg-logo="http://starshare.live:8080/images/5f2e142954d3c12fe821ccb1e6278dba.jpg" group-title="NETFLIX House of Secrets: The Burari Deaths", House of Secrets: The Burari Deaths S01 E01
 http://starshare.live:8080/series/salam/salam/47881.mkv
-#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E02" tvg-logo="http://starshare.live:8080/images/d5226feb47921177d4a6a6f9e9c15b94.jpg" group-title="NETFLIX", House of Secrets: The Burari Deaths S01 E02
+#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E02" tvg-logo="http://starshare.live:8080/images/d5226feb47921177d4a6a6f9e9c15b94.jpg" group-title="NETFLIX House of Secrets: The Burari Deaths", House of Secrets: The Burari Deaths S01 E02
 http://starshare.live:8080/series/salam/salam/47882.mkv
-#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E03" tvg-logo="http://starshare.live:8080/images/d6476e9d9c52c4b6e33e3742b8e05c3b.jpg" group-title="NETFLIX", House of Secrets: The Burari Deaths S01 E03
+#EXTINF:-1 tvg-id="House of Secrets: The Burari Deaths S01 E03" tvg-logo="http://starshare.live:8080/images/d6476e9d9c52c4b6e33e3742b8e05c3b.jpg" group-title="NETFLIX House of Secrets: The Burari Deaths", House of Secrets: The Burari Deaths S01 E03
 http://starshare.live:8080/series/salam/salam/47883.mkv
-#EXTINF:-1 tvg-id="Knightfall S01 E01" tvg-logo="http://starshare.live:8080/images/f4628342a6ddac9003b365634f87cde9.jpg" group-title="NETFLIX", Knightfall S01 E01
+#EXTINF:-1 tvg-id="Knightfall S01 E01" tvg-logo="http://starshare.live:8080/images/f4628342a6ddac9003b365634f87cde9.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E01
 http://starshare.live:8080/series/salam/salam/47892.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E02" tvg-logo="http://starshare.live:8080/images/6f4656057fcbb6531e23a49e6e9f3fad.jpg" group-title="NETFLIX", Knightfall S01 E02
+#EXTINF:-1 tvg-id="Knightfall S01 E02" tvg-logo="http://starshare.live:8080/images/6f4656057fcbb6531e23a49e6e9f3fad.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E02
 http://starshare.live:8080/series/salam/salam/47893.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E03" tvg-logo="http://starshare.live:8080/images/bc20a406c55dedb032c35b205b9d3252.jpg" group-title="NETFLIX", Knightfall S01 E03
+#EXTINF:-1 tvg-id="Knightfall S01 E03" tvg-logo="http://starshare.live:8080/images/bc20a406c55dedb032c35b205b9d3252.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E03
 http://starshare.live:8080/series/salam/salam/47894.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E04" tvg-logo="http://starshare.live:8080/images/dbfe7babcaf4dadd1648c527830585b2.jpg" group-title="NETFLIX", Knightfall S01 E04
+#EXTINF:-1 tvg-id="Knightfall S01 E04" tvg-logo="http://starshare.live:8080/images/dbfe7babcaf4dadd1648c527830585b2.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E04
 http://starshare.live:8080/series/salam/salam/47895.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E05" tvg-logo="http://starshare.live:8080/images/c10ec00d1788d66e1c9d325e2d7f2f47.jpg" group-title="NETFLIX", Knightfall S01 E05
+#EXTINF:-1 tvg-id="Knightfall S01 E05" tvg-logo="http://starshare.live:8080/images/c10ec00d1788d66e1c9d325e2d7f2f47.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E05
 http://starshare.live:8080/series/salam/salam/47896.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E06" tvg-logo="http://starshare.live:8080/images/4de2801610e96262a5479f5eb87d7626.jpg" group-title="NETFLIX", Knightfall S01 E06
+#EXTINF:-1 tvg-id="Knightfall S01 E06" tvg-logo="http://starshare.live:8080/images/4de2801610e96262a5479f5eb87d7626.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E06
 http://starshare.live:8080/series/salam/salam/47897.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E07" tvg-logo="http://starshare.live:8080/images/c85eedf267e1ae139c578ba00c4c0983.jpg" group-title="NETFLIX", Knightfall S01 E07
+#EXTINF:-1 tvg-id="Knightfall S01 E07" tvg-logo="http://starshare.live:8080/images/c85eedf267e1ae139c578ba00c4c0983.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E07
 http://starshare.live:8080/series/salam/salam/47898.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E08" tvg-logo="http://starshare.live:8080/images/0a5cb57067d33e3d7b2880a63866c661.jpg" group-title="NETFLIX", Knightfall S01 E08
+#EXTINF:-1 tvg-id="Knightfall S01 E08" tvg-logo="http://starshare.live:8080/images/0a5cb57067d33e3d7b2880a63866c661.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E08
 http://starshare.live:8080/series/salam/salam/47899.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E09" tvg-logo="http://starshare.live:8080/images/e1f082efebe38b0a2eecae815853d1cf.jpg" group-title="NETFLIX", Knightfall S01 E09
+#EXTINF:-1 tvg-id="Knightfall S01 E09" tvg-logo="http://starshare.live:8080/images/e1f082efebe38b0a2eecae815853d1cf.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E09
 http://starshare.live:8080/series/salam/salam/47900.avi
-#EXTINF:-1 tvg-id="Knightfall S01 E10" tvg-logo="http://starshare.live:8080/images/64fb29870036d88fc633e58141b40547.jpg" group-title="NETFLIX", Knightfall S01 E10
+#EXTINF:-1 tvg-id="Knightfall S01 E10" tvg-logo="http://starshare.live:8080/images/64fb29870036d88fc633e58141b40547.jpg" group-title="NETFLIX Knightfall", Knightfall S01 E10
 http://starshare.live:8080/series/salam/salam/47901.avi
-#EXTINF:-1 tvg-id="Knightfall S02 E01" tvg-logo="http://starshare.live:8080/images/3cb6db3ff66e860ceed86a17f2d78d5b.jpg" group-title="NETFLIX", Knightfall S02 E01
+#EXTINF:-1 tvg-id="Knightfall S02 E01" tvg-logo="http://starshare.live:8080/images/3cb6db3ff66e860ceed86a17f2d78d5b.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E01
 http://starshare.live:8080/series/salam/salam/47902.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E02" tvg-logo="http://starshare.live:8080/images/53f171a3396271d2163ebd7c38c1ea31.jpg" group-title="NETFLIX", Knightfall S02 E02
+#EXTINF:-1 tvg-id="Knightfall S02 E02" tvg-logo="http://starshare.live:8080/images/53f171a3396271d2163ebd7c38c1ea31.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E02
 http://starshare.live:8080/series/salam/salam/47903.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E03" tvg-logo="http://starshare.live:8080/images/3e921bee6f53dab9c81609848b8f0ae6.jpg" group-title="NETFLIX", Knightfall S02 E03
+#EXTINF:-1 tvg-id="Knightfall S02 E03" tvg-logo="http://starshare.live:8080/images/3e921bee6f53dab9c81609848b8f0ae6.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E03
 http://starshare.live:8080/series/salam/salam/47904.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E04" tvg-logo="http://starshare.live:8080/images/80de043a4317ad6ca9f1848712b46005.jpg" group-title="NETFLIX", Knightfall S02 E04
+#EXTINF:-1 tvg-id="Knightfall S02 E04" tvg-logo="http://starshare.live:8080/images/80de043a4317ad6ca9f1848712b46005.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E04
 http://starshare.live:8080/series/salam/salam/47905.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E05" tvg-logo="http://starshare.live:8080/images/94036cd3de2ceca58895f249bf3612cf.jpg" group-title="NETFLIX", Knightfall S02 E05
+#EXTINF:-1 tvg-id="Knightfall S02 E05" tvg-logo="http://starshare.live:8080/images/94036cd3de2ceca58895f249bf3612cf.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E05
 http://starshare.live:8080/series/salam/salam/47906.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E06" tvg-logo="http://starshare.live:8080/images/30bc3d2495b670d66d892510ae2951ed.jpg" group-title="NETFLIX", Knightfall S02 E06
+#EXTINF:-1 tvg-id="Knightfall S02 E06" tvg-logo="http://starshare.live:8080/images/30bc3d2495b670d66d892510ae2951ed.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E06
 http://starshare.live:8080/series/salam/salam/47907.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E07" tvg-logo="http://starshare.live:8080/images/233236f1c968a5a804de5ce361d35747.jpg" group-title="NETFLIX", Knightfall S02 E07
+#EXTINF:-1 tvg-id="Knightfall S02 E07" tvg-logo="http://starshare.live:8080/images/233236f1c968a5a804de5ce361d35747.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E07
 http://starshare.live:8080/series/salam/salam/47908.mkv
-#EXTINF:-1 tvg-id="Knightfall S02 E08" tvg-logo="http://starshare.live:8080/images/8a49ffb5013621403bbb45cdc3b36f04.jpg" group-title="NETFLIX", Knightfall S02 E08
+#EXTINF:-1 tvg-id="Knightfall S02 E08" tvg-logo="http://starshare.live:8080/images/8a49ffb5013621403bbb45cdc3b36f04.jpg" group-title="NETFLIX Knightfall", Knightfall S02 E08
 http://starshare.live:8080/series/salam/salam/47909.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E01" tvg-logo="http://starshare.live:8080/images/901519e4096ddd5e53948747d1a4218c.jpg" group-title="NETFLIX", Trinkets S01 E01
+#EXTINF:-1 tvg-id="Trinkets S01 E01" tvg-logo="http://starshare.live:8080/images/901519e4096ddd5e53948747d1a4218c.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E01
 http://starshare.live:8080/series/salam/salam/47950.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E02" tvg-logo="http://starshare.live:8080/images/e36c07b7f7745ea32e862c00d02e9610.jpg" group-title="NETFLIX", Trinkets S01 E02
+#EXTINF:-1 tvg-id="Trinkets S01 E02" tvg-logo="http://starshare.live:8080/images/e36c07b7f7745ea32e862c00d02e9610.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E02
 http://starshare.live:8080/series/salam/salam/47951.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E03" tvg-logo="http://starshare.live:8080/images/977b68b7192acb1a98906073134b7433.jpg" group-title="NETFLIX", Trinkets S01 E03
+#EXTINF:-1 tvg-id="Trinkets S01 E03" tvg-logo="http://starshare.live:8080/images/977b68b7192acb1a98906073134b7433.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E03
 http://starshare.live:8080/series/salam/salam/47952.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E04" tvg-logo="http://starshare.live:8080/images/e7f01342ced9b21ca91d2627924a8279.jpg" group-title="NETFLIX", Trinkets S01 E04
+#EXTINF:-1 tvg-id="Trinkets S01 E04" tvg-logo="http://starshare.live:8080/images/e7f01342ced9b21ca91d2627924a8279.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E04
 http://starshare.live:8080/series/salam/salam/47953.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E05" tvg-logo="http://starshare.live:8080/images/68227bd77460634161a9c65638e805ae.jpg" group-title="NETFLIX", Trinkets S01 E05
+#EXTINF:-1 tvg-id="Trinkets S01 E05" tvg-logo="http://starshare.live:8080/images/68227bd77460634161a9c65638e805ae.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E05
 http://starshare.live:8080/series/salam/salam/47954.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E06" tvg-logo="http://starshare.live:8080/images/f4fbbb8055e4e6ffc49b1a8ed5487e7f.jpg" group-title="NETFLIX", Trinkets S01 E06
+#EXTINF:-1 tvg-id="Trinkets S01 E06" tvg-logo="http://starshare.live:8080/images/f4fbbb8055e4e6ffc49b1a8ed5487e7f.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E06
 http://starshare.live:8080/series/salam/salam/47955.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E07" tvg-logo="http://starshare.live:8080/images/2b577e76437a9b3893dbf6d6386278c3.jpg" group-title="NETFLIX", Trinkets S01 E07
+#EXTINF:-1 tvg-id="Trinkets S01 E07" tvg-logo="http://starshare.live:8080/images/2b577e76437a9b3893dbf6d6386278c3.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E07
 http://starshare.live:8080/series/salam/salam/47956.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E08" tvg-logo="http://starshare.live:8080/images/1e9328e81e518de39f1e58e705a03791.jpg" group-title="NETFLIX", Trinkets S01 E08
+#EXTINF:-1 tvg-id="Trinkets S01 E08" tvg-logo="http://starshare.live:8080/images/1e9328e81e518de39f1e58e705a03791.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E08
 http://starshare.live:8080/series/salam/salam/47957.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E09" tvg-logo="http://starshare.live:8080/images/6706aaf185b8f33c02ed0c957b30eb35.jpg" group-title="NETFLIX", Trinkets S01 E09
+#EXTINF:-1 tvg-id="Trinkets S01 E09" tvg-logo="http://starshare.live:8080/images/6706aaf185b8f33c02ed0c957b30eb35.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E09
 http://starshare.live:8080/series/salam/salam/47958.mkv
-#EXTINF:-1 tvg-id="Trinkets S01 E10" tvg-logo="http://starshare.live:8080/images/688e1d7c8d8a48c4c4d352e2e55313d6.jpg" group-title="NETFLIX", Trinkets S01 E10
+#EXTINF:-1 tvg-id="Trinkets S01 E10" tvg-logo="http://starshare.live:8080/images/688e1d7c8d8a48c4c4d352e2e55313d6.jpg" group-title="NETFLIX Trinkets", Trinkets S01 E10
 http://starshare.live:8080/series/salam/salam/47959.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E01" tvg-logo="http://starshare.live:8080/images/a031e47d367aa160024587cf246d5bbb.jpg" group-title="NETFLIX", Trinkets S02 E01
+#EXTINF:-1 tvg-id="Trinkets S02 E01" tvg-logo="http://starshare.live:8080/images/a031e47d367aa160024587cf246d5bbb.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E01
 http://starshare.live:8080/series/salam/salam/47960.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E02" tvg-logo="http://starshare.live:8080/images/8354e1ba1e6890c2aa991c66e1b52e74.jpg" group-title="NETFLIX", Trinkets S02 E02
+#EXTINF:-1 tvg-id="Trinkets S02 E02" tvg-logo="http://starshare.live:8080/images/8354e1ba1e6890c2aa991c66e1b52e74.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E02
 http://starshare.live:8080/series/salam/salam/47961.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E03" tvg-logo="http://starshare.live:8080/images/2edd380a20ca8eab04d7b6f3a209fa33.jpg" group-title="NETFLIX", Trinkets S02 E03
+#EXTINF:-1 tvg-id="Trinkets S02 E03" tvg-logo="http://starshare.live:8080/images/2edd380a20ca8eab04d7b6f3a209fa33.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E03
 http://starshare.live:8080/series/salam/salam/47962.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E04" tvg-logo="http://starshare.live:8080/images/d0c4d23422855477dc0b4b7077186296.jpg" group-title="NETFLIX", Trinkets S02 E04
+#EXTINF:-1 tvg-id="Trinkets S02 E04" tvg-logo="http://starshare.live:8080/images/d0c4d23422855477dc0b4b7077186296.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E04
 http://starshare.live:8080/series/salam/salam/47963.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E05" tvg-logo="http://starshare.live:8080/images/439c141f3f59c80f3e1f906066c178e8.jpg" group-title="NETFLIX", Trinkets S02 E05
+#EXTINF:-1 tvg-id="Trinkets S02 E05" tvg-logo="http://starshare.live:8080/images/439c141f3f59c80f3e1f906066c178e8.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E05
 http://starshare.live:8080/series/salam/salam/47964.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E06" tvg-logo="http://starshare.live:8080/images/1ef24e7e4230e7b599df50df202c2db9.jpg" group-title="NETFLIX", Trinkets S02 E06
+#EXTINF:-1 tvg-id="Trinkets S02 E06" tvg-logo="http://starshare.live:8080/images/1ef24e7e4230e7b599df50df202c2db9.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E06
 http://starshare.live:8080/series/salam/salam/47965.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E07" tvg-logo="http://starshare.live:8080/images/6722f70d3ee9dbdb31622ea68dbbb135.jpg" group-title="NETFLIX", Trinkets S02 E07
+#EXTINF:-1 tvg-id="Trinkets S02 E07" tvg-logo="http://starshare.live:8080/images/6722f70d3ee9dbdb31622ea68dbbb135.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E07
 http://starshare.live:8080/series/salam/salam/47966.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E08" tvg-logo="http://starshare.live:8080/images/fbab09b225488cd42d6d6fd3ccb257e2.jpg" group-title="NETFLIX", Trinkets S02 E08
+#EXTINF:-1 tvg-id="Trinkets S02 E08" tvg-logo="http://starshare.live:8080/images/fbab09b225488cd42d6d6fd3ccb257e2.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E08
 http://starshare.live:8080/series/salam/salam/47967.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E09" tvg-logo="http://starshare.live:8080/images/b0624e083e6cac609767b22f4b2739b4.jpg" group-title="NETFLIX", Trinkets S02 E09
+#EXTINF:-1 tvg-id="Trinkets S02 E09" tvg-logo="http://starshare.live:8080/images/b0624e083e6cac609767b22f4b2739b4.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E09
 http://starshare.live:8080/series/salam/salam/47968.mkv
-#EXTINF:-1 tvg-id="Trinkets S02 E10" tvg-logo="http://starshare.live:8080/images/a423f21f93031d036e2819bd391d7970.jpg" group-title="NETFLIX", Trinkets S02 E10
+#EXTINF:-1 tvg-id="Trinkets S02 E10" tvg-logo="http://starshare.live:8080/images/a423f21f93031d036e2819bd391d7970.jpg" group-title="NETFLIX Trinkets", Trinkets S02 E10
 http://starshare.live:8080/series/salam/salam/47969.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E01" tvg-logo="http://starshare.live:8080/images/02800f324613e9f7a643752d5f9d254c.jpg" group-title="NETFLIX", Selling Sunset S01 E01
+#EXTINF:-1 tvg-id="Selling Sunset S01 E01" tvg-logo="http://starshare.live:8080/images/02800f324613e9f7a643752d5f9d254c.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E01
 http://starshare.live:8080/series/salam/salam/48044.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E02" tvg-logo="http://starshare.live:8080/images/d7e5b9236bb014109fda946da6f43a51.jpg" group-title="NETFLIX", Selling Sunset S01 E02
+#EXTINF:-1 tvg-id="Selling Sunset S01 E02" tvg-logo="http://starshare.live:8080/images/d7e5b9236bb014109fda946da6f43a51.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E02
 http://starshare.live:8080/series/salam/salam/48045.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E03" tvg-logo="http://starshare.live:8080/images/4e3cdbb9af3077d0d3de792871646897.jpg" group-title="NETFLIX", Selling Sunset S01 E03
+#EXTINF:-1 tvg-id="Selling Sunset S01 E03" tvg-logo="http://starshare.live:8080/images/4e3cdbb9af3077d0d3de792871646897.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E03
 http://starshare.live:8080/series/salam/salam/48046.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E04" tvg-logo="http://starshare.live:8080/images/c856b5bbdf586f14475fe180ff2a5daf.jpg" group-title="NETFLIX", Selling Sunset S01 E04
+#EXTINF:-1 tvg-id="Selling Sunset S01 E04" tvg-logo="http://starshare.live:8080/images/c856b5bbdf586f14475fe180ff2a5daf.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E04
 http://starshare.live:8080/series/salam/salam/48047.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E05" tvg-logo="http://starshare.live:8080/images/5d926e6c4f6c354740e66b7a04aa99ce.jpg" group-title="NETFLIX", Selling Sunset S01 E05
+#EXTINF:-1 tvg-id="Selling Sunset S01 E05" tvg-logo="http://starshare.live:8080/images/5d926e6c4f6c354740e66b7a04aa99ce.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E05
 http://starshare.live:8080/series/salam/salam/48048.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E06" tvg-logo="http://starshare.live:8080/images/0a595195774726adb138122e119c778d.jpg" group-title="NETFLIX", Selling Sunset S01 E06
+#EXTINF:-1 tvg-id="Selling Sunset S01 E06" tvg-logo="http://starshare.live:8080/images/0a595195774726adb138122e119c778d.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E06
 http://starshare.live:8080/series/salam/salam/48049.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E07" tvg-logo="http://starshare.live:8080/images/8e4ac765f5e65cf8914011d60f5b0cfe.jpg" group-title="NETFLIX", Selling Sunset S01 E07
+#EXTINF:-1 tvg-id="Selling Sunset S01 E07" tvg-logo="http://starshare.live:8080/images/8e4ac765f5e65cf8914011d60f5b0cfe.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E07
 http://starshare.live:8080/series/salam/salam/48050.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S01 E08" tvg-logo="http://starshare.live:8080/images/aaa641a313224df1d8f4a4ced38e5a35.jpg" group-title="NETFLIX", Selling Sunset S01 E08
+#EXTINF:-1 tvg-id="Selling Sunset S01 E08" tvg-logo="http://starshare.live:8080/images/aaa641a313224df1d8f4a4ced38e5a35.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S01 E08
 http://starshare.live:8080/series/salam/salam/48051.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E01" tvg-logo="http://starshare.live:8080/images/b00920a9822f2b1176e3e2163f230453.jpg" group-title="NETFLIX", Selling Sunset S02 E01
+#EXTINF:-1 tvg-id="Selling Sunset S02 E01" tvg-logo="http://starshare.live:8080/images/b00920a9822f2b1176e3e2163f230453.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E01
 http://starshare.live:8080/series/salam/salam/48052.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E02" tvg-logo="http://starshare.live:8080/images/c0da7d48d395cbf9e4bef180eb715142.jpg" group-title="NETFLIX", Selling Sunset S02 E02
+#EXTINF:-1 tvg-id="Selling Sunset S02 E02" tvg-logo="http://starshare.live:8080/images/c0da7d48d395cbf9e4bef180eb715142.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E02
 http://starshare.live:8080/series/salam/salam/48053.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E03" tvg-logo="http://starshare.live:8080/images/978fbfe26396c0c5ef8d0247d7d163f0.jpg" group-title="NETFLIX", Selling Sunset S02 E03
+#EXTINF:-1 tvg-id="Selling Sunset S02 E03" tvg-logo="http://starshare.live:8080/images/978fbfe26396c0c5ef8d0247d7d163f0.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E03
 http://starshare.live:8080/series/salam/salam/48054.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E04" tvg-logo="http://starshare.live:8080/images/63a57b280b2b3e07457597c642da99a1.jpg" group-title="NETFLIX", Selling Sunset S02 E04
+#EXTINF:-1 tvg-id="Selling Sunset S02 E04" tvg-logo="http://starshare.live:8080/images/63a57b280b2b3e07457597c642da99a1.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E04
 http://starshare.live:8080/series/salam/salam/48055.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E05" tvg-logo="http://starshare.live:8080/images/e57bbf05895158f18b2cf2106d7938e6.jpg" group-title="NETFLIX", Selling Sunset S02 E05
+#EXTINF:-1 tvg-id="Selling Sunset S02 E05" tvg-logo="http://starshare.live:8080/images/e57bbf05895158f18b2cf2106d7938e6.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E05
 http://starshare.live:8080/series/salam/salam/48056.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E06" tvg-logo="http://starshare.live:8080/images/eb8eddce13f5cfdad099141529b0b7f8.jpg" group-title="NETFLIX", Selling Sunset S02 E06
+#EXTINF:-1 tvg-id="Selling Sunset S02 E06" tvg-logo="http://starshare.live:8080/images/eb8eddce13f5cfdad099141529b0b7f8.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E06
 http://starshare.live:8080/series/salam/salam/48057.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E07" tvg-logo="http://starshare.live:8080/images/323020e4e991bd84ab220263e7fe7abc.jpg" group-title="NETFLIX", Selling Sunset S02 E07
+#EXTINF:-1 tvg-id="Selling Sunset S02 E07" tvg-logo="http://starshare.live:8080/images/323020e4e991bd84ab220263e7fe7abc.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E07
 http://starshare.live:8080/series/salam/salam/48058.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S02 E08" tvg-logo="http://starshare.live:8080/images/55307ff6a8581177d559c4d6325a9dc3.jpg" group-title="NETFLIX", Selling Sunset S02 E08
+#EXTINF:-1 tvg-id="Selling Sunset S02 E08" tvg-logo="http://starshare.live:8080/images/55307ff6a8581177d559c4d6325a9dc3.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S02 E08
 http://starshare.live:8080/series/salam/salam/48059.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E01" tvg-logo="http://starshare.live:8080/images/578fcb02d8232f9bae22854fe38b754f.jpg" group-title="NETFLIX", Selling Sunset S03 E01
+#EXTINF:-1 tvg-id="Selling Sunset S03 E01" tvg-logo="http://starshare.live:8080/images/578fcb02d8232f9bae22854fe38b754f.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E01
 http://starshare.live:8080/series/salam/salam/48060.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E02" tvg-logo="http://starshare.live:8080/images/58315af32c5b1ffb0b5f77700d2776c7.jpg" group-title="NETFLIX", Selling Sunset S03 E02
+#EXTINF:-1 tvg-id="Selling Sunset S03 E02" tvg-logo="http://starshare.live:8080/images/58315af32c5b1ffb0b5f77700d2776c7.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E02
 http://starshare.live:8080/series/salam/salam/48061.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E03" tvg-logo="http://starshare.live:8080/images/72536706017d0ce3d1f2b1ed20484017.jpg" group-title="NETFLIX", Selling Sunset S03 E03
+#EXTINF:-1 tvg-id="Selling Sunset S03 E03" tvg-logo="http://starshare.live:8080/images/72536706017d0ce3d1f2b1ed20484017.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E03
 http://starshare.live:8080/series/salam/salam/48062.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E04" tvg-logo="http://starshare.live:8080/images/63f2bdfe87bf0876ef338d52cb72f5dd.jpg" group-title="NETFLIX", Selling Sunset S03 E04
+#EXTINF:-1 tvg-id="Selling Sunset S03 E04" tvg-logo="http://starshare.live:8080/images/63f2bdfe87bf0876ef338d52cb72f5dd.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E04
 http://starshare.live:8080/series/salam/salam/48063.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E05" tvg-logo="http://starshare.live:8080/images/0e72bf1327915a181f81a79093087978.jpg" group-title="NETFLIX", Selling Sunset S03 E05
+#EXTINF:-1 tvg-id="Selling Sunset S03 E05" tvg-logo="http://starshare.live:8080/images/0e72bf1327915a181f81a79093087978.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E05
 http://starshare.live:8080/series/salam/salam/48064.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E06" tvg-logo="http://starshare.live:8080/images/5e34affc99c79426883da4cebb65a73d.jpg" group-title="NETFLIX", Selling Sunset S03 E06
+#EXTINF:-1 tvg-id="Selling Sunset S03 E06" tvg-logo="http://starshare.live:8080/images/5e34affc99c79426883da4cebb65a73d.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E06
 http://starshare.live:8080/series/salam/salam/48065.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djv6vW8NwQZykqNBXnLAEe6VvvR.jpg" group-title="NETFLIX", Selling Sunset S03 E07
+#EXTINF:-1 tvg-id="Selling Sunset S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djv6vW8NwQZykqNBXnLAEe6VvvR.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E07
 http://starshare.live:8080/series/salam/salam/48066.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S03 E08" tvg-logo="http://starshare.live:8080/images/a1239f6e6219be8bf3b7c9aad4411af2.jpg" group-title="NETFLIX", Selling Sunset S03 E08
+#EXTINF:-1 tvg-id="Selling Sunset S03 E08" tvg-logo="http://starshare.live:8080/images/a1239f6e6219be8bf3b7c9aad4411af2.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S03 E08
 http://starshare.live:8080/series/salam/salam/48067.mkv
-#EXTINF:-1 tvg-id="Selling Sunset S04 E01" tvg-logo="http://starshare.live:8080/images/3070da76fe616bc387fe0025b8473e9b.jpg" group-title="NETFLIX", Selling Sunset S04 E01
+#EXTINF:-1 tvg-id="Selling Sunset S04 E01" tvg-logo="http://starshare.live:8080/images/3070da76fe616bc387fe0025b8473e9b.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E01
 http://starshare.live:8080/series/salam/salam/72636.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E02" tvg-logo="http://starshare.live:8080/images/b6d91758acec40c5c65cde9344657406.jpg" group-title="NETFLIX", Selling Sunset S04 E02
+#EXTINF:-1 tvg-id="Selling Sunset S04 E02" tvg-logo="http://starshare.live:8080/images/b6d91758acec40c5c65cde9344657406.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E02
 http://starshare.live:8080/series/salam/salam/72637.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E03" tvg-logo="http://starshare.live:8080/images/8a6b46f7bf6602c33111bdea550dd75b.jpg" group-title="NETFLIX", Selling Sunset S04 E03
+#EXTINF:-1 tvg-id="Selling Sunset S04 E03" tvg-logo="http://starshare.live:8080/images/8a6b46f7bf6602c33111bdea550dd75b.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E03
 http://starshare.live:8080/series/salam/salam/72638.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E04" tvg-logo="http://starshare.live:8080/images/60c59594f3241b5827c753a87addb72c.jpg" group-title="NETFLIX", Selling Sunset S04 E04
+#EXTINF:-1 tvg-id="Selling Sunset S04 E04" tvg-logo="http://starshare.live:8080/images/60c59594f3241b5827c753a87addb72c.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E04
 http://starshare.live:8080/series/salam/salam/72639.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E05" tvg-logo="http://starshare.live:8080/images/c3b4a1062699535a7b24534ca87f3b0e.jpg" group-title="NETFLIX", Selling Sunset S04 E05
+#EXTINF:-1 tvg-id="Selling Sunset S04 E05" tvg-logo="http://starshare.live:8080/images/c3b4a1062699535a7b24534ca87f3b0e.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E05
 http://starshare.live:8080/series/salam/salam/72640.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E06" tvg-logo="http://starshare.live:8080/images/a8c73aa7c9131430c1c03a83b68d0da3.jpg" group-title="NETFLIX", Selling Sunset S04 E06
+#EXTINF:-1 tvg-id="Selling Sunset S04 E06" tvg-logo="http://starshare.live:8080/images/a8c73aa7c9131430c1c03a83b68d0da3.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E06
 http://starshare.live:8080/series/salam/salam/72641.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E07" tvg-logo="http://starshare.live:8080/images/3ff26cdbb8364989d6765b2871d48bbc.jpg" group-title="NETFLIX", Selling Sunset S04 E07
+#EXTINF:-1 tvg-id="Selling Sunset S04 E07" tvg-logo="http://starshare.live:8080/images/3ff26cdbb8364989d6765b2871d48bbc.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E07
 http://starshare.live:8080/series/salam/salam/72642.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E08" tvg-logo="http://starshare.live:8080/images/43ab2eb1a8cd70ca45750add7d0be2a4.jpg" group-title="NETFLIX", Selling Sunset S04 E08
+#EXTINF:-1 tvg-id="Selling Sunset S04 E08" tvg-logo="http://starshare.live:8080/images/43ab2eb1a8cd70ca45750add7d0be2a4.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E08
 http://starshare.live:8080/series/salam/salam/72643.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E09" tvg-logo="http://starshare.live:8080/images/8cbd47df29f8251a8e52da5cd0eee1b1.jpg" group-title="NETFLIX", Selling Sunset S04 E09
+#EXTINF:-1 tvg-id="Selling Sunset S04 E09" tvg-logo="http://starshare.live:8080/images/8cbd47df29f8251a8e52da5cd0eee1b1.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E09
 http://starshare.live:8080/series/salam/salam/72644.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S04 E10" tvg-logo="http://starshare.live:8080/images/d5ec97e299acdfc6299f91b34bc55191.jpg" group-title="NETFLIX", Selling Sunset S04 E10
+#EXTINF:-1 tvg-id="Selling Sunset S04 E10" tvg-logo="http://starshare.live:8080/images/d5ec97e299acdfc6299f91b34bc55191.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S04 E10
 http://starshare.live:8080/series/salam/salam/72645.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E01" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E01
+#EXTINF:-1 tvg-id="Selling Sunset S05 E01" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E01
 http://starshare.live:8080/series/salam/salam/83586.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E02" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E02
+#EXTINF:-1 tvg-id="Selling Sunset S05 E02" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E02
 http://starshare.live:8080/series/salam/salam/83587.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E03" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E03
+#EXTINF:-1 tvg-id="Selling Sunset S05 E03" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E03
 http://starshare.live:8080/series/salam/salam/83588.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E04" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E04
+#EXTINF:-1 tvg-id="Selling Sunset S05 E04" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E04
 http://starshare.live:8080/series/salam/salam/83589.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E05" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E05
+#EXTINF:-1 tvg-id="Selling Sunset S05 E05" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E05
 http://starshare.live:8080/series/salam/salam/83590.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E06" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E06
+#EXTINF:-1 tvg-id="Selling Sunset S05 E06" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E06
 http://starshare.live:8080/series/salam/salam/83591.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E07" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E07
+#EXTINF:-1 tvg-id="Selling Sunset S05 E07" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E07
 http://starshare.live:8080/series/salam/salam/83592.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E08" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E08
+#EXTINF:-1 tvg-id="Selling Sunset S05 E08" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E08
 http://starshare.live:8080/series/salam/salam/83593.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E09" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E09
+#EXTINF:-1 tvg-id="Selling Sunset S05 E09" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E09
 http://starshare.live:8080/series/salam/salam/83594.mp4
-#EXTINF:-1 tvg-id="Selling Sunset S05 E10" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX", Selling Sunset S05 E10
+#EXTINF:-1 tvg-id="Selling Sunset S05 E10" tvg-logo="http://starshare.live:8080/images/f0090f36d87b29101b807dcf1d8954c9.jpg" group-title="NETFLIX Selling Sunset", Selling Sunset S05 E10
 http://starshare.live:8080/series/salam/salam/83595.mp4
-#EXTINF:-1 tvg-id="Hyperdrive S01 E01" tvg-logo="http://starshare.live:8080/images/5e18015942ca7082d92aeebf20ac3d6a.jpg" group-title="NETFLIX", Hyperdrive S01 E01
+#EXTINF:-1 tvg-id="Hyperdrive S01 E01" tvg-logo="http://starshare.live:8080/images/5e18015942ca7082d92aeebf20ac3d6a.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E01
 http://starshare.live:8080/series/salam/salam/48094.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E02" tvg-logo="http://starshare.live:8080/images/1462c8f35877e1ea23ae9d63c6b2ac42.jpg" group-title="NETFLIX", Hyperdrive S01 E02
+#EXTINF:-1 tvg-id="Hyperdrive S01 E02" tvg-logo="http://starshare.live:8080/images/1462c8f35877e1ea23ae9d63c6b2ac42.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E02
 http://starshare.live:8080/series/salam/salam/48095.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E03" tvg-logo="http://starshare.live:8080/images/4c48a22a05a1ec1d8a76f6f6fed401fe.jpg" group-title="NETFLIX", Hyperdrive S01 E03
+#EXTINF:-1 tvg-id="Hyperdrive S01 E03" tvg-logo="http://starshare.live:8080/images/4c48a22a05a1ec1d8a76f6f6fed401fe.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E03
 http://starshare.live:8080/series/salam/salam/48096.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E04" tvg-logo="http://starshare.live:8080/images/66902b769390a53d61125c04a05ff796.jpg" group-title="NETFLIX", Hyperdrive S01 E04
+#EXTINF:-1 tvg-id="Hyperdrive S01 E04" tvg-logo="http://starshare.live:8080/images/66902b769390a53d61125c04a05ff796.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E04
 http://starshare.live:8080/series/salam/salam/48097.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E05" tvg-logo="http://starshare.live:8080/images/7efb99eb4657964caabafdb9e287cd92.jpg" group-title="NETFLIX", Hyperdrive S01 E05
+#EXTINF:-1 tvg-id="Hyperdrive S01 E05" tvg-logo="http://starshare.live:8080/images/7efb99eb4657964caabafdb9e287cd92.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E05
 http://starshare.live:8080/series/salam/salam/48098.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E06" tvg-logo="http://starshare.live:8080/images/60fa1a5206b50a436855548f7a8404a0.jpg" group-title="NETFLIX", Hyperdrive S01 E06
+#EXTINF:-1 tvg-id="Hyperdrive S01 E06" tvg-logo="http://starshare.live:8080/images/60fa1a5206b50a436855548f7a8404a0.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E06
 http://starshare.live:8080/series/salam/salam/48099.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E07" tvg-logo="http://starshare.live:8080/images/14188ea9e356aff03cfcbe7f19f58f72.jpg" group-title="NETFLIX", Hyperdrive S01 E07
+#EXTINF:-1 tvg-id="Hyperdrive S01 E07" tvg-logo="http://starshare.live:8080/images/14188ea9e356aff03cfcbe7f19f58f72.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E07
 http://starshare.live:8080/series/salam/salam/48100.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E08" tvg-logo="http://starshare.live:8080/images/c4fd3f29b8495923b20766cf1a766637.jpg" group-title="NETFLIX", Hyperdrive S01 E08
+#EXTINF:-1 tvg-id="Hyperdrive S01 E08" tvg-logo="http://starshare.live:8080/images/c4fd3f29b8495923b20766cf1a766637.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E08
 http://starshare.live:8080/series/salam/salam/48101.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E09" tvg-logo="http://starshare.live:8080/images/0bc0e855f42c28b318c047e5fa6e0320.jpg" group-title="NETFLIX", Hyperdrive S01 E09
+#EXTINF:-1 tvg-id="Hyperdrive S01 E09" tvg-logo="http://starshare.live:8080/images/0bc0e855f42c28b318c047e5fa6e0320.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E09
 http://starshare.live:8080/series/salam/salam/48102.mkv
-#EXTINF:-1 tvg-id="Hyperdrive S01 E10" tvg-logo="http://starshare.live:8080/images/c7db017836f1c7d7941e2be35dac4af0.jpg" group-title="NETFLIX", Hyperdrive S01 E10
+#EXTINF:-1 tvg-id="Hyperdrive S01 E10" tvg-logo="http://starshare.live:8080/images/c7db017836f1c7d7941e2be35dac4af0.jpg" group-title="NETFLIX Hyperdrive", Hyperdrive S01 E10
 http://starshare.live:8080/series/salam/salam/48103.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E01" tvg-logo="http://starshare.live:8080/images/4ae958226e7608a9658929e8d00968ca.jpg" group-title="NETFLIX", Jaguar S01 E01
+#EXTINF:-1 tvg-id="Jaguar S01 E01" tvg-logo="http://starshare.live:8080/images/4ae958226e7608a9658929e8d00968ca.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E01
 http://starshare.live:8080/series/salam/salam/48104.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E02" tvg-logo="http://starshare.live:8080/images/9c29e414459b17ff1801b759831af623.jpg" group-title="NETFLIX", Jaguar S01 E02
+#EXTINF:-1 tvg-id="Jaguar S01 E02" tvg-logo="http://starshare.live:8080/images/9c29e414459b17ff1801b759831af623.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E02
 http://starshare.live:8080/series/salam/salam/48105.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E03" tvg-logo="http://starshare.live:8080/images/c9029aeb075ae79da3687ca7b32432e7.jpg" group-title="NETFLIX", Jaguar S01 E03
+#EXTINF:-1 tvg-id="Jaguar S01 E03" tvg-logo="http://starshare.live:8080/images/c9029aeb075ae79da3687ca7b32432e7.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E03
 http://starshare.live:8080/series/salam/salam/48106.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E04" tvg-logo="http://starshare.live:8080/images/82bf8b41fb71c262f366fceaffb32891.jpg" group-title="NETFLIX", Jaguar S01 E04
+#EXTINF:-1 tvg-id="Jaguar S01 E04" tvg-logo="http://starshare.live:8080/images/82bf8b41fb71c262f366fceaffb32891.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E04
 http://starshare.live:8080/series/salam/salam/48107.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E05" tvg-logo="http://starshare.live:8080/images/72bd61ff579b6784ad40c838f643af4d.jpg" group-title="NETFLIX", Jaguar S01 E05
+#EXTINF:-1 tvg-id="Jaguar S01 E05" tvg-logo="http://starshare.live:8080/images/72bd61ff579b6784ad40c838f643af4d.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E05
 http://starshare.live:8080/series/salam/salam/48108.mkv
-#EXTINF:-1 tvg-id="Jaguar S01 E06" tvg-logo="http://starshare.live:8080/images/81cee83fa6ed223ed66d08b07288dfea.jpg" group-title="NETFLIX", Jaguar S01 E06
+#EXTINF:-1 tvg-id="Jaguar S01 E06" tvg-logo="http://starshare.live:8080/images/81cee83fa6ed223ed66d08b07288dfea.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E06
 http://starshare.live:8080/series/salam/salam/48109.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E01" tvg-logo="http://starshare.live:8080/images/3709ba1742b5cd8d89e71ed72aea6039.jpg" group-title="NETFLIX", Paranormal S01 E01
+#EXTINF:-1 tvg-id="Paranormal S01 E01" tvg-logo="http://starshare.live:8080/images/3709ba1742b5cd8d89e71ed72aea6039.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E01
 http://starshare.live:8080/series/salam/salam/61595.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E02" tvg-logo="http://starshare.live:8080/images/59ded949337465c54c0cae0281104f78.jpg" group-title="NETFLIX", Paranormal S01 E02
+#EXTINF:-1 tvg-id="Paranormal S01 E02" tvg-logo="http://starshare.live:8080/images/59ded949337465c54c0cae0281104f78.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E02
 http://starshare.live:8080/series/salam/salam/61596.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E03" tvg-logo="http://starshare.live:8080/images/578aa10704ecaf714e725bdf49a790b7.jpg" group-title="NETFLIX", Paranormal S01 E03
+#EXTINF:-1 tvg-id="Paranormal S01 E03" tvg-logo="http://starshare.live:8080/images/578aa10704ecaf714e725bdf49a790b7.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E03
 http://starshare.live:8080/series/salam/salam/61597.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E04" tvg-logo="http://starshare.live:8080/images/d0e5ad18ab5d926ba323a03efddd0589.jpg" group-title="NETFLIX", Paranormal S01 E04
+#EXTINF:-1 tvg-id="Paranormal S01 E04" tvg-logo="http://starshare.live:8080/images/d0e5ad18ab5d926ba323a03efddd0589.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E04
 http://starshare.live:8080/series/salam/salam/61598.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E05" tvg-logo="http://starshare.live:8080/images/ff5b211f97ee5aabb392ba150d430c9b.jpg" group-title="NETFLIX", Paranormal S01 E05
+#EXTINF:-1 tvg-id="Paranormal S01 E05" tvg-logo="http://starshare.live:8080/images/ff5b211f97ee5aabb392ba150d430c9b.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E05
 http://starshare.live:8080/series/salam/salam/61599.mkv
-#EXTINF:-1 tvg-id="Paranormal S01 E06" tvg-logo="http://starshare.live:8080/images/75466f132ce65a36889d5986bc4d3fe6.jpg" group-title="NETFLIX", Paranormal S01 E06
+#EXTINF:-1 tvg-id="Paranormal S01 E06" tvg-logo="http://starshare.live:8080/images/75466f132ce65a36889d5986bc4d3fe6.jpg" group-title="NETFLIX Paranormal", Paranormal S01 E06
 http://starshare.live:8080/series/salam/salam/61600.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E01" tvg-logo="http://starshare.live:8080/images/4d9c7d3c79c79382b2f65a208f4ce442.jpg" group-title="NETFLIX", Sons of Anarchy S01 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E01" tvg-logo="http://starshare.live:8080/images/4d9c7d3c79c79382b2f65a208f4ce442.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E01
 http://starshare.live:8080/series/salam/salam/48116.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E02" tvg-logo="http://starshare.live:8080/images/8ec0f48b1e975f6cd61db0e3c0c003ac.jpg" group-title="NETFLIX", Sons of Anarchy S01 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E02" tvg-logo="http://starshare.live:8080/images/8ec0f48b1e975f6cd61db0e3c0c003ac.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E02
 http://starshare.live:8080/series/salam/salam/48117.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E03" tvg-logo="http://starshare.live:8080/images/e06d7c4fb367e16931f780228f9d99e4.jpg" group-title="NETFLIX", Sons of Anarchy S01 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E03" tvg-logo="http://starshare.live:8080/images/e06d7c4fb367e16931f780228f9d99e4.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E03
 http://starshare.live:8080/series/salam/salam/48118.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E04" tvg-logo="http://starshare.live:8080/images/2cbbac7063cd8daf31d86ec67d778756.jpg" group-title="NETFLIX", Sons of Anarchy S01 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E04" tvg-logo="http://starshare.live:8080/images/2cbbac7063cd8daf31d86ec67d778756.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E04
 http://starshare.live:8080/series/salam/salam/48119.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E05" tvg-logo="http://starshare.live:8080/images/6d17c2e1ee161fd3ab3c60066af7873d.jpg" group-title="NETFLIX", Sons of Anarchy S01 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E05" tvg-logo="http://starshare.live:8080/images/6d17c2e1ee161fd3ab3c60066af7873d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E05
 http://starshare.live:8080/series/salam/salam/48120.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E06" tvg-logo="http://starshare.live:8080/images/7bb36f2a74f7ae3db6db405c74be7771.jpg" group-title="NETFLIX", Sons of Anarchy S01 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E06" tvg-logo="http://starshare.live:8080/images/7bb36f2a74f7ae3db6db405c74be7771.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E06
 http://starshare.live:8080/series/salam/salam/48121.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E07" tvg-logo="http://starshare.live:8080/images/796c69297aa07db5b7ec9440937280b8.jpg" group-title="NETFLIX", Sons of Anarchy S01 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E07" tvg-logo="http://starshare.live:8080/images/796c69297aa07db5b7ec9440937280b8.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E07
 http://starshare.live:8080/series/salam/salam/48122.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E08" tvg-logo="http://starshare.live:8080/images/bc9e1a6c38e934e47938fbeb9b5d3c5f.jpg" group-title="NETFLIX", Sons of Anarchy S01 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E08" tvg-logo="http://starshare.live:8080/images/bc9e1a6c38e934e47938fbeb9b5d3c5f.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E08
 http://starshare.live:8080/series/salam/salam/48123.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E09" tvg-logo="http://starshare.live:8080/images/5678a734bb96506d23f6ffde375c316e.jpg" group-title="NETFLIX", Sons of Anarchy S01 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E09" tvg-logo="http://starshare.live:8080/images/5678a734bb96506d23f6ffde375c316e.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E09
 http://starshare.live:8080/series/salam/salam/48124.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E10" tvg-logo="http://starshare.live:8080/images/743b50106a85d3847ad8f126e2de8057.jpg" group-title="NETFLIX", Sons of Anarchy S01 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E10" tvg-logo="http://starshare.live:8080/images/743b50106a85d3847ad8f126e2de8057.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E10
 http://starshare.live:8080/series/salam/salam/48125.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E11" tvg-logo="http://starshare.live:8080/images/428a49babbd41e76b882496784bbbb34.jpg" group-title="NETFLIX", Sons of Anarchy S01 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E11" tvg-logo="http://starshare.live:8080/images/428a49babbd41e76b882496784bbbb34.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E11
 http://starshare.live:8080/series/salam/salam/48126.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E12" tvg-logo="http://starshare.live:8080/images/bbd204d25d764a09ea0f8e552bcbc279.jpg" group-title="NETFLIX", Sons of Anarchy S01 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E12" tvg-logo="http://starshare.live:8080/images/bbd204d25d764a09ea0f8e552bcbc279.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E12
 http://starshare.live:8080/series/salam/salam/48127.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S01 E13" tvg-logo="http://starshare.live:8080/images/8a601de7bb36b5aa6c2c143f02e9caf2.jpg" group-title="NETFLIX", Sons of Anarchy S01 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S01 E13" tvg-logo="http://starshare.live:8080/images/8a601de7bb36b5aa6c2c143f02e9caf2.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S01 E13
 http://starshare.live:8080/series/salam/salam/48128.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E01" tvg-logo="http://starshare.live:8080/images/6a6b991122b8ac553654957e7649233a.jpg" group-title="NETFLIX", Sons of Anarchy S02 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E01" tvg-logo="http://starshare.live:8080/images/6a6b991122b8ac553654957e7649233a.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E01
 http://starshare.live:8080/series/salam/salam/48130.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E02" tvg-logo="http://starshare.live:8080/images/7644b86363b6f22be9cae81a69166422.jpg" group-title="NETFLIX", Sons of Anarchy S02 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E02" tvg-logo="http://starshare.live:8080/images/7644b86363b6f22be9cae81a69166422.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E02
 http://starshare.live:8080/series/salam/salam/48131.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E03" tvg-logo="http://starshare.live:8080/images/4a78714c396ee335e17a4fe68e5a196b.jpg" group-title="NETFLIX", Sons of Anarchy S02 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E03" tvg-logo="http://starshare.live:8080/images/4a78714c396ee335e17a4fe68e5a196b.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E03
 http://starshare.live:8080/series/salam/salam/48132.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E04" tvg-logo="http://starshare.live:8080/images/fd98d9b942bd557129bf77c2c42ca341.jpg" group-title="NETFLIX", Sons of Anarchy S02 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E04" tvg-logo="http://starshare.live:8080/images/fd98d9b942bd557129bf77c2c42ca341.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E04
 http://starshare.live:8080/series/salam/salam/48133.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E05" tvg-logo="http://starshare.live:8080/images/a1b7d102f847c8ba1a3e85a617f4d1ab.jpg" group-title="NETFLIX", Sons of Anarchy S02 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E05" tvg-logo="http://starshare.live:8080/images/a1b7d102f847c8ba1a3e85a617f4d1ab.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E05
 http://starshare.live:8080/series/salam/salam/48134.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E06" tvg-logo="http://starshare.live:8080/images/fef4feac32dc372e505ec74420eef198.jpg" group-title="NETFLIX", Sons of Anarchy S02 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E06" tvg-logo="http://starshare.live:8080/images/fef4feac32dc372e505ec74420eef198.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E06
 http://starshare.live:8080/series/salam/salam/48135.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E07" tvg-logo="http://starshare.live:8080/images/0974c3bcedcc399a1d55d54f59f8b12d.jpg" group-title="NETFLIX", Sons of Anarchy S02 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E07" tvg-logo="http://starshare.live:8080/images/0974c3bcedcc399a1d55d54f59f8b12d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E07
 http://starshare.live:8080/series/salam/salam/48136.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E08" tvg-logo="http://starshare.live:8080/images/c02b3e44f83a441282f75acd25236837.jpg" group-title="NETFLIX", Sons of Anarchy S02 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E08" tvg-logo="http://starshare.live:8080/images/c02b3e44f83a441282f75acd25236837.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E08
 http://starshare.live:8080/series/salam/salam/48137.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E09" tvg-logo="http://starshare.live:8080/images/1d3140440bf2b6c75ffeb898dc38f554.jpg" group-title="NETFLIX", Sons of Anarchy S02 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E09" tvg-logo="http://starshare.live:8080/images/1d3140440bf2b6c75ffeb898dc38f554.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E09
 http://starshare.live:8080/series/salam/salam/48138.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E10" tvg-logo="http://starshare.live:8080/images/3afa1206b858c5c51bcc4968b394ffb8.jpg" group-title="NETFLIX", Sons of Anarchy S02 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E10" tvg-logo="http://starshare.live:8080/images/3afa1206b858c5c51bcc4968b394ffb8.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E10
 http://starshare.live:8080/series/salam/salam/48139.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E11" tvg-logo="http://starshare.live:8080/images/058c7aab86149d2b66430537ea193b7d.jpg" group-title="NETFLIX", Sons of Anarchy S02 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E11" tvg-logo="http://starshare.live:8080/images/058c7aab86149d2b66430537ea193b7d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E11
 http://starshare.live:8080/series/salam/salam/48140.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E12" tvg-logo="http://starshare.live:8080/images/67aadfc1ee8ed6c5cad9eaaf42dd1cbd.jpg" group-title="NETFLIX", Sons of Anarchy S02 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E12" tvg-logo="http://starshare.live:8080/images/67aadfc1ee8ed6c5cad9eaaf42dd1cbd.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E12
 http://starshare.live:8080/series/salam/salam/48141.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S02 E13" tvg-logo="http://starshare.live:8080/images/0f3782c6d4558cc8c2b065a14699eda8.jpg" group-title="NETFLIX", Sons of Anarchy S02 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S02 E13" tvg-logo="http://starshare.live:8080/images/0f3782c6d4558cc8c2b065a14699eda8.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S02 E13
 http://starshare.live:8080/series/salam/salam/48142.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E01" tvg-logo="http://starshare.live:8080/images/98d1de38759ec62f3cd3035b972301aa.jpg" group-title="NETFLIX", Sons of Anarchy S03 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E01" tvg-logo="http://starshare.live:8080/images/98d1de38759ec62f3cd3035b972301aa.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E01
 http://starshare.live:8080/series/salam/salam/48143.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E02" tvg-logo="http://starshare.live:8080/images/58ee6aa76ab2d7f27744671c714e7453.jpg" group-title="NETFLIX", Sons of Anarchy S03 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E02" tvg-logo="http://starshare.live:8080/images/58ee6aa76ab2d7f27744671c714e7453.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E02
 http://starshare.live:8080/series/salam/salam/48144.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E03" tvg-logo="http://starshare.live:8080/images/a75c9ef6fb44915d1380de72d8e5129a.jpg" group-title="NETFLIX", Sons of Anarchy S03 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E03" tvg-logo="http://starshare.live:8080/images/a75c9ef6fb44915d1380de72d8e5129a.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E03
 http://starshare.live:8080/series/salam/salam/48145.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E04" tvg-logo="http://starshare.live:8080/images/eb624396520174929f8d4cbdccd8d8fe.jpg" group-title="NETFLIX", Sons of Anarchy S03 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E04" tvg-logo="http://starshare.live:8080/images/eb624396520174929f8d4cbdccd8d8fe.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E04
 http://starshare.live:8080/series/salam/salam/48146.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E05" tvg-logo="http://starshare.live:8080/images/3c328267e053e0e8c51f48bdfb324cb7.jpg" group-title="NETFLIX", Sons of Anarchy S03 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E05" tvg-logo="http://starshare.live:8080/images/3c328267e053e0e8c51f48bdfb324cb7.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E05
 http://starshare.live:8080/series/salam/salam/48147.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E06" tvg-logo="http://starshare.live:8080/images/2c8d619c4c3f8f92b24b8dca12325b2d.jpg" group-title="NETFLIX", Sons of Anarchy S03 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E06" tvg-logo="http://starshare.live:8080/images/2c8d619c4c3f8f92b24b8dca12325b2d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E06
 http://starshare.live:8080/series/salam/salam/48148.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E07" tvg-logo="http://starshare.live:8080/images/7161582c48ad0c445e6bc0bf7e92520c.jpg" group-title="NETFLIX", Sons of Anarchy S03 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E07" tvg-logo="http://starshare.live:8080/images/7161582c48ad0c445e6bc0bf7e92520c.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E07
 http://starshare.live:8080/series/salam/salam/48149.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E08" tvg-logo="http://starshare.live:8080/images/65332355b8f5ae6482aff1abd4e34659.jpg" group-title="NETFLIX", Sons of Anarchy S03 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E08" tvg-logo="http://starshare.live:8080/images/65332355b8f5ae6482aff1abd4e34659.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E08
 http://starshare.live:8080/series/salam/salam/48150.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E09" tvg-logo="http://starshare.live:8080/images/a97a8a547a111bf53ab45726b2cf0e02.jpg" group-title="NETFLIX", Sons of Anarchy S03 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E09" tvg-logo="http://starshare.live:8080/images/a97a8a547a111bf53ab45726b2cf0e02.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E09
 http://starshare.live:8080/series/salam/salam/48151.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E10" tvg-logo="http://starshare.live:8080/images/524440509a8b00881f60bf72f3d6237b.jpg" group-title="NETFLIX", Sons of Anarchy S03 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E10" tvg-logo="http://starshare.live:8080/images/524440509a8b00881f60bf72f3d6237b.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E10
 http://starshare.live:8080/series/salam/salam/48152.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E11" tvg-logo="http://starshare.live:8080/images/e71df4cac70edbf3cce514d0a1100833.jpg" group-title="NETFLIX", Sons of Anarchy S03 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E11" tvg-logo="http://starshare.live:8080/images/e71df4cac70edbf3cce514d0a1100833.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E11
 http://starshare.live:8080/series/salam/salam/48153.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E12" tvg-logo="http://starshare.live:8080/images/38351622a8490e5e6cd06ee7c899d75e.jpg" group-title="NETFLIX", Sons of Anarchy S03 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E12" tvg-logo="http://starshare.live:8080/images/38351622a8490e5e6cd06ee7c899d75e.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E12
 http://starshare.live:8080/series/salam/salam/48154.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S03 E13" tvg-logo="http://starshare.live:8080/images/4e7fbcb9e32342ace636491b57296aaf.jpg" group-title="NETFLIX", Sons of Anarchy S03 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S03 E13" tvg-logo="http://starshare.live:8080/images/4e7fbcb9e32342ace636491b57296aaf.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S03 E13
 http://starshare.live:8080/series/salam/salam/48155.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E01" tvg-logo="http://starshare.live:8080/images/c3c42487703868673fd06fff565ca015.jpg" group-title="NETFLIX", Sons of Anarchy S04 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E01" tvg-logo="http://starshare.live:8080/images/c3c42487703868673fd06fff565ca015.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E01
 http://starshare.live:8080/series/salam/salam/48156.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E02" tvg-logo="http://starshare.live:8080/images/babf2326f6fb9febabcc3ca2b7d4e5d5.jpg" group-title="NETFLIX", Sons of Anarchy S04 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E02" tvg-logo="http://starshare.live:8080/images/babf2326f6fb9febabcc3ca2b7d4e5d5.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E02
 http://starshare.live:8080/series/salam/salam/48157.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E03" tvg-logo="http://starshare.live:8080/images/e97632ef9d3694674fffccb5de6b08e7.jpg" group-title="NETFLIX", Sons of Anarchy S04 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E03" tvg-logo="http://starshare.live:8080/images/e97632ef9d3694674fffccb5de6b08e7.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E03
 http://starshare.live:8080/series/salam/salam/48158.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E04" tvg-logo="http://starshare.live:8080/images/42ac4ccb02a5b7bd228aa707764760f3.jpg" group-title="NETFLIX", Sons of Anarchy S04 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E04" tvg-logo="http://starshare.live:8080/images/42ac4ccb02a5b7bd228aa707764760f3.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E04
 http://starshare.live:8080/series/salam/salam/48159.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E05" tvg-logo="http://starshare.live:8080/images/ec988ac795788cf0139ca5a221b38f04.jpg" group-title="NETFLIX", Sons of Anarchy S04 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E05" tvg-logo="http://starshare.live:8080/images/ec988ac795788cf0139ca5a221b38f04.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E05
 http://starshare.live:8080/series/salam/salam/48160.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E06" tvg-logo="http://starshare.live:8080/images/3cdadf8b49c9626fa58e42e34b6776fd.jpg" group-title="NETFLIX", Sons of Anarchy S04 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E06" tvg-logo="http://starshare.live:8080/images/3cdadf8b49c9626fa58e42e34b6776fd.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E06
 http://starshare.live:8080/series/salam/salam/48161.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E07" tvg-logo="http://starshare.live:8080/images/4eeaf3bc920be7192912aa95cf09c2b5.jpg" group-title="NETFLIX", Sons of Anarchy S04 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E07" tvg-logo="http://starshare.live:8080/images/4eeaf3bc920be7192912aa95cf09c2b5.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E07
 http://starshare.live:8080/series/salam/salam/48162.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E08" tvg-logo="http://starshare.live:8080/images/2c8e99c8f5d8dbdc36192656d8635849.jpg" group-title="NETFLIX", Sons of Anarchy S04 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E08" tvg-logo="http://starshare.live:8080/images/2c8e99c8f5d8dbdc36192656d8635849.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E08
 http://starshare.live:8080/series/salam/salam/48163.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E09" tvg-logo="http://starshare.live:8080/images/0a4f432ce21cfc26c0ebc124870a1bd2.jpg" group-title="NETFLIX", Sons of Anarchy S04 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E09" tvg-logo="http://starshare.live:8080/images/0a4f432ce21cfc26c0ebc124870a1bd2.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E09
 http://starshare.live:8080/series/salam/salam/48164.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E10" tvg-logo="http://starshare.live:8080/images/9257235ea436fb1a32feb04682ceedde.jpg" group-title="NETFLIX", Sons of Anarchy S04 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E10" tvg-logo="http://starshare.live:8080/images/9257235ea436fb1a32feb04682ceedde.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E10
 http://starshare.live:8080/series/salam/salam/48165.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E11" tvg-logo="http://starshare.live:8080/images/d7ec501e6d17558868edd9a04242fdd1.jpg" group-title="NETFLIX", Sons of Anarchy S04 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E11" tvg-logo="http://starshare.live:8080/images/d7ec501e6d17558868edd9a04242fdd1.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E11
 http://starshare.live:8080/series/salam/salam/48166.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E12" tvg-logo="http://starshare.live:8080/images/e32d20cc124b7ad07fe08d03b5fddeab.jpg" group-title="NETFLIX", Sons of Anarchy S04 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E12" tvg-logo="http://starshare.live:8080/images/e32d20cc124b7ad07fe08d03b5fddeab.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E12
 http://starshare.live:8080/series/salam/salam/48167.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E13" tvg-logo="http://starshare.live:8080/images/6cf947166c5d561369407b89ef68053d.jpg" group-title="NETFLIX", Sons of Anarchy S04 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E13" tvg-logo="http://starshare.live:8080/images/6cf947166c5d561369407b89ef68053d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E13
 http://starshare.live:8080/series/salam/salam/48168.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S04 E14" tvg-logo="http://starshare.live:8080/images/a63f2181f6013920428c3b22a603625c.jpg" group-title="NETFLIX", Sons of Anarchy S04 E14
+#EXTINF:-1 tvg-id="Sons of Anarchy S04 E14" tvg-logo="http://starshare.live:8080/images/a63f2181f6013920428c3b22a603625c.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S04 E14
 http://starshare.live:8080/series/salam/salam/48169.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E01" tvg-logo="http://starshare.live:8080/images/1240b30c0ec4bd6a8225f0c132bdf03d.jpg" group-title="NETFLIX", Sons of Anarchy S05 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E01" tvg-logo="http://starshare.live:8080/images/1240b30c0ec4bd6a8225f0c132bdf03d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E01
 http://starshare.live:8080/series/salam/salam/48170.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E02" tvg-logo="http://starshare.live:8080/images/afb390ed96454dd4106cd70b77c06596.jpg" group-title="NETFLIX", Sons of Anarchy S05 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E02" tvg-logo="http://starshare.live:8080/images/afb390ed96454dd4106cd70b77c06596.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E02
 http://starshare.live:8080/series/salam/salam/48171.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E03" tvg-logo="http://starshare.live:8080/images/2864ae50998a1d473755a9dcd26c7468.jpg" group-title="NETFLIX", Sons of Anarchy S05 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E03" tvg-logo="http://starshare.live:8080/images/2864ae50998a1d473755a9dcd26c7468.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E03
 http://starshare.live:8080/series/salam/salam/48172.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E04" tvg-logo="http://starshare.live:8080/images/b7374a93646b87e8614db643fab9e698.jpg" group-title="NETFLIX", Sons of Anarchy S05 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E04" tvg-logo="http://starshare.live:8080/images/b7374a93646b87e8614db643fab9e698.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E04
 http://starshare.live:8080/series/salam/salam/48173.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E05" tvg-logo="http://starshare.live:8080/images/14f8ecbace71100afbedf00b4d50fa6e.jpg" group-title="NETFLIX", Sons of Anarchy S05 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E05" tvg-logo="http://starshare.live:8080/images/14f8ecbace71100afbedf00b4d50fa6e.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E05
 http://starshare.live:8080/series/salam/salam/48174.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E06" tvg-logo="http://starshare.live:8080/images/821ab58d891519fde6df4588b6926ca6.jpg" group-title="NETFLIX", Sons of Anarchy S05 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E06" tvg-logo="http://starshare.live:8080/images/821ab58d891519fde6df4588b6926ca6.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E06
 http://starshare.live:8080/series/salam/salam/48175.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E07" tvg-logo="http://starshare.live:8080/images/1bf12cbdd2cd265e2b75b1f2b80266fc.jpg" group-title="NETFLIX", Sons of Anarchy S05 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E07" tvg-logo="http://starshare.live:8080/images/1bf12cbdd2cd265e2b75b1f2b80266fc.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E07
 http://starshare.live:8080/series/salam/salam/48176.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E08" tvg-logo="http://starshare.live:8080/images/e9ec69b22399c7a869291b5697ee7c8f.jpg" group-title="NETFLIX", Sons of Anarchy S05 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E08" tvg-logo="http://starshare.live:8080/images/e9ec69b22399c7a869291b5697ee7c8f.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E08
 http://starshare.live:8080/series/salam/salam/48177.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E09" tvg-logo="http://starshare.live:8080/images/7b072a25989182f2c0c8ea07a3b61fc5.jpg" group-title="NETFLIX", Sons of Anarchy S05 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E09" tvg-logo="http://starshare.live:8080/images/7b072a25989182f2c0c8ea07a3b61fc5.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E09
 http://starshare.live:8080/series/salam/salam/48178.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E10" tvg-logo="http://starshare.live:8080/images/6080a93e5cef5d6b19ba1af5d64cc61b.jpg" group-title="NETFLIX", Sons of Anarchy S05 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E10" tvg-logo="http://starshare.live:8080/images/6080a93e5cef5d6b19ba1af5d64cc61b.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E10
 http://starshare.live:8080/series/salam/salam/48179.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E11" tvg-logo="http://starshare.live:8080/images/291e2ce628058d50856ce5b35d02d299.jpg" group-title="NETFLIX", Sons of Anarchy S05 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E11" tvg-logo="http://starshare.live:8080/images/291e2ce628058d50856ce5b35d02d299.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E11
 http://starshare.live:8080/series/salam/salam/48180.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E12" tvg-logo="http://starshare.live:8080/images/a2e9bc9e4526b6be8d85dd6ecb78c016.jpg" group-title="NETFLIX", Sons of Anarchy S05 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E12" tvg-logo="http://starshare.live:8080/images/a2e9bc9e4526b6be8d85dd6ecb78c016.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E12
 http://starshare.live:8080/series/salam/salam/48181.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S05 E13" tvg-logo="http://starshare.live:8080/images/ded1b0ed19a68ac960ebd460cb2eeef9.jpg" group-title="NETFLIX", Sons of Anarchy S05 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S05 E13" tvg-logo="http://starshare.live:8080/images/ded1b0ed19a68ac960ebd460cb2eeef9.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S05 E13
 http://starshare.live:8080/series/salam/salam/48182.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E01" tvg-logo="http://starshare.live:8080/images/4a8aeee47a3168b2086918c7459bc7f3.jpg" group-title="NETFLIX", Sons of Anarchy S06 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E01" tvg-logo="http://starshare.live:8080/images/4a8aeee47a3168b2086918c7459bc7f3.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E01
 http://starshare.live:8080/series/salam/salam/48183.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E02" tvg-logo="http://starshare.live:8080/images/a41f5435fe45f1c38854724b80573e53.jpg" group-title="NETFLIX", Sons of Anarchy S06 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E02" tvg-logo="http://starshare.live:8080/images/a41f5435fe45f1c38854724b80573e53.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E02
 http://starshare.live:8080/series/salam/salam/48184.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E03" tvg-logo="http://starshare.live:8080/images/d97a31e7c5cb4356c50d0a9a9b7219c6.jpg" group-title="NETFLIX", Sons of Anarchy S06 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E03" tvg-logo="http://starshare.live:8080/images/d97a31e7c5cb4356c50d0a9a9b7219c6.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E03
 http://starshare.live:8080/series/salam/salam/48185.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E04" tvg-logo="http://starshare.live:8080/images/6a2c467c765207cc542ccf846c539e27.jpg" group-title="NETFLIX", Sons of Anarchy S06 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E04" tvg-logo="http://starshare.live:8080/images/6a2c467c765207cc542ccf846c539e27.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E04
 http://starshare.live:8080/series/salam/salam/48186.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E05" tvg-logo="http://starshare.live:8080/images/a8b9fa46d02fe953d24304a2844da8e0.jpg" group-title="NETFLIX", Sons of Anarchy S06 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E05" tvg-logo="http://starshare.live:8080/images/a8b9fa46d02fe953d24304a2844da8e0.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E05
 http://starshare.live:8080/series/salam/salam/48187.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E06" tvg-logo="http://starshare.live:8080/images/d771e7b6f1e37e2b482292c130c8ef87.jpg" group-title="NETFLIX", Sons of Anarchy S06 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E06" tvg-logo="http://starshare.live:8080/images/d771e7b6f1e37e2b482292c130c8ef87.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E06
 http://starshare.live:8080/series/salam/salam/48188.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E07" tvg-logo="http://starshare.live:8080/images/e2e79d2fdaef098c134f696a65397fb5.jpg" group-title="NETFLIX", Sons of Anarchy S06 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E07" tvg-logo="http://starshare.live:8080/images/e2e79d2fdaef098c134f696a65397fb5.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E07
 http://starshare.live:8080/series/salam/salam/48189.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E08" tvg-logo="http://starshare.live:8080/images/20db95f46c2be69f61d69b79b86ea57b.jpg" group-title="NETFLIX", Sons of Anarchy S06 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E08" tvg-logo="http://starshare.live:8080/images/20db95f46c2be69f61d69b79b86ea57b.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E08
 http://starshare.live:8080/series/salam/salam/48190.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E09" tvg-logo="http://starshare.live:8080/images/99d43ad3e5574271751f1421d850872b.jpg" group-title="NETFLIX", Sons of Anarchy S06 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E09" tvg-logo="http://starshare.live:8080/images/99d43ad3e5574271751f1421d850872b.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E09
 http://starshare.live:8080/series/salam/salam/48191.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E10" tvg-logo="http://starshare.live:8080/images/1b970caad0ce1e8ab1cc4b9804ca1130.jpg" group-title="NETFLIX", Sons of Anarchy S06 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E10" tvg-logo="http://starshare.live:8080/images/1b970caad0ce1e8ab1cc4b9804ca1130.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E10
 http://starshare.live:8080/series/salam/salam/48192.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E11" tvg-logo="http://starshare.live:8080/images/95bd011d05bc181740ebc803e36f2974.jpg" group-title="NETFLIX", Sons of Anarchy S06 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E11" tvg-logo="http://starshare.live:8080/images/95bd011d05bc181740ebc803e36f2974.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E11
 http://starshare.live:8080/series/salam/salam/48193.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E12" tvg-logo="http://starshare.live:8080/images/cb7cd5ae9a984549f80a1860d9ba5e43.jpg" group-title="NETFLIX", Sons of Anarchy S06 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E12" tvg-logo="http://starshare.live:8080/images/cb7cd5ae9a984549f80a1860d9ba5e43.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E12
 http://starshare.live:8080/series/salam/salam/48194.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S06 E13" tvg-logo="http://starshare.live:8080/images/3f18a96750c021e7b079bbb29cbbefa5.jpg" group-title="NETFLIX", Sons of Anarchy S06 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S06 E13" tvg-logo="http://starshare.live:8080/images/3f18a96750c021e7b079bbb29cbbefa5.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S06 E13
 http://starshare.live:8080/series/salam/salam/48195.mkv
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E01" tvg-logo="http://starshare.live:8080/images/b36521ad856fa39313567ec980375227.jpg" group-title="NETFLIX", Sons of Anarchy S07 E01
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E01" tvg-logo="http://starshare.live:8080/images/b36521ad856fa39313567ec980375227.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E01
 http://starshare.live:8080/series/salam/salam/48196.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E02" tvg-logo="http://starshare.live:8080/images/3f1612d9aa670f2f152eccc7c36ac799.jpg" group-title="NETFLIX", Sons of Anarchy S07 E02
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E02" tvg-logo="http://starshare.live:8080/images/3f1612d9aa670f2f152eccc7c36ac799.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E02
 http://starshare.live:8080/series/salam/salam/48197.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E03" tvg-logo="http://starshare.live:8080/images/6485ec4c691c1ac06c722663e7910619.jpg" group-title="NETFLIX", Sons of Anarchy S07 E03
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E03" tvg-logo="http://starshare.live:8080/images/6485ec4c691c1ac06c722663e7910619.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E03
 http://starshare.live:8080/series/salam/salam/48198.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E04" tvg-logo="http://starshare.live:8080/images/3078a68a5a5abe2851610c2e7d9ecdfd.jpg" group-title="NETFLIX", Sons of Anarchy S07 E04
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E04" tvg-logo="http://starshare.live:8080/images/3078a68a5a5abe2851610c2e7d9ecdfd.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E04
 http://starshare.live:8080/series/salam/salam/48199.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E05" tvg-logo="http://starshare.live:8080/images/1602550d00cdf7f50cf8153d73005a59.jpg" group-title="NETFLIX", Sons of Anarchy S07 E05
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E05" tvg-logo="http://starshare.live:8080/images/1602550d00cdf7f50cf8153d73005a59.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E05
 http://starshare.live:8080/series/salam/salam/48200.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E06" tvg-logo="http://starshare.live:8080/images/8cbd0f1a1664dcce2601ec4942d2d9f1.jpg" group-title="NETFLIX", Sons of Anarchy S07 E06
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E06" tvg-logo="http://starshare.live:8080/images/8cbd0f1a1664dcce2601ec4942d2d9f1.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E06
 http://starshare.live:8080/series/salam/salam/48201.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E07" tvg-logo="http://starshare.live:8080/images/20591aad9f317ba95db03bee7453aa3c.jpg" group-title="NETFLIX", Sons of Anarchy S07 E07
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E07" tvg-logo="http://starshare.live:8080/images/20591aad9f317ba95db03bee7453aa3c.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E07
 http://starshare.live:8080/series/salam/salam/48202.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E08" tvg-logo="http://starshare.live:8080/images/1eac74f5c1c2ed8828103bfd6e8afd93.jpg" group-title="NETFLIX", Sons of Anarchy S07 E08
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E08" tvg-logo="http://starshare.live:8080/images/1eac74f5c1c2ed8828103bfd6e8afd93.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E08
 http://starshare.live:8080/series/salam/salam/48203.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E09" tvg-logo="http://starshare.live:8080/images/ca1fd2bbb7a987eb5f52893b8d368c5d.jpg" group-title="NETFLIX", Sons of Anarchy S07 E09
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E09" tvg-logo="http://starshare.live:8080/images/ca1fd2bbb7a987eb5f52893b8d368c5d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E09
 http://starshare.live:8080/series/salam/salam/48204.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E10" tvg-logo="http://starshare.live:8080/images/5e3ba5bb5e5e17e2105a5172fad3142d.jpg" group-title="NETFLIX", Sons of Anarchy S07 E10
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E10" tvg-logo="http://starshare.live:8080/images/5e3ba5bb5e5e17e2105a5172fad3142d.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E10
 http://starshare.live:8080/series/salam/salam/48205.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E11" tvg-logo="http://starshare.live:8080/images/769c07c96695d840b104d96773d27d3c.jpg" group-title="NETFLIX", Sons of Anarchy S07 E11
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E11" tvg-logo="http://starshare.live:8080/images/769c07c96695d840b104d96773d27d3c.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E11
 http://starshare.live:8080/series/salam/salam/48206.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E12" tvg-logo="http://starshare.live:8080/images/03d46ef0e4feb788d586ac068b976b1a.jpg" group-title="NETFLIX", Sons of Anarchy S07 E12
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E12" tvg-logo="http://starshare.live:8080/images/03d46ef0e4feb788d586ac068b976b1a.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E12
 http://starshare.live:8080/series/salam/salam/48207.mp4
-#EXTINF:-1 tvg-id="Sons of Anarchy S07 E13" tvg-logo="http://starshare.live:8080/images/4896cfe75b4aa5a3ec78eed416c25fc3.jpg" group-title="NETFLIX", Sons of Anarchy S07 E13
+#EXTINF:-1 tvg-id="Sons of Anarchy S07 E13" tvg-logo="http://starshare.live:8080/images/4896cfe75b4aa5a3ec78eed416c25fc3.jpg" group-title="NETFLIX Sons of Anarchy", Sons of Anarchy S07 E13
 http://starshare.live:8080/series/salam/salam/48208.mp4
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E01" tvg-logo="http://starshare.live:8080/images/8a7c2e287abc9e3e7436979c21640483.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E01
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E01" tvg-logo="http://starshare.live:8080/images/8a7c2e287abc9e3e7436979c21640483.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E01
 http://starshare.live:8080/series/salam/salam/48209.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E02" tvg-logo="http://starshare.live:8080/images/aeec1004956e2ca7228a00fe85a7c5aa.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E02
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E02" tvg-logo="http://starshare.live:8080/images/aeec1004956e2ca7228a00fe85a7c5aa.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E02
 http://starshare.live:8080/series/salam/salam/48210.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E03" tvg-logo="http://starshare.live:8080/images/c493d7c7b9dc2f36319e13f284fc3d8e.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E03
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E03" tvg-logo="http://starshare.live:8080/images/c493d7c7b9dc2f36319e13f284fc3d8e.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E03
 http://starshare.live:8080/series/salam/salam/48211.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E04" tvg-logo="http://starshare.live:8080/images/935f36c86d10712d8f8a490148c75213.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E04
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E04" tvg-logo="http://starshare.live:8080/images/935f36c86d10712d8f8a490148c75213.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E04
 http://starshare.live:8080/series/salam/salam/48212.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E05" tvg-logo="http://starshare.live:8080/images/f9cb896e141799de47621eee2f702771.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E05
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E05" tvg-logo="http://starshare.live:8080/images/f9cb896e141799de47621eee2f702771.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E05
 http://starshare.live:8080/series/salam/salam/48213.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E06" tvg-logo="http://starshare.live:8080/images/9018edc8fecfc5a032b505876f4ac705.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E06
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E06" tvg-logo="http://starshare.live:8080/images/9018edc8fecfc5a032b505876f4ac705.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E06
 http://starshare.live:8080/series/salam/salam/48214.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E07" tvg-logo="http://starshare.live:8080/images/369d037c73821b745617d3362a67bd0f.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E07
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E07" tvg-logo="http://starshare.live:8080/images/369d037c73821b745617d3362a67bd0f.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E07
 http://starshare.live:8080/series/salam/salam/48215.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E08" tvg-logo="http://starshare.live:8080/images/f1c183221cd9ba4a1e8a6db518341d0a.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E08
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E08" tvg-logo="http://starshare.live:8080/images/f1c183221cd9ba4a1e8a6db518341d0a.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E08
 http://starshare.live:8080/series/salam/salam/48216.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E09" tvg-logo="http://starshare.live:8080/images/faf399b4147f6f28c3d1f6c26ec2aff1.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E09
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E09" tvg-logo="http://starshare.live:8080/images/faf399b4147f6f28c3d1f6c26ec2aff1.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E09
 http://starshare.live:8080/series/salam/salam/48217.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E10" tvg-logo="http://starshare.live:8080/images/97b650555ac2951c61f36e2daf0a86d6.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E10
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E10" tvg-logo="http://starshare.live:8080/images/97b650555ac2951c61f36e2daf0a86d6.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E10
 http://starshare.live:8080/series/salam/salam/48218.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E01" tvg-logo="http://starshare.live:8080/images/cf522ec81cd24470a993baf096b6fd5e.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E01
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E01" tvg-logo="http://starshare.live:8080/images/cf522ec81cd24470a993baf096b6fd5e.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E01
 http://starshare.live:8080/series/salam/salam/48219.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E02" tvg-logo="http://starshare.live:8080/images/f8fffd35065348df8ffe18fa6365ebb0.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E02
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E02" tvg-logo="http://starshare.live:8080/images/f8fffd35065348df8ffe18fa6365ebb0.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E02
 http://starshare.live:8080/series/salam/salam/48220.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E03" tvg-logo="http://starshare.live:8080/images/c412ad76a941f3df63dd1788788fe300.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E03
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E03" tvg-logo="http://starshare.live:8080/images/c412ad76a941f3df63dd1788788fe300.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E03
 http://starshare.live:8080/series/salam/salam/48221.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E04" tvg-logo="http://starshare.live:8080/images/68f07cda3cbb6c61bc6f31b8deb0d1a1.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E04
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E04" tvg-logo="http://starshare.live:8080/images/68f07cda3cbb6c61bc6f31b8deb0d1a1.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E04
 http://starshare.live:8080/series/salam/salam/48222.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E05" tvg-logo="http://starshare.live:8080/images/a9a33e6ffa8c7878ca65808034feae34.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E05
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E05" tvg-logo="http://starshare.live:8080/images/a9a33e6ffa8c7878ca65808034feae34.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E05
 http://starshare.live:8080/series/salam/salam/48223.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E06" tvg-logo="http://starshare.live:8080/images/32d21d52d81c8038bbfc77af30291d94.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E06
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E06" tvg-logo="http://starshare.live:8080/images/32d21d52d81c8038bbfc77af30291d94.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E06
 http://starshare.live:8080/series/salam/salam/48224.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E07" tvg-logo="http://starshare.live:8080/images/033c93b45b8af4091b023c28768eeb22.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E07
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E07" tvg-logo="http://starshare.live:8080/images/033c93b45b8af4091b023c28768eeb22.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E07
 http://starshare.live:8080/series/salam/salam/48225.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E08" tvg-logo="http://starshare.live:8080/images/a2d26d0e5633c9f5d6096ab2097174cb.jpg" group-title="NETFLIX", The Baby-Sitters Club S02 E08
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S02 E08" tvg-logo="http://starshare.live:8080/images/a2d26d0e5633c9f5d6096ab2097174cb.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S02 E08
 http://starshare.live:8080/series/salam/salam/48226.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E01" tvg-logo="http://starshare.live:8080/images/c8bd6bb4242a8bbeb8578d250de50077.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E01
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E01" tvg-logo="http://starshare.live:8080/images/c8bd6bb4242a8bbeb8578d250de50077.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E01
 http://starshare.live:8080/series/salam/salam/48237.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E02" tvg-logo="http://starshare.live:8080/images/86f8494c533040303120730348f4b5ff.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E02
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E02" tvg-logo="http://starshare.live:8080/images/86f8494c533040303120730348f4b5ff.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E02
 http://starshare.live:8080/series/salam/salam/48238.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E03" tvg-logo="http://starshare.live:8080/images/718ac3fc0aba08ea5bfa40a1e3d5c16c.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E03
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E03" tvg-logo="http://starshare.live:8080/images/718ac3fc0aba08ea5bfa40a1e3d5c16c.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E03
 http://starshare.live:8080/series/salam/salam/48239.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E04" tvg-logo="http://starshare.live:8080/images/3268329b3d568fcb1a626604ea1db22f.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E04
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E04" tvg-logo="http://starshare.live:8080/images/3268329b3d568fcb1a626604ea1db22f.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E04
 http://starshare.live:8080/series/salam/salam/48240.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E05" tvg-logo="http://starshare.live:8080/images/a80e86dad4b6ecf338f9b85911945b1e.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E05
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E05" tvg-logo="http://starshare.live:8080/images/a80e86dad4b6ecf338f9b85911945b1e.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E05
 http://starshare.live:8080/series/salam/salam/48241.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E06" tvg-logo="http://starshare.live:8080/images/12896e3a998f547e5c9f05b9eeab65ea.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E06
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E06" tvg-logo="http://starshare.live:8080/images/12896e3a998f547e5c9f05b9eeab65ea.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E06
 http://starshare.live:8080/series/salam/salam/48242.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E07" tvg-logo="http://starshare.live:8080/images/f98adf69bdf82c0c1154cc3db4b802d3.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E07
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E07" tvg-logo="http://starshare.live:8080/images/f98adf69bdf82c0c1154cc3db4b802d3.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E07
 http://starshare.live:8080/series/salam/salam/48243.mkv
-#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E08" tvg-logo="http://starshare.live:8080/images/3fa08354c427b27688b521e1e86ce1b5.jpg" group-title="NETFLIX", The Healing Powers of Dude S01 E08
+#EXTINF:-1 tvg-id="The Healing Powers of Dude S01 E08" tvg-logo="http://starshare.live:8080/images/3fa08354c427b27688b521e1e86ce1b5.jpg" group-title="NETFLIX The Healing Powers of Dude", The Healing Powers of Dude S01 E08
 http://starshare.live:8080/series/salam/salam/48244.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E01" tvg-logo="http://starshare.live:8080/images/1d9f129748b4ec0dd9897d02135bd1be.jpg" group-title="NETFLIX", Country Comfort S01 E01
+#EXTINF:-1 tvg-id="Country Comfort S01 E01" tvg-logo="http://starshare.live:8080/images/1d9f129748b4ec0dd9897d02135bd1be.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E01
 http://starshare.live:8080/series/salam/salam/48254.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E02" tvg-logo="http://starshare.live:8080/images/247bb010d0f42df78d4500f3389de790.jpg" group-title="NETFLIX", Country Comfort S01 E02
+#EXTINF:-1 tvg-id="Country Comfort S01 E02" tvg-logo="http://starshare.live:8080/images/247bb010d0f42df78d4500f3389de790.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E02
 http://starshare.live:8080/series/salam/salam/48255.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E03" tvg-logo="http://starshare.live:8080/images/18ba73eb01e33be32bd4e676d3fe7a89.jpg" group-title="NETFLIX", Country Comfort S01 E03
+#EXTINF:-1 tvg-id="Country Comfort S01 E03" tvg-logo="http://starshare.live:8080/images/18ba73eb01e33be32bd4e676d3fe7a89.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E03
 http://starshare.live:8080/series/salam/salam/48256.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E04" tvg-logo="http://starshare.live:8080/images/8017e71eafdada088c7f9774820499a0.jpg" group-title="NETFLIX", Country Comfort S01 E04
+#EXTINF:-1 tvg-id="Country Comfort S01 E04" tvg-logo="http://starshare.live:8080/images/8017e71eafdada088c7f9774820499a0.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E04
 http://starshare.live:8080/series/salam/salam/48257.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E05" tvg-logo="http://starshare.live:8080/images/55561aecf79fcaf33abef3446a74eafd.jpg" group-title="NETFLIX", Country Comfort S01 E05
+#EXTINF:-1 tvg-id="Country Comfort S01 E05" tvg-logo="http://starshare.live:8080/images/55561aecf79fcaf33abef3446a74eafd.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E05
 http://starshare.live:8080/series/salam/salam/48258.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E06" tvg-logo="http://starshare.live:8080/images/924250544b46d2dab8ee7c62ec78cc07.jpg" group-title="NETFLIX", Country Comfort S01 E06
+#EXTINF:-1 tvg-id="Country Comfort S01 E06" tvg-logo="http://starshare.live:8080/images/924250544b46d2dab8ee7c62ec78cc07.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E06
 http://starshare.live:8080/series/salam/salam/48259.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E07" tvg-logo="http://starshare.live:8080/images/d673650e595dcecd0959592275ea4b27.jpg" group-title="NETFLIX", Country Comfort S01 E07
+#EXTINF:-1 tvg-id="Country Comfort S01 E07" tvg-logo="http://starshare.live:8080/images/d673650e595dcecd0959592275ea4b27.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E07
 http://starshare.live:8080/series/salam/salam/48260.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E08" tvg-logo="http://starshare.live:8080/images/0dff4d060b9b5833354ac725d75c274c.jpg" group-title="NETFLIX", Country Comfort S01 E08
+#EXTINF:-1 tvg-id="Country Comfort S01 E08" tvg-logo="http://starshare.live:8080/images/0dff4d060b9b5833354ac725d75c274c.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E08
 http://starshare.live:8080/series/salam/salam/48261.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E09" tvg-logo="http://starshare.live:8080/images/de4b8db5436ba7bbb01ee35466bf93be.jpg" group-title="NETFLIX", Country Comfort S01 E09
+#EXTINF:-1 tvg-id="Country Comfort S01 E09" tvg-logo="http://starshare.live:8080/images/de4b8db5436ba7bbb01ee35466bf93be.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E09
 http://starshare.live:8080/series/salam/salam/48262.mkv
-#EXTINF:-1 tvg-id="Country Comfort S01 E10" tvg-logo="http://starshare.live:8080/images/f664b6febe804c8a4747b500d3efb92d.jpg" group-title="NETFLIX", Country Comfort S01 E10
+#EXTINF:-1 tvg-id="Country Comfort S01 E10" tvg-logo="http://starshare.live:8080/images/f664b6febe804c8a4747b500d3efb92d.jpg" group-title="NETFLIX Country Comfort", Country Comfort S01 E10
 http://starshare.live:8080/series/salam/salam/48263.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E01" tvg-logo="http://starshare.live:8080/images/06fb4d75d13f426dca61aa2dee916193.jpg" group-title="NETFLIX", Baking Impossible S01 E01
+#EXTINF:-1 tvg-id="Baking Impossible S01 E01" tvg-logo="http://starshare.live:8080/images/06fb4d75d13f426dca61aa2dee916193.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E01
 http://starshare.live:8080/series/salam/salam/48264.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E02" tvg-logo="http://starshare.live:8080/images/61619ef5f600928bb4e1733cf8d2c276.jpg" group-title="NETFLIX", Baking Impossible S01 E02
+#EXTINF:-1 tvg-id="Baking Impossible S01 E02" tvg-logo="http://starshare.live:8080/images/61619ef5f600928bb4e1733cf8d2c276.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E02
 http://starshare.live:8080/series/salam/salam/48265.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E03" tvg-logo="http://starshare.live:8080/images/7f94a55a7d90a8faf23825ad6d231763.jpg" group-title="NETFLIX", Baking Impossible S01 E03
+#EXTINF:-1 tvg-id="Baking Impossible S01 E03" tvg-logo="http://starshare.live:8080/images/7f94a55a7d90a8faf23825ad6d231763.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E03
 http://starshare.live:8080/series/salam/salam/48266.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E04" tvg-logo="http://starshare.live:8080/images/ebf6ffc58aee16cdf26855464caefca2.jpg" group-title="NETFLIX", Baking Impossible S01 E04
+#EXTINF:-1 tvg-id="Baking Impossible S01 E04" tvg-logo="http://starshare.live:8080/images/ebf6ffc58aee16cdf26855464caefca2.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E04
 http://starshare.live:8080/series/salam/salam/48267.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E05" tvg-logo="http://starshare.live:8080/images/3c61d439b55c69d751d7dae2bc4e4cd7.jpg" group-title="NETFLIX", Baking Impossible S01 E05
+#EXTINF:-1 tvg-id="Baking Impossible S01 E05" tvg-logo="http://starshare.live:8080/images/3c61d439b55c69d751d7dae2bc4e4cd7.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E05
 http://starshare.live:8080/series/salam/salam/48268.mkv
-#EXTINF:-1 tvg-id="Baking Impossible S01 E06" tvg-logo="http://starshare.live:8080/images/f8956dbe0e40c677681d75838e2a7552.jpg" group-title="NETFLIX", Baking Impossible S01 E06
+#EXTINF:-1 tvg-id="Baking Impossible S01 E06" tvg-logo="http://starshare.live:8080/images/f8956dbe0e40c677681d75838e2a7552.jpg" group-title="NETFLIX Baking Impossible", Baking Impossible S01 E06
 http://starshare.live:8080/series/salam/salam/48269.mkv
-#EXTINF:-1 tvg-id="Black Lightning S01 E01" tvg-logo="http://starshare.live:8080/images/374a10d4b2725ae413ef5e9cb43dc8ec.jpg" group-title="NETFLIX", Black Lightning S01 E01
+#EXTINF:-1 tvg-id="Black Lightning S01 E01" tvg-logo="http://starshare.live:8080/images/374a10d4b2725ae413ef5e9cb43dc8ec.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E01
 http://starshare.live:8080/series/salam/salam/48308.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E02" tvg-logo="http://starshare.live:8080/images/17189e4de6d93e51ac0af9faa478c277.jpg" group-title="NETFLIX", Black Lightning S01 E02
+#EXTINF:-1 tvg-id="Black Lightning S01 E02" tvg-logo="http://starshare.live:8080/images/17189e4de6d93e51ac0af9faa478c277.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E02
 http://starshare.live:8080/series/salam/salam/48309.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E03" tvg-logo="http://starshare.live:8080/images/95f9dab709fd5014c77fb4eb88fc1cc9.jpg" group-title="NETFLIX", Black Lightning S01 E03
+#EXTINF:-1 tvg-id="Black Lightning S01 E03" tvg-logo="http://starshare.live:8080/images/95f9dab709fd5014c77fb4eb88fc1cc9.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E03
 http://starshare.live:8080/series/salam/salam/48310.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E04" tvg-logo="http://starshare.live:8080/images/6c2330499a404a5f3276df5bfe2fda50.jpg" group-title="NETFLIX", Black Lightning S01 E04
+#EXTINF:-1 tvg-id="Black Lightning S01 E04" tvg-logo="http://starshare.live:8080/images/6c2330499a404a5f3276df5bfe2fda50.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E04
 http://starshare.live:8080/series/salam/salam/48311.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E05" tvg-logo="http://starshare.live:8080/images/fb9082397b7e16ebb92edb080e6589d3.jpg" group-title="NETFLIX", Black Lightning S01 E05
+#EXTINF:-1 tvg-id="Black Lightning S01 E05" tvg-logo="http://starshare.live:8080/images/fb9082397b7e16ebb92edb080e6589d3.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E05
 http://starshare.live:8080/series/salam/salam/48312.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E06" tvg-logo="http://starshare.live:8080/images/319321bb2763936f26e31977dcf7e66a.jpg" group-title="NETFLIX", Black Lightning S01 E06
+#EXTINF:-1 tvg-id="Black Lightning S01 E06" tvg-logo="http://starshare.live:8080/images/319321bb2763936f26e31977dcf7e66a.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E06
 http://starshare.live:8080/series/salam/salam/48313.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E07" tvg-logo="http://starshare.live:8080/images/1074dbeb31e5e32e461cfbf73631b172.jpg" group-title="NETFLIX", Black Lightning S01 E07
+#EXTINF:-1 tvg-id="Black Lightning S01 E07" tvg-logo="http://starshare.live:8080/images/1074dbeb31e5e32e461cfbf73631b172.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E07
 http://starshare.live:8080/series/salam/salam/48314.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E08" tvg-logo="http://starshare.live:8080/images/70e88f697957f339aff5b4fa481b8b48.jpg" group-title="NETFLIX", Black Lightning S01 E08
+#EXTINF:-1 tvg-id="Black Lightning S01 E08" tvg-logo="http://starshare.live:8080/images/70e88f697957f339aff5b4fa481b8b48.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E08
 http://starshare.live:8080/series/salam/salam/48315.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E09" tvg-logo="http://starshare.live:8080/images/98a05f1499420c54b7a875e4ebccd7e7.jpg" group-title="NETFLIX", Black Lightning S01 E09
+#EXTINF:-1 tvg-id="Black Lightning S01 E09" tvg-logo="http://starshare.live:8080/images/98a05f1499420c54b7a875e4ebccd7e7.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E09
 http://starshare.live:8080/series/salam/salam/48316.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E10" tvg-logo="http://starshare.live:8080/images/35b4e636054c379ca76084d7b915bf0f.jpg" group-title="NETFLIX", Black Lightning S01 E10
+#EXTINF:-1 tvg-id="Black Lightning S01 E10" tvg-logo="http://starshare.live:8080/images/35b4e636054c379ca76084d7b915bf0f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E10
 http://starshare.live:8080/series/salam/salam/48317.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E11" tvg-logo="http://starshare.live:8080/images/e3c1e46eeef7a2dc25235cdc3e9a3d70.jpg" group-title="NETFLIX", Black Lightning S01 E11
+#EXTINF:-1 tvg-id="Black Lightning S01 E11" tvg-logo="http://starshare.live:8080/images/e3c1e46eeef7a2dc25235cdc3e9a3d70.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E11
 http://starshare.live:8080/series/salam/salam/48318.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E12" tvg-logo="http://starshare.live:8080/images/baac11bea9d31893b6eba5840162089e.jpg" group-title="NETFLIX", Black Lightning S01 E12
+#EXTINF:-1 tvg-id="Black Lightning S01 E12" tvg-logo="http://starshare.live:8080/images/baac11bea9d31893b6eba5840162089e.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E12
 http://starshare.live:8080/series/salam/salam/48319.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E13" tvg-logo="http://starshare.live:8080/images/9d46e461d46bc68962d5e80954166219.jpg" group-title="NETFLIX", Black Lightning S01 E13
+#EXTINF:-1 tvg-id="Black Lightning S01 E13" tvg-logo="http://starshare.live:8080/images/9d46e461d46bc68962d5e80954166219.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E13
 http://starshare.live:8080/series/salam/salam/48320.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E01" tvg-logo="http://starshare.live:8080/images/dc6931af873e32647808bb33d5418143.jpg" group-title="NETFLIX", Black Lightning S02 E01
+#EXTINF:-1 tvg-id="Black Lightning S02 E01" tvg-logo="http://starshare.live:8080/images/dc6931af873e32647808bb33d5418143.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E01
 http://starshare.live:8080/series/salam/salam/48321.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E02" tvg-logo="http://starshare.live:8080/images/ec6fa0481c95d1275c5f2a5b615bcdfe.jpg" group-title="NETFLIX", Black Lightning S02 E02
+#EXTINF:-1 tvg-id="Black Lightning S02 E02" tvg-logo="http://starshare.live:8080/images/ec6fa0481c95d1275c5f2a5b615bcdfe.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E02
 http://starshare.live:8080/series/salam/salam/48322.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E03" tvg-logo="http://starshare.live:8080/images/fa48844cc5097299abc2732a139048bc.jpg" group-title="NETFLIX", Black Lightning S02 E03
+#EXTINF:-1 tvg-id="Black Lightning S02 E03" tvg-logo="http://starshare.live:8080/images/fa48844cc5097299abc2732a139048bc.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E03
 http://starshare.live:8080/series/salam/salam/48323.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E04" tvg-logo="http://starshare.live:8080/images/5cc740b08f6c90c7e76869a4e7e75c4f.jpg" group-title="NETFLIX", Black Lightning S02 E04
+#EXTINF:-1 tvg-id="Black Lightning S02 E04" tvg-logo="http://starshare.live:8080/images/5cc740b08f6c90c7e76869a4e7e75c4f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E04
 http://starshare.live:8080/series/salam/salam/48324.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E05" tvg-logo="http://starshare.live:8080/images/9d14e0a07f243b00fa00ac435e777108.jpg" group-title="NETFLIX", Black Lightning S02 E05
+#EXTINF:-1 tvg-id="Black Lightning S02 E05" tvg-logo="http://starshare.live:8080/images/9d14e0a07f243b00fa00ac435e777108.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E05
 http://starshare.live:8080/series/salam/salam/48325.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E06" tvg-logo="http://starshare.live:8080/images/7ad0d92ec3bfa171133ca19ab68d7979.jpg" group-title="NETFLIX", Black Lightning S02 E06
+#EXTINF:-1 tvg-id="Black Lightning S02 E06" tvg-logo="http://starshare.live:8080/images/7ad0d92ec3bfa171133ca19ab68d7979.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E06
 http://starshare.live:8080/series/salam/salam/48326.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E07" tvg-logo="http://starshare.live:8080/images/d00a63a1b9b904fc9d47fb89837c7f87.jpg" group-title="NETFLIX", Black Lightning S02 E07
+#EXTINF:-1 tvg-id="Black Lightning S02 E07" tvg-logo="http://starshare.live:8080/images/d00a63a1b9b904fc9d47fb89837c7f87.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E07
 http://starshare.live:8080/series/salam/salam/48327.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E08" tvg-logo="http://starshare.live:8080/images/0a0001cc04669fa2dc659d86a412ad23.jpg" group-title="NETFLIX", Black Lightning S02 E08
+#EXTINF:-1 tvg-id="Black Lightning S02 E08" tvg-logo="http://starshare.live:8080/images/0a0001cc04669fa2dc659d86a412ad23.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E08
 http://starshare.live:8080/series/salam/salam/48328.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E09" tvg-logo="http://starshare.live:8080/images/6ba18d0546271e18d21a92b60540724f.jpg" group-title="NETFLIX", Black Lightning S02 E09
+#EXTINF:-1 tvg-id="Black Lightning S02 E09" tvg-logo="http://starshare.live:8080/images/6ba18d0546271e18d21a92b60540724f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E09
 http://starshare.live:8080/series/salam/salam/48329.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E10" tvg-logo="http://starshare.live:8080/images/c97d555c91d37ddf230bde54964531a5.jpg" group-title="NETFLIX", Black Lightning S02 E10
+#EXTINF:-1 tvg-id="Black Lightning S02 E10" tvg-logo="http://starshare.live:8080/images/c97d555c91d37ddf230bde54964531a5.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E10
 http://starshare.live:8080/series/salam/salam/48330.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E11" tvg-logo="http://starshare.live:8080/images/118f429805fc36aefbc400200de026cd.jpg" group-title="NETFLIX", Black Lightning S02 E11
+#EXTINF:-1 tvg-id="Black Lightning S02 E11" tvg-logo="http://starshare.live:8080/images/118f429805fc36aefbc400200de026cd.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E11
 http://starshare.live:8080/series/salam/salam/48331.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E12" tvg-logo="http://starshare.live:8080/images/22df6a6dd3af1be9ed4c16cd5703d78b.jpg" group-title="NETFLIX", Black Lightning S02 E12
+#EXTINF:-1 tvg-id="Black Lightning S02 E12" tvg-logo="http://starshare.live:8080/images/22df6a6dd3af1be9ed4c16cd5703d78b.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E12
 http://starshare.live:8080/series/salam/salam/48332.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E13" tvg-logo="http://starshare.live:8080/images/9bd23cb0551947620a06bcecf1018d58.jpg" group-title="NETFLIX", Black Lightning S02 E13
+#EXTINF:-1 tvg-id="Black Lightning S02 E13" tvg-logo="http://starshare.live:8080/images/9bd23cb0551947620a06bcecf1018d58.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E13
 http://starshare.live:8080/series/salam/salam/48333.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E14" tvg-logo="http://starshare.live:8080/images/73d292813cbdcd0682b8fbeafdd5b3bd.jpg" group-title="NETFLIX", Black Lightning S02 E14
+#EXTINF:-1 tvg-id="Black Lightning S02 E14" tvg-logo="http://starshare.live:8080/images/73d292813cbdcd0682b8fbeafdd5b3bd.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E14
 http://starshare.live:8080/series/salam/salam/48334.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E15" tvg-logo="http://starshare.live:8080/images/fbdf5a172f5d47ffa2a0acedcc875987.jpg" group-title="NETFLIX", Black Lightning S02 E15
+#EXTINF:-1 tvg-id="Black Lightning S02 E15" tvg-logo="http://starshare.live:8080/images/fbdf5a172f5d47ffa2a0acedcc875987.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E15
 http://starshare.live:8080/series/salam/salam/48335.mp4
-#EXTINF:-1 tvg-id="Black Lightning S02 E16" tvg-logo="http://starshare.live:8080/images/04d722f89d45281292ce902c953db3ad.jpg" group-title="NETFLIX", Black Lightning S02 E16
+#EXTINF:-1 tvg-id="Black Lightning S02 E16" tvg-logo="http://starshare.live:8080/images/04d722f89d45281292ce902c953db3ad.jpg" group-title="NETFLIX Black Lightning", Black Lightning S02 E16
 http://starshare.live:8080/series/salam/salam/48336.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E01" tvg-logo="http://starshare.live:8080/images/fa61e00bac7a5ca8c3daec64d9ccadb1.jpg" group-title="NETFLIX", Black Lightning S03 E01
+#EXTINF:-1 tvg-id="Black Lightning S03 E01" tvg-logo="http://starshare.live:8080/images/fa61e00bac7a5ca8c3daec64d9ccadb1.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E01
 http://starshare.live:8080/series/salam/salam/48337.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E02" tvg-logo="http://starshare.live:8080/images/029154dcca1a93764a2ccb231c70dc42.jpg" group-title="NETFLIX", Black Lightning S03 E02
+#EXTINF:-1 tvg-id="Black Lightning S03 E02" tvg-logo="http://starshare.live:8080/images/029154dcca1a93764a2ccb231c70dc42.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E02
 http://starshare.live:8080/series/salam/salam/48338.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E03" tvg-logo="http://starshare.live:8080/images/4509bdd691f48640f604bf0728b8f556.jpg" group-title="NETFLIX", Black Lightning S03 E03
+#EXTINF:-1 tvg-id="Black Lightning S03 E03" tvg-logo="http://starshare.live:8080/images/4509bdd691f48640f604bf0728b8f556.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E03
 http://starshare.live:8080/series/salam/salam/48339.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E04" tvg-logo="http://starshare.live:8080/images/0f938e4c497e1a8409064e1274ced67d.jpg" group-title="NETFLIX", Black Lightning S03 E04
+#EXTINF:-1 tvg-id="Black Lightning S03 E04" tvg-logo="http://starshare.live:8080/images/0f938e4c497e1a8409064e1274ced67d.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E04
 http://starshare.live:8080/series/salam/salam/48340.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E05" tvg-logo="http://starshare.live:8080/images/29bbfb5b835832337609c283f1c232ce.jpg" group-title="NETFLIX", Black Lightning S03 E05
+#EXTINF:-1 tvg-id="Black Lightning S03 E05" tvg-logo="http://starshare.live:8080/images/29bbfb5b835832337609c283f1c232ce.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E05
 http://starshare.live:8080/series/salam/salam/48341.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E06" tvg-logo="http://starshare.live:8080/images/a3bf661acc7f72f7175d06ddaa173801.jpg" group-title="NETFLIX", Black Lightning S03 E06
+#EXTINF:-1 tvg-id="Black Lightning S03 E06" tvg-logo="http://starshare.live:8080/images/a3bf661acc7f72f7175d06ddaa173801.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E06
 http://starshare.live:8080/series/salam/salam/48342.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E07" tvg-logo="http://starshare.live:8080/images/9769e9cc5a5a89b7ebb90570370ae1ea.jpg" group-title="NETFLIX", Black Lightning S03 E07
+#EXTINF:-1 tvg-id="Black Lightning S03 E07" tvg-logo="http://starshare.live:8080/images/9769e9cc5a5a89b7ebb90570370ae1ea.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E07
 http://starshare.live:8080/series/salam/salam/48343.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E08" tvg-logo="http://starshare.live:8080/images/35e7a9212d9ee677f55d825983737354.jpg" group-title="NETFLIX", Black Lightning S03 E08
+#EXTINF:-1 tvg-id="Black Lightning S03 E08" tvg-logo="http://starshare.live:8080/images/35e7a9212d9ee677f55d825983737354.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E08
 http://starshare.live:8080/series/salam/salam/48344.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E09" tvg-logo="http://starshare.live:8080/images/efad6fdd32910d5b1f5ede6b6db515b7.jpg" group-title="NETFLIX", Black Lightning S03 E09
+#EXTINF:-1 tvg-id="Black Lightning S03 E09" tvg-logo="http://starshare.live:8080/images/efad6fdd32910d5b1f5ede6b6db515b7.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E09
 http://starshare.live:8080/series/salam/salam/48345.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E10" tvg-logo="http://starshare.live:8080/images/e66b7d4dfd7472fd068e24ae1ce65969.jpg" group-title="NETFLIX", Black Lightning S03 E10
+#EXTINF:-1 tvg-id="Black Lightning S03 E10" tvg-logo="http://starshare.live:8080/images/e66b7d4dfd7472fd068e24ae1ce65969.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E10
 http://starshare.live:8080/series/salam/salam/48346.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E11" tvg-logo="http://starshare.live:8080/images/86e7c5bdcfd6c16b15231498201264eb.jpg" group-title="NETFLIX", Black Lightning S03 E11
+#EXTINF:-1 tvg-id="Black Lightning S03 E11" tvg-logo="http://starshare.live:8080/images/86e7c5bdcfd6c16b15231498201264eb.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E11
 http://starshare.live:8080/series/salam/salam/48347.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E12" tvg-logo="http://starshare.live:8080/images/aac8e4e8a5a585e7526d59a4ea816089.jpg" group-title="NETFLIX", Black Lightning S03 E12
+#EXTINF:-1 tvg-id="Black Lightning S03 E12" tvg-logo="http://starshare.live:8080/images/aac8e4e8a5a585e7526d59a4ea816089.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E12
 http://starshare.live:8080/series/salam/salam/48348.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E13" tvg-logo="http://starshare.live:8080/images/674a139681472809e9a710a4f04749e5.jpg" group-title="NETFLIX", Black Lightning S03 E13
+#EXTINF:-1 tvg-id="Black Lightning S03 E13" tvg-logo="http://starshare.live:8080/images/674a139681472809e9a710a4f04749e5.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E13
 http://starshare.live:8080/series/salam/salam/48349.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E14" tvg-logo="http://starshare.live:8080/images/45bde42fece404f164e6fbb822e78304.jpg" group-title="NETFLIX", Black Lightning S03 E14
+#EXTINF:-1 tvg-id="Black Lightning S03 E14" tvg-logo="http://starshare.live:8080/images/45bde42fece404f164e6fbb822e78304.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E14
 http://starshare.live:8080/series/salam/salam/48350.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E15" tvg-logo="http://starshare.live:8080/images/741c215963f22d8e9e2116205bf501af.jpg" group-title="NETFLIX", Black Lightning S03 E15
+#EXTINF:-1 tvg-id="Black Lightning S03 E15" tvg-logo="http://starshare.live:8080/images/741c215963f22d8e9e2116205bf501af.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E15
 http://starshare.live:8080/series/salam/salam/48351.mp4
-#EXTINF:-1 tvg-id="Black Lightning S03 E16" tvg-logo="http://starshare.live:8080/images/fa68bebb73745e8c84b1c16c8a79c35d.jpg" group-title="NETFLIX", Black Lightning S03 E16
+#EXTINF:-1 tvg-id="Black Lightning S03 E16" tvg-logo="http://starshare.live:8080/images/fa68bebb73745e8c84b1c16c8a79c35d.jpg" group-title="NETFLIX Black Lightning", Black Lightning S03 E16
 http://starshare.live:8080/series/salam/salam/48352.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E01" tvg-logo="http://starshare.live:8080/images/8ba952280134de58f9283a223cc6bd67.jpg" group-title="NETFLIX", Black Lightning S04 E01
+#EXTINF:-1 tvg-id="Black Lightning S04 E01" tvg-logo="http://starshare.live:8080/images/8ba952280134de58f9283a223cc6bd67.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E01
 http://starshare.live:8080/series/salam/salam/48353.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E02" tvg-logo="http://starshare.live:8080/images/0d89c841025163fbd432d0dfb4fbe939.jpg" group-title="NETFLIX", Black Lightning S04 E02
+#EXTINF:-1 tvg-id="Black Lightning S04 E02" tvg-logo="http://starshare.live:8080/images/0d89c841025163fbd432d0dfb4fbe939.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E02
 http://starshare.live:8080/series/salam/salam/48354.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E03" tvg-logo="http://starshare.live:8080/images/f2ff0c3ebc67f7ffc259ce95c3ea27ca.jpg" group-title="NETFLIX", Black Lightning S04 E03
+#EXTINF:-1 tvg-id="Black Lightning S04 E03" tvg-logo="http://starshare.live:8080/images/f2ff0c3ebc67f7ffc259ce95c3ea27ca.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E03
 http://starshare.live:8080/series/salam/salam/48355.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E04" tvg-logo="http://starshare.live:8080/images/a1d68927b52e7a8fa01e1f433620c42f.jpg" group-title="NETFLIX", Black Lightning S04 E04
+#EXTINF:-1 tvg-id="Black Lightning S04 E04" tvg-logo="http://starshare.live:8080/images/a1d68927b52e7a8fa01e1f433620c42f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E04
 http://starshare.live:8080/series/salam/salam/48356.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E05" tvg-logo="http://starshare.live:8080/images/2e72d58e7d3f9eae3384cfae590aa0b2.jpg" group-title="NETFLIX", Black Lightning S04 E05
+#EXTINF:-1 tvg-id="Black Lightning S04 E05" tvg-logo="http://starshare.live:8080/images/2e72d58e7d3f9eae3384cfae590aa0b2.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E05
 http://starshare.live:8080/series/salam/salam/48357.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E06" tvg-logo="http://starshare.live:8080/images/7ddc01a8d7ad6a24da5c37a38fabeeea.jpg" group-title="NETFLIX", Black Lightning S04 E06
+#EXTINF:-1 tvg-id="Black Lightning S04 E06" tvg-logo="http://starshare.live:8080/images/7ddc01a8d7ad6a24da5c37a38fabeeea.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E06
 http://starshare.live:8080/series/salam/salam/48358.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E07" tvg-logo="http://starshare.live:8080/images/eab30e4ff23c2185e0b86a238c77260f.jpg" group-title="NETFLIX", Black Lightning S04 E07
+#EXTINF:-1 tvg-id="Black Lightning S04 E07" tvg-logo="http://starshare.live:8080/images/eab30e4ff23c2185e0b86a238c77260f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E07
 http://starshare.live:8080/series/salam/salam/48359.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E08" tvg-logo="http://starshare.live:8080/images/52bdc2b7618e28f0d139ad99ec45f2f4.jpg" group-title="NETFLIX", Black Lightning S04 E08
+#EXTINF:-1 tvg-id="Black Lightning S04 E08" tvg-logo="http://starshare.live:8080/images/52bdc2b7618e28f0d139ad99ec45f2f4.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E08
 http://starshare.live:8080/series/salam/salam/48360.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E09" tvg-logo="http://starshare.live:8080/images/02b1791f60b5b7cde127be25eca95cc4.jpg" group-title="NETFLIX", Black Lightning S04 E09
+#EXTINF:-1 tvg-id="Black Lightning S04 E09" tvg-logo="http://starshare.live:8080/images/02b1791f60b5b7cde127be25eca95cc4.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E09
 http://starshare.live:8080/series/salam/salam/48361.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E10" tvg-logo="http://starshare.live:8080/images/15b7339052c31ea402ba7736f3bdcf38.jpg" group-title="NETFLIX", Black Lightning S04 E10
+#EXTINF:-1 tvg-id="Black Lightning S04 E10" tvg-logo="http://starshare.live:8080/images/15b7339052c31ea402ba7736f3bdcf38.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E10
 http://starshare.live:8080/series/salam/salam/48362.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E11" tvg-logo="http://starshare.live:8080/images/8c9f705e21b7c78478f6ac195d99fb22.jpg" group-title="NETFLIX", Black Lightning S04 E11
+#EXTINF:-1 tvg-id="Black Lightning S04 E11" tvg-logo="http://starshare.live:8080/images/8c9f705e21b7c78478f6ac195d99fb22.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E11
 http://starshare.live:8080/series/salam/salam/48363.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E12" tvg-logo="http://starshare.live:8080/images/377c0b79cb8c52d43042d1bc7ab56ec0.jpg" group-title="NETFLIX", Black Lightning S04 E12
+#EXTINF:-1 tvg-id="Black Lightning S04 E12" tvg-logo="http://starshare.live:8080/images/377c0b79cb8c52d43042d1bc7ab56ec0.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E12
 http://starshare.live:8080/series/salam/salam/48364.mp4
-#EXTINF:-1 tvg-id="Black Lightning S04 E13" tvg-logo="http://starshare.live:8080/images/c13944157b4f7fa91654ffc70c09df8a.jpg" group-title="NETFLIX", Black Lightning S04 E13
+#EXTINF:-1 tvg-id="Black Lightning S04 E13" tvg-logo="http://starshare.live:8080/images/c13944157b4f7fa91654ffc70c09df8a.jpg" group-title="NETFLIX Black Lightning", Black Lightning S04 E13
 http://starshare.live:8080/series/salam/salam/48365.mp4
-#EXTINF:-1 tvg-id="Nightflyers S01 E01" tvg-logo="http://starshare.live:8080/images/6e4e36a930c72ab7ac62899728f68908.jpg" group-title="NETFLIX", Nightflyers S01 E01
+#EXTINF:-1 tvg-id="Nightflyers S01 E01" tvg-logo="http://starshare.live:8080/images/6e4e36a930c72ab7ac62899728f68908.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E01
 http://starshare.live:8080/series/salam/salam/48373.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E02" tvg-logo="http://starshare.live:8080/images/ae6907ca9a94eea2688dbd74bb1a80eb.jpg" group-title="NETFLIX", Nightflyers S01 E02
+#EXTINF:-1 tvg-id="Nightflyers S01 E02" tvg-logo="http://starshare.live:8080/images/ae6907ca9a94eea2688dbd74bb1a80eb.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E02
 http://starshare.live:8080/series/salam/salam/48374.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E03" tvg-logo="http://starshare.live:8080/images/a1a9d6b8bdea127e522f5e8babd70cdf.jpg" group-title="NETFLIX", Nightflyers S01 E03
+#EXTINF:-1 tvg-id="Nightflyers S01 E03" tvg-logo="http://starshare.live:8080/images/a1a9d6b8bdea127e522f5e8babd70cdf.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E03
 http://starshare.live:8080/series/salam/salam/48375.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E04" tvg-logo="http://starshare.live:8080/images/8e10a07ed1c101c2ffce11903c4e386f.jpg" group-title="NETFLIX", Nightflyers S01 E04
+#EXTINF:-1 tvg-id="Nightflyers S01 E04" tvg-logo="http://starshare.live:8080/images/8e10a07ed1c101c2ffce11903c4e386f.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E04
 http://starshare.live:8080/series/salam/salam/48376.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E05" tvg-logo="http://starshare.live:8080/images/5e0f5b6e3cdd3885719beea62d820c47.jpg" group-title="NETFLIX", Nightflyers S01 E05
+#EXTINF:-1 tvg-id="Nightflyers S01 E05" tvg-logo="http://starshare.live:8080/images/5e0f5b6e3cdd3885719beea62d820c47.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E05
 http://starshare.live:8080/series/salam/salam/48377.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E06" tvg-logo="http://starshare.live:8080/images/185da9bc80035031c07b2892868654f3.jpg" group-title="NETFLIX", Nightflyers S01 E06
+#EXTINF:-1 tvg-id="Nightflyers S01 E06" tvg-logo="http://starshare.live:8080/images/185da9bc80035031c07b2892868654f3.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E06
 http://starshare.live:8080/series/salam/salam/48378.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E07" tvg-logo="http://starshare.live:8080/images/f6356a22612e0ccf736a73fd7b605eb1.jpg" group-title="NETFLIX", Nightflyers S01 E07
+#EXTINF:-1 tvg-id="Nightflyers S01 E07" tvg-logo="http://starshare.live:8080/images/f6356a22612e0ccf736a73fd7b605eb1.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E07
 http://starshare.live:8080/series/salam/salam/48379.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E08" tvg-logo="http://starshare.live:8080/images/0752e162dafbb223bde4a9e0eb99d64f.jpg" group-title="NETFLIX", Nightflyers S01 E08
+#EXTINF:-1 tvg-id="Nightflyers S01 E08" tvg-logo="http://starshare.live:8080/images/0752e162dafbb223bde4a9e0eb99d64f.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E08
 http://starshare.live:8080/series/salam/salam/48380.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E09" tvg-logo="http://starshare.live:8080/images/224e3c3aa8425791dadfb8dcfa6a6a6d.jpg" group-title="NETFLIX", Nightflyers S01 E09
+#EXTINF:-1 tvg-id="Nightflyers S01 E09" tvg-logo="http://starshare.live:8080/images/224e3c3aa8425791dadfb8dcfa6a6a6d.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E09
 http://starshare.live:8080/series/salam/salam/48381.mkv
-#EXTINF:-1 tvg-id="Nightflyers S01 E10" tvg-logo="http://starshare.live:8080/images/86d239e66973788e8e9b3dc0384332dd.jpg" group-title="NETFLIX", Nightflyers S01 E10
+#EXTINF:-1 tvg-id="Nightflyers S01 E10" tvg-logo="http://starshare.live:8080/images/86d239e66973788e8e9b3dc0384332dd.jpg" group-title="NETFLIX Nightflyers", Nightflyers S01 E10
 http://starshare.live:8080/series/salam/salam/48382.mkv
 #EXTINF:-1 tvg-id="Narcos: Mexico S01 E01" tvg-logo="http://starshare.live:8080/images/f02106ddd6d4fd13486a5c0cc3a1f826.jpg" group-title="NETFLIX", Narcos: Mexico S01 E01
 http://starshare.live:8080/series/salam/salam/48383.mkv
@@ -22232,21 +22232,21 @@ http://starshare.live:8080/series/salam/salam/86541.mkv
 http://starshare.live:8080/series/salam/salam/86542.mkv
 #EXTINF:-1 tvg-id="My Little Girl S01 E55" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgUFRUZGRgaGxofGxoYGxsdGhsfGxodGxshGxgbIS0kHx0qIRoYJTclKi4xNDQ0GiM6PzozPi0zNDEBCwsLEA8QHxISHzUqJCozMzw1MzMzMzMzNTUzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM//AABEIAREAuAMBIgACEQEDEQH/" group-title="NETFLIX", My Little Girl S01 E55
 http://starshare.live:8080/series/salam/salam/86543.mkv
-#EXTINF:-1 tvg-id="My Name S01 E01" tvg-logo="http://starshare.live:8080/images/0d05ab0cef8d51e5fa56ace549522918.jpg" group-title="NETFLIX", My Name S01 E01
+#EXTINF:-1 tvg-id="My Name S01 E01" tvg-logo="http://starshare.live:8080/images/0d05ab0cef8d51e5fa56ace549522918.jpg" group-title="NETFLIX My Name", My Name S01 E01
 http://starshare.live:8080/series/salam/salam/86577.mkv
-#EXTINF:-1 tvg-id="My Name S01 E02" tvg-logo="http://starshare.live:8080/images/d694e273c7878694f4337ff182115e6d.jpg" group-title="NETFLIX", My Name S01 E02
+#EXTINF:-1 tvg-id="My Name S01 E02" tvg-logo="http://starshare.live:8080/images/d694e273c7878694f4337ff182115e6d.jpg" group-title="NETFLIX My Name", My Name S01 E02
 http://starshare.live:8080/series/salam/salam/86578.mkv
-#EXTINF:-1 tvg-id="My Name S01 E03" tvg-logo="http://starshare.live:8080/images/fea8ee26e80b0fc82d2f89fc7b657c16.jpg" group-title="NETFLIX", My Name S01 E03
+#EXTINF:-1 tvg-id="My Name S01 E03" tvg-logo="http://starshare.live:8080/images/fea8ee26e80b0fc82d2f89fc7b657c16.jpg" group-title="NETFLIX My Name", My Name S01 E03
 http://starshare.live:8080/series/salam/salam/86579.mkv
-#EXTINF:-1 tvg-id="My Name S01 E04" tvg-logo="http://starshare.live:8080/images/222294a2222a2e73f5791e5c7cc0656a.jpg" group-title="NETFLIX", My Name S01 E04
+#EXTINF:-1 tvg-id="My Name S01 E04" tvg-logo="http://starshare.live:8080/images/222294a2222a2e73f5791e5c7cc0656a.jpg" group-title="NETFLIX My Name", My Name S01 E04
 http://starshare.live:8080/series/salam/salam/86580.mkv
-#EXTINF:-1 tvg-id="My Name S01 E05" tvg-logo="http://starshare.live:8080/images/c74cccf56d7715dcb10d617b841eac4d.jpg" group-title="NETFLIX", My Name S01 E05
+#EXTINF:-1 tvg-id="My Name S01 E05" tvg-logo="http://starshare.live:8080/images/c74cccf56d7715dcb10d617b841eac4d.jpg" group-title="NETFLIX My Name", My Name S01 E05
 http://starshare.live:8080/series/salam/salam/86581.mkv
-#EXTINF:-1 tvg-id="My Name S01 E06" tvg-logo="http://starshare.live:8080/images/9f43e48a3196882959102f5df01f4cf2.jpg" group-title="NETFLIX", My Name S01 E06
+#EXTINF:-1 tvg-id="My Name S01 E06" tvg-logo="http://starshare.live:8080/images/9f43e48a3196882959102f5df01f4cf2.jpg" group-title="NETFLIX My Name", My Name S01 E06
 http://starshare.live:8080/series/salam/salam/86582.mkv
-#EXTINF:-1 tvg-id="My Name S01 E07" tvg-logo="http://starshare.live:8080/images/ffe823511c105e7afbaa775c2cfb465f.jpg" group-title="NETFLIX", My Name S01 E07
+#EXTINF:-1 tvg-id="My Name S01 E07" tvg-logo="http://starshare.live:8080/images/ffe823511c105e7afbaa775c2cfb465f.jpg" group-title="NETFLIX My Name", My Name S01 E07
 http://starshare.live:8080/series/salam/salam/86583.mkv
-#EXTINF:-1 tvg-id="My Name S01 E08" tvg-logo="http://starshare.live:8080/images/9713878647cd55a1d4659a0bf808193d.jpg" group-title="NETFLIX", My Name S01 E08
+#EXTINF:-1 tvg-id="My Name S01 E08" tvg-logo="http://starshare.live:8080/images/9713878647cd55a1d4659a0bf808193d.jpg" group-title="NETFLIX My Name", My Name S01 E08
 http://starshare.live:8080/series/salam/salam/86584.mkv
 #EXTINF:-1 tvg-id="The Long Ballad S01 E01" tvg-logo="http://starshare.live:8080/images/3de24cba20de04d602d74e3b64edf02f.jpg" group-title="NETFLIX", The Long Ballad S01 E01
 http://starshare.live:8080/series/salam/salam/86648.mkv
@@ -22788,31 +22788,31 @@ http://starshare.live:8080/series/salam/salam/90644.mp4
 http://starshare.live:8080/series/salam/salam/90645.mp4
 #EXTINF:-1 tvg-id="Two Summers S01 E06" tvg-logo="http://starshare.live:8080/images/2832bad847ca9d3b5c3d443192eaec17.jpg" group-title="NETFLIX", Two Summers S01 E06
 http://starshare.live:8080/series/salam/salam/90646.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E01" tvg-logo="http://starshare.live:8080/images/374a10d4b2725ae413ef5e9cb43dc8ec.jpg" group-title="NETFLIX", Black Lightning S01 E01
+#EXTINF:-1 tvg-id="Black Lightning S01 E01" tvg-logo="http://starshare.live:8080/images/374a10d4b2725ae413ef5e9cb43dc8ec.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E01
 http://starshare.live:8080/series/salam/salam/90672.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E02" tvg-logo="http://starshare.live:8080/images/17189e4de6d93e51ac0af9faa478c277.jpg" group-title="NETFLIX", Black Lightning S01 E02
+#EXTINF:-1 tvg-id="Black Lightning S01 E02" tvg-logo="http://starshare.live:8080/images/17189e4de6d93e51ac0af9faa478c277.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E02
 http://starshare.live:8080/series/salam/salam/90673.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E03" tvg-logo="http://starshare.live:8080/images/95f9dab709fd5014c77fb4eb88fc1cc9.jpg" group-title="NETFLIX", Black Lightning S01 E03
+#EXTINF:-1 tvg-id="Black Lightning S01 E03" tvg-logo="http://starshare.live:8080/images/95f9dab709fd5014c77fb4eb88fc1cc9.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E03
 http://starshare.live:8080/series/salam/salam/90674.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E04" tvg-logo="http://starshare.live:8080/images/6c2330499a404a5f3276df5bfe2fda50.jpg" group-title="NETFLIX", Black Lightning S01 E04
+#EXTINF:-1 tvg-id="Black Lightning S01 E04" tvg-logo="http://starshare.live:8080/images/6c2330499a404a5f3276df5bfe2fda50.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E04
 http://starshare.live:8080/series/salam/salam/90675.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E05" tvg-logo="http://starshare.live:8080/images/fb9082397b7e16ebb92edb080e6589d3.jpg" group-title="NETFLIX", Black Lightning S01 E05
+#EXTINF:-1 tvg-id="Black Lightning S01 E05" tvg-logo="http://starshare.live:8080/images/fb9082397b7e16ebb92edb080e6589d3.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E05
 http://starshare.live:8080/series/salam/salam/90676.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E06" tvg-logo="http://starshare.live:8080/images/319321bb2763936f26e31977dcf7e66a.jpg" group-title="NETFLIX", Black Lightning S01 E06
+#EXTINF:-1 tvg-id="Black Lightning S01 E06" tvg-logo="http://starshare.live:8080/images/319321bb2763936f26e31977dcf7e66a.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E06
 http://starshare.live:8080/series/salam/salam/90677.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E07" tvg-logo="http://starshare.live:8080/images/1074dbeb31e5e32e461cfbf73631b172.jpg" group-title="NETFLIX", Black Lightning S01 E07
+#EXTINF:-1 tvg-id="Black Lightning S01 E07" tvg-logo="http://starshare.live:8080/images/1074dbeb31e5e32e461cfbf73631b172.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E07
 http://starshare.live:8080/series/salam/salam/90678.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E08" tvg-logo="http://starshare.live:8080/images/70e88f697957f339aff5b4fa481b8b48.jpg" group-title="NETFLIX", Black Lightning S01 E08
+#EXTINF:-1 tvg-id="Black Lightning S01 E08" tvg-logo="http://starshare.live:8080/images/70e88f697957f339aff5b4fa481b8b48.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E08
 http://starshare.live:8080/series/salam/salam/90679.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E09" tvg-logo="http://starshare.live:8080/images/98a05f1499420c54b7a875e4ebccd7e7.jpg" group-title="NETFLIX", Black Lightning S01 E09
+#EXTINF:-1 tvg-id="Black Lightning S01 E09" tvg-logo="http://starshare.live:8080/images/98a05f1499420c54b7a875e4ebccd7e7.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E09
 http://starshare.live:8080/series/salam/salam/90680.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E10" tvg-logo="http://starshare.live:8080/images/35b4e636054c379ca76084d7b915bf0f.jpg" group-title="NETFLIX", Black Lightning S01 E10
+#EXTINF:-1 tvg-id="Black Lightning S01 E10" tvg-logo="http://starshare.live:8080/images/35b4e636054c379ca76084d7b915bf0f.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E10
 http://starshare.live:8080/series/salam/salam/90681.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E11" tvg-logo="http://starshare.live:8080/images/e3c1e46eeef7a2dc25235cdc3e9a3d70.jpg" group-title="NETFLIX", Black Lightning S01 E11
+#EXTINF:-1 tvg-id="Black Lightning S01 E11" tvg-logo="http://starshare.live:8080/images/e3c1e46eeef7a2dc25235cdc3e9a3d70.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E11
 http://starshare.live:8080/series/salam/salam/90682.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E12" tvg-logo="http://starshare.live:8080/images/baac11bea9d31893b6eba5840162089e.jpg" group-title="NETFLIX", Black Lightning S01 E12
+#EXTINF:-1 tvg-id="Black Lightning S01 E12" tvg-logo="http://starshare.live:8080/images/baac11bea9d31893b6eba5840162089e.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E12
 http://starshare.live:8080/series/salam/salam/90683.mp4
-#EXTINF:-1 tvg-id="Black Lightning S01 E13" tvg-logo="http://starshare.live:8080/images/9d46e461d46bc68962d5e80954166219.jpg" group-title="NETFLIX", Black Lightning S01 E13
+#EXTINF:-1 tvg-id="Black Lightning S01 E13" tvg-logo="http://starshare.live:8080/images/9d46e461d46bc68962d5e80954166219.jpg" group-title="NETFLIX Black Lightning", Black Lightning S01 E13
 http://starshare.live:8080/series/salam/salam/90684.mp4
 #EXTINF:-1 tvg-id="Ultraman S01 E01" tvg-logo="http://starshare.live:8080/images/59dac2428377a86e297fb269e842d630.jpg" group-title="NETFLIX", Ultraman S01 E01
 http://starshare.live:8080/series/salam/salam/92084.mkv
@@ -24560,17 +24560,17 @@ http://starshare.live:8080/series/salam/salam/111767.mp4
 http://starshare.live:8080/series/salam/salam/111768.mp4
 #EXTINF:-1 tvg-id="Nevertheless, S01 E10" tvg-logo="http://starshare.live:8080/images/53274334cdf07617ca0cc58be07bc4cb.jpg" group-title="NETFLIX", S01 E10
 http://starshare.live:8080/series/salam/salam/111769.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E01" tvg-logo="http://starshare.live:8080/images/4ae958226e7608a9658929e8d00968ca.jpg" group-title="NETFLIX", Jaguar S01 E01
+#EXTINF:-1 tvg-id="Jaguar S01 E01" tvg-logo="http://starshare.live:8080/images/4ae958226e7608a9658929e8d00968ca.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E01
 http://starshare.live:8080/series/salam/salam/111770.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E02" tvg-logo="http://starshare.live:8080/images/9c29e414459b17ff1801b759831af623.jpg" group-title="NETFLIX", Jaguar S01 E02
+#EXTINF:-1 tvg-id="Jaguar S01 E02" tvg-logo="http://starshare.live:8080/images/9c29e414459b17ff1801b759831af623.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E02
 http://starshare.live:8080/series/salam/salam/111771.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E03" tvg-logo="http://starshare.live:8080/images/c9029aeb075ae79da3687ca7b32432e7.jpg" group-title="NETFLIX", Jaguar S01 E03
+#EXTINF:-1 tvg-id="Jaguar S01 E03" tvg-logo="http://starshare.live:8080/images/c9029aeb075ae79da3687ca7b32432e7.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E03
 http://starshare.live:8080/series/salam/salam/111772.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E04" tvg-logo="http://starshare.live:8080/images/82bf8b41fb71c262f366fceaffb32891.jpg" group-title="NETFLIX", Jaguar S01 E04
+#EXTINF:-1 tvg-id="Jaguar S01 E04" tvg-logo="http://starshare.live:8080/images/82bf8b41fb71c262f366fceaffb32891.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E04
 http://starshare.live:8080/series/salam/salam/111773.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E05" tvg-logo="http://starshare.live:8080/images/72bd61ff579b6784ad40c838f643af4d.jpg" group-title="NETFLIX", Jaguar S01 E05
+#EXTINF:-1 tvg-id="Jaguar S01 E05" tvg-logo="http://starshare.live:8080/images/72bd61ff579b6784ad40c838f643af4d.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E05
 http://starshare.live:8080/series/salam/salam/111774.mp4
-#EXTINF:-1 tvg-id="Jaguar S01 E06" tvg-logo="http://starshare.live:8080/images/81cee83fa6ed223ed66d08b07288dfea.jpg" group-title="NETFLIX", Jaguar S01 E06
+#EXTINF:-1 tvg-id="Jaguar S01 E06" tvg-logo="http://starshare.live:8080/images/81cee83fa6ed223ed66d08b07288dfea.jpg" group-title="NETFLIX Jaguar", Jaguar S01 E06
 http://starshare.live:8080/series/salam/salam/111775.mp4
 #EXTINF:-1 tvg-id="High-Rise Invasion S01 E01" tvg-logo="http://starshare.live:8080/images/9c4ab05144a3e658d5b14ea23e201a6a.jpg" group-title="NETFLIX", High-Rise Invasion S01 E01
 http://starshare.live:8080/series/salam/salam/111776.mp4
@@ -25394,25 +25394,25 @@ http://starshare.live:8080/series/salam/salam/120493.avi
 http://starshare.live:8080/series/salam/salam/120494.avi
 #EXTINF:-1 tvg-id="Transformers: War for Cybertron: Trilogy  S01 E06" tvg-logo="http://starshare.live:8080/images/04664a1c94a0a22bd65c1dd783f0efc2.jpg" group-title="NETFLIX", Transformers: War for Cybertron: Trilogy  S01 E06
 http://starshare.live:8080/series/salam/salam/120495.avi
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E01" tvg-logo="http://starshare.live:8080/images/8a7c2e287abc9e3e7436979c21640483.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E01
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E01" tvg-logo="http://starshare.live:8080/images/8a7c2e287abc9e3e7436979c21640483.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E01
 http://starshare.live:8080/series/salam/salam/120676.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E02" tvg-logo="http://starshare.live:8080/images/aeec1004956e2ca7228a00fe85a7c5aa.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E02
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E02" tvg-logo="http://starshare.live:8080/images/aeec1004956e2ca7228a00fe85a7c5aa.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E02
 http://starshare.live:8080/series/salam/salam/120677.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E03" tvg-logo="http://starshare.live:8080/images/c493d7c7b9dc2f36319e13f284fc3d8e.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E03
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E03" tvg-logo="http://starshare.live:8080/images/c493d7c7b9dc2f36319e13f284fc3d8e.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E03
 http://starshare.live:8080/series/salam/salam/120678.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E04" tvg-logo="http://starshare.live:8080/images/935f36c86d10712d8f8a490148c75213.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E04
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E04" tvg-logo="http://starshare.live:8080/images/935f36c86d10712d8f8a490148c75213.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E04
 http://starshare.live:8080/series/salam/salam/120679.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E05" tvg-logo="http://starshare.live:8080/images/f9cb896e141799de47621eee2f702771.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E05
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E05" tvg-logo="http://starshare.live:8080/images/f9cb896e141799de47621eee2f702771.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E05
 http://starshare.live:8080/series/salam/salam/120680.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E06" tvg-logo="http://starshare.live:8080/images/9018edc8fecfc5a032b505876f4ac705.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E06
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E06" tvg-logo="http://starshare.live:8080/images/9018edc8fecfc5a032b505876f4ac705.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E06
 http://starshare.live:8080/series/salam/salam/120681.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E07" tvg-logo="http://starshare.live:8080/images/369d037c73821b745617d3362a67bd0f.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E07
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E07" tvg-logo="http://starshare.live:8080/images/369d037c73821b745617d3362a67bd0f.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E07
 http://starshare.live:8080/series/salam/salam/120682.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E08" tvg-logo="http://starshare.live:8080/images/f1c183221cd9ba4a1e8a6db518341d0a.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E08
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E08" tvg-logo="http://starshare.live:8080/images/f1c183221cd9ba4a1e8a6db518341d0a.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E08
 http://starshare.live:8080/series/salam/salam/120683.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E09" tvg-logo="http://starshare.live:8080/images/faf399b4147f6f28c3d1f6c26ec2aff1.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E09
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E09" tvg-logo="http://starshare.live:8080/images/faf399b4147f6f28c3d1f6c26ec2aff1.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E09
 http://starshare.live:8080/series/salam/salam/120684.mkv
-#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E10" tvg-logo="http://starshare.live:8080/images/97b650555ac2951c61f36e2daf0a86d6.jpg" group-title="NETFLIX", The Baby-Sitters Club S01 E10
+#EXTINF:-1 tvg-id="The Baby-Sitters Club S01 E10" tvg-logo="http://starshare.live:8080/images/97b650555ac2951c61f36e2daf0a86d6.jpg" group-title="NETFLIX The Baby-Sitters Club", The Baby-Sitters Club S01 E10
 http://starshare.live:8080/series/salam/salam/120685.mkv
 #EXTINF:-1 tvg-id="Trains That Changed the World S01 E01" tvg-logo="http://starshare.live:8080/images/d83895d9771595210f8ed8bddf40e1a2.jpg" group-title="NETFLIX", Trains That Changed the World S01 E01
 http://starshare.live:8080/series/salam/salam/120722.mkv
