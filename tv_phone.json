@@ -6,6 +6,10 @@
 			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_copy.m3u"
 		},
 		{
+			"type": "Tamil Local Test",
+			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_sat.m3u"
+		},
+		{
 			"type": "Malayalam",
 			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_local.m3u"
 		},
