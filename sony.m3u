@@ -47,3 +47,22 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony-AlvesOtt_Kal_Logo.jpeg" group-title="Sony-Ott",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Star-Ott",Star Movies HD
+http://124.29.225.205:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Star-Ott",Star Movies Select HD
+http://124.29.225.205:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Star-Ott",Star Select 1
+http://124.29.225.205:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Star-Ott",Star Select 2
+http://124.29.225.205:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Star-Ott",Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Star-Ott",Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="Star-Ott",CRI: STAR SPORTS TAMIL 1 HD
+http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
+
+
+
