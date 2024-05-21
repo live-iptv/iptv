@@ -18,6 +18,10 @@
 			"url": "https://live-iptv.github.io/iptv/movies.m3u"
 		},
 		{
+			"type": "Movies_1",
+			"url": "https://live-iptv.github.io/iptv/tamil/tamil_movies.m3u"
+		},
+		{
 			"type": "Language",
 			"url": "https://iptv-org.github.io/iptv/index.language.m3u"
 		},
