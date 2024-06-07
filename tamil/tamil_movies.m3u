@@ -433,7 +433,6 @@ http://notvstream.in/jothitv/jothitv.m3u8
 
 
 
-#EXTM3U 
 
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",SUN TV HD
 http://Watchindia.net:8880/live/98697/23119/843.ts
