@@ -14,12 +14,8 @@
 			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
 		},
 		{
-			"type": "Tamil Satellite",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_satellite.m3u"
-		},
-		{
 			"type": "Tamil Local",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_copy.m3u"
+			"url": "https://live-iptv.github.io/iptv/tamil/fix_m3u.m3u"
 		},
 		{
 			"type": "News",
