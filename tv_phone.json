@@ -3,15 +3,11 @@
 	"menu": [
 		{
 			"type": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_copy.m3u"
-		},
-		{
-			"type": "Tamil Local Test",
-			"url": "https://live-iptv.github.io/youtube_live/fix_m3u.m3u"
+			"url": "https://live-iptv.github.io/m3u_validator/tamil_m3u.m3u"
 		},
 		{
 			"type": "Malayalam",
-			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_local.m3u"
+			"url": "https://live-iptv.github.io/m3u_validator/malayalam_m3u.m3u"
 		},
 		{
 			"type": "Movies",
