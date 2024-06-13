@@ -1,5 +1,4 @@
 {
-	"addProps": "show",
 	"addProp": "show",
 	"menu": [
 		{
@@ -12,19 +11,11 @@
 		},
 		{
 			"type": "Movies",
-			"url": "https://live-iptv.github.io/iptv/movies.m3u"
+			"url": "https://live-iptv.github.io/m3u_validator/movies_m3u.m3u"
 		},
 		{
-			"type": "News",
-			"url": "https://live-iptv.github.io/youtube_live/youtube.m3u"
-		},
-		{
-			"type": "Sony-ott",
-			"url": "https://live-iptv.github.io/iptv/sony.m3u"
-		},
-		{
-			"type": "Category",
-			"url": "https://iptv-org.github.io/iptv/index.category.m3u"
+			"type": "Movies_1",
+			"url": "https://live-iptv.github.io/iptv/tamil/tamil_movies.m3u"
 		},
 		{
 			"type": "Language",
@@ -33,22 +24,6 @@
 		{
 			"type": "Country",
 			"url": "https://iptv-org.github.io/iptv/index.country.m3u"
-		},
-		{
-			"type": "Region",
-			"url": "https://iptv-org.github.io/iptv/index.region.m3u"
-		},
-		{
-			"type": "UHD",
-			"url": "https://live-iptv.github.io/iptv/uhd.json"
-		},
-		{
-			"type": "Movies",
-			"url": "https://live-iptv.github.io/iptv/movies.m3u"
-		},
-		{
-			"type": "Testing",
-			"url": "https://live-iptv.github.io/iptv/testing.m3u"
 		}
 	]
 }

@@ -11,7 +11,7 @@
 		},
 		{
 			"type": "Movies",
-			"url": "https://live-iptv.github.io/iptv/movies.m3u"
+			"url": "https://live-iptv.github.io/m3u_validator/movies_m3u.m3u"
 		},
 		{
 			"type": "Movies_1",
