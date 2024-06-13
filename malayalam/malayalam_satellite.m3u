@@ -44,3 +44,8 @@ https://delta15tatasky.akamaized.net/out/i/5147850.mpd
 #license-key={ "keys":[ { "kty":"oct", "k":"PyZxHl7ZFu3tzvrL44khwg", "kid":"le+ddkenS/qhBPgGEVjlyA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="229" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" ,Surya Movies
 https://delta15tatasky.akamaized.net/out/i/5145962.mpd
+
+#license-type=clearkey
+#license-key=http://rftv.wtf/tp/rjiptv.php?contentID=292&amp;key
+#EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Malayalam",Asianet HD(New)
+http://rftv.wtf/tp/rjiptv.mpd?contentID=292
