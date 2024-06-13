@@ -24,6 +24,10 @@
 		{
 			"type": "Country",
 			"url": "https://iptv-org.github.io/iptv/index.country.m3u"
+		},
+		{
+			"type": "Sony-ott",
+			"url": "https://live-iptv.github.io/iptv/sony.m3u"
 		}
 	]
 }
