@@ -19,17 +19,17 @@
 			]
 		},
 		{
-			"type": "Movies",
-			"key": "Movies",
-			"url": [
-				"https://live-iptv.github.io/m3u_validator/movies_m3u.m3u"
-			]
-		},
-		{
 			"type": "Others",
 			"url": [
 				"https://live-iptv.github.io/iptv/kids.m3u",
 				"https://live-iptv.github.io/iptv/sony.m3u"
+			]
+		},
+		{
+			"type": "Movies",
+			"key": "Movies",
+			"url": [
+				"https://live-iptv.github.io/m3u_validator/movies_m3u.m3u"
 			]
 		}
 	]
