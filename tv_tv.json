@@ -3,17 +3,14 @@
 	"addProps": "show",
 	"menu": [{
 			"type": "Malayalam IPTV",
-			"key": "Malayalam",
 			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
 		},
 		{
 			"type": "Malayalam Satellite",
-			"key": "Malayalam1",
 			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_satellite.m3u"
 		},
 		{
 			"type": "Malayalam News",
-			"key": "Malayalam2",
 			"url": "https://live-iptv.github.io/youtube_live/malayalam.m3u"
 		},
 		{
@@ -23,7 +20,6 @@
 		},
 		{
 			"type": "Tamil Satellite",
-			"key": "Tamil",
 			"url": "https://live-iptv.github.io/iptv/tamil/tamil_satellite.m3u"
 		},
 		{
