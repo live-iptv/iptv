@@ -15,7 +15,13 @@
 			"key": "Tamil",
 			"url": [
 				"https://live-iptv.github.io/youtube_live/tamil.m3u",
-				"https://live-iptv.github.io/m3u_validator/tamil_m3u.m3u",
+				"https://live-iptv.github.io/m3u_validator/tamil_m3u.m3u"
+			]
+		},
+		{
+			"type": "Movies",
+			"key": "Movies",
+			"url": [
 				"https://live-iptv.github.io/m3u_validator/movies_m3u.m3u"
 			]
 		},
