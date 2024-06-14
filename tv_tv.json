@@ -4,6 +4,7 @@
 	"menu": [
 		{
 			"type": "Malayalam",
+			"key": "Malayalam",
 			"url": [
 				"https://live-iptv.github.io/m3u_validator/malayalam_m3u.m3u",
 				"https://live-iptv.github.io/youtube_live/malayalam.m3u"
