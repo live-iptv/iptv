@@ -1,76 +1,21 @@
 {
 	"addProp": "show",
 	"addProps": "show",
-	"menu": [{
+	"menu": [
+		{
 			"type": "Malayalam IPTV",
-			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
-		},
-		{
-			"type": "Malayalam Satellite",
-			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_satellite.m3u"
-		},
-		{
-			"type": "Malayalam News",
-			"url": "https://live-iptv.github.io/youtube_live/malayalam.m3u"
+			"url": [
+				"https://iptv-org.github.io/iptv/languages/mal.m3u",
+				"https://live-iptv.github.io/iptv/malayalam/malayalam_satellite.m3u",
+				"https://live-iptv.github.io/youtube_live/malayalam.m3u"
+			]
 		},
 		{
 			"type": "Tamil IPTV",
 			"key": "Tamil",
-			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
-		},
-		{
-			"type": "Tamil Satellite",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_satellite.m3u"
-		},
-		{
-			"type": "Tamil Local",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_local.m3u"
-		},
-		{
-			"type": "Tamil Local HD",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_hd.m3u"
-		},
-		{
-			"type": "Tamil Rasi",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_rasi.m3u"
-		},
-		{
-			"type": "Tamil Music",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_music.m3u"
-		},
-		{
-			"type": "Tamil Testing",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_testing.m3u"
-		},
-		{
-			"type": "Tamil News",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/youtube_live/tamil.m3u"
-		},
-		{
-			"type": "Sony-ott",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/sony.m3u"
-		},
-		{
-			"type": "Others",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/kids.m3u"
-		},
-		{
-			"type": "UHD",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/uhd.json"
-		},
-		{
-			"type": "Testing",
-			"key": "Tamil",
-			"url": "https://live-iptv.github.io/iptv/testing.m3u"
+			"url": [
+				"https://iptv-org.github.io/iptv/languages/tam.m3u"
+			]
 		}
 	]
 }
