@@ -10,22 +10,19 @@ https://www.youtube.com/c/manoramanews/live
 https://www.youtube.com/watch?v=wq0ecjkN3G8
 
 #EXTINF:-1 group-title="News" tvg-logo="",Zee Malayalam News
-https://youtube.com/channel/UCka4WcizWM0WMKF-bMiYzWQ/live
+https://www.youtube.com/watch?v=RxHK1x4ftBo
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg",MediaoneTV
 https://www.youtube.com/c/MediaoneTVLive/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg",Raj News Malayalam
-https://www.youtube.com/channel/uXTXHgbV5xo/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg",24 News
 https://www.youtube.com/watch?v=1wECsnGZcfc
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hvXCOzD.jpg",Mathrubhumi News
-https://www.youtube.com/user/TVMathrubhumi/live
+https://www.youtube.com/watch?v=YGEgelAiUf0
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/lXJJBJY.png",Jaihind Tv
-https://www.youtube.com/watch?v=EI2uIhK8BbE/live
+https://www.youtube.com/watch?v=EI2uIhK8BbE
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cFX8iLy.png",News 18 Keralam
 https://www.youtube.com/c/News18Kerala/live
@@ -36,20 +33,20 @@ https://www.youtube.com/@keralavisionnews24x7/live
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BUK9hWL.jpg",REPORTER
 https://www.youtube.com/@reporterlive/live
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oW2v0NQ.png",Shalom TV
-https://www.youtube.com/watch?v=yKIuJMt8fRs/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s2FYfJD.png",Goodness TV
-https://www.youtube.com/@GOODNESSNEWS/live
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1beRi2a.png",POWERVISION TV
 https://www.youtube.com/@powervisiontv/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/broUGMZ.jpg",Youtalk
-https://www.youtube.com/@Youtalklive/live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BZwCogl.png",Shekinah News
 https://www.youtube.com/@globalshekinah/live
 
 #EXTINF:-1 group-title="Music" tvg-logo="",Malayalam Songs
 https://www.youtube.com/watch?v=mGzINGsnwGI/live
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/broUGMZ.jpg",Youtalk
+https://www.youtube.com/@Youtalklive/live
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s2FYfJD.png",Goodness TV
+https://www.youtube.com/@GOODNESSNEWS/live
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg",Raj News Malayalam
+https://www.youtube.com/channel/uXTXHgbV5xo/live
