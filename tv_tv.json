@@ -6,16 +6,14 @@
 			"type": "Malayalam",
 			"key": "Malayalam",
 			"url": [
-				"https://live-iptv.github.io/m3u_validator/malayalam_m3u.m3u",
-				"https://live-iptv.github.io/iptv/malayalam/malayalam_youtube.m3u"
+				"https://live-iptv.github.io/m3u_validator/malayalam_m3u.m3u"
 			]
 		},
 		{
 			"type": "Tamil",
 			"key": "Tamil",
 			"url": [
-				"https://live-iptv.github.io/m3u_validator/tamil_m3u.m3u",
-				"https://live-iptv.github.io/iptv/tamil/tamil_youtube.m3u"
+				"https://live-iptv.github.io/m3u_validator/tamil_m3u.m3u"
 			]
 		},
 		{
