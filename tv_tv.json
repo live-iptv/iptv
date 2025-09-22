@@ -17,12 +17,6 @@
 			]
 		},
 		{
-			"type": "Sony",
-			"url": [
-				"https://live-iptv.github.io/iptv/sony.m3u"
-			]
-		},
-		{
 			"type": "Others",
 			"url": [
 				"https://live-iptv.github.io/iptv/kids.m3u"
