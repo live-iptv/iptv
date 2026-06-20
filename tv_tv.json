@@ -3,6 +3,13 @@
 	"addProps": "show",
 	"menu": [
 		{
+			"type": "2HD",
+			"key": "@HD",
+			"url": [
+				"https://live-iptv.github.io/m3u_validator/test_m3u.m3u.m3u"
+			]
+		},
+		{
 			"type": "Malayalam",
 			"key": "Malayalam",
 			"url": [
