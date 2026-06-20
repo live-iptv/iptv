@@ -4,9 +4,9 @@
 	"menu": [
 		{
 			"type": "2HD",
-			"key": "@HD",
+			"key": "2HD",
 			"url": [
-				"https://live-iptv.github.io/m3u_validator/test_m3u.m3u.m3u"
+				"https://live-iptv.github.io/m3u_validator/test_m3u.m3u"
 			]
 		},
 		{
