@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Iniyan" tvg-logo="https://iniyantv.com/wp-content/uploads/2023/01/512x512.png" group-title="Local",Iniyan TV
 https://cdn.2live.in/iniyanTV/659ba0a9babc4eb3b186b668dc14af3b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://res.cloudinary.com/obyxtser/image/upload/f_auto,q_auto/joshuatv-ott-icon_eahl4y",JOSHUA TV
+http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://res.cloudinary.com/obyxtser/image/upload/f_auto,q_auto/JOSHUA_MUSIC_TV.jpg_tjr7b1",JOSHUA MUSIC
+https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV America
