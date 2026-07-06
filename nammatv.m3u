@@ -5,3 +5,5 @@ https://cdn.2live.in/iniyanTV/659ba0a9babc4eb3b186b668dc14af3b.sdp/playlist.m3u8
 http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://res.cloudinary.com/obyxtser/image/upload/f_auto,q_auto/JOSHUA_MUSIC_TV.jpg_tjr7b1",JOSHUA MUSIC
 https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://res.cloudinary.com/obyxtser/image/upload/v1783319916/mtv_rfpotv.png",M TV
+rtmp://ipcloud.live/mtv/menhd
