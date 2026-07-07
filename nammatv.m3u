@@ -7,3 +7,5 @@ http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8
 https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://res.cloudinary.com/obyxtser/image/upload/v1783319968/mtvlogo_yai0pm.png",M TV
 rtmp://ipcloud.live/mtv/menhd
+#EXTINF:-1 group-title="Local" tvg-logo="",MKP TV
+http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
