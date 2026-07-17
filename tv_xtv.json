@@ -4,7 +4,6 @@
     "appLink": "https://drive.google.com/uc?export=download&id=1_45uWylv7BrLlAnzUYwN3eCnoYvD6zw9",
     "data": [
         "https://live-iptv.github.io/iptv/xxx/live_tv.m3u",
-        "https://live-iptv.github.io/iptv/xxx/videos.m3u",
-        "https://live-iptv.github.io/m3u_validator/xxx_m3u.m3u"
+        "https://live-iptv.github.io/iptv/xxx/videos.m3u"
     ]
 }
